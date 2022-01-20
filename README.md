@@ -1,6 +1,7 @@
-### Hello World.
-<br />
-<br />
+## Hello World. 👋 
+
+[![Website](https://img.shields.io/website?label=www.diegoluisi.eti.br&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://www.diegoluisi.eti.br)
+[![Twitter Follow](https://img.shields.io/twitter/follow/diegoluisi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdiegoluisi&screen_name=diegoluisi)
 
 #### 🤖 Hi, my name is Diego Luisi. I'm SRE!   
 #### 👨🏼‍💻 Enthusiast of the DevOps culture and passionate about Open Source, I have a 20-year background as a SysAdmin, currently working as an SRE, open to learn new technologies and procedures to improve each day more as a professional. 
@@ -22,3 +23,11 @@
 
 #### 📄 Curriculum:
 ##### [🇧🇷](https://github.com/diegoluisi/personal/blob/master/Diego_Luisi_BR.md)[🇺🇸](https://github.com/diegoluisi/personal/blob/master/Diego_Luisi_EN.md)
+
+
+
+[website]: http://www.diegoluisi.eti.br
+[twitter]: https://twitter.com/diegoluisi
+[youtube]: https://youtube.com/diegoluisi
+[instagram]: https://instagram.com/diegoluisi
+[linkedin]: https://linkedin.com/in/diegoluisi
