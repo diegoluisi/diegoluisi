@@ -44,6 +44,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Bacula Client Install Windows 2008 R2 X64 @diegoluisi](https://www.youtube.com/watch?v=XYr9QrrrEZ8)
+- [Instalação Ocomon no CentoOS.mp4](https://www.youtube.com/watch?v=rXk6NDRi3hk)
+- [Instalação CentOS 5.4 em modo texto](https://www.youtube.com/watch?v=ik7WDrOYwPw)
+- [Instalando o Webmin no CentOS 5.4](https://www.youtube.com/watch?v=f7CmTPP0FcA)
+- [Instalação CentOS 5.4](https://www.youtube.com/watch?v=004SQHTg54g)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.diegoluisi.eti.br
