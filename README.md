@@ -1,6 +1,6 @@
 ## Hello World. 👋 
 
-[![Website](https://img.shields.io/website?label=www.diegoluisi.eti.br&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://www.diegoluisi.eti.br)
+[![Website](https://img.shields.io/website?label=www.diegoluisi.eti.br&style=for-the-badge&url=https%3A%2F%2Fdiegoluisi.com)](http://www.diegoluisi.eti.br)
 [![Twitter Follow](https://img.shields.io/twitter/follow/diegoluisi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdiegoluisi&screen_name=diegoluisi)
 
 #### 🤖 Hi, my name is Diego Luisi. I'm SRE!   
@@ -14,11 +14,15 @@
 <br />
 <br />
 
-#### Follow me:
-[![Twitter Badge](https://img.shields.io/twitter/follow/diegoluisi?color=%234fffff&label=%40diegoluisi&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/diegoluisi)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoluisi)
-[![Gitlab Badge](https://img.shields.io/badge/gitlab--%2300EBEB?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/diegoluisi)
-<br />
+### Connect with me:
+
+[<img align="left" alt="diegoluisi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="diegoluisi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="diegoluisi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="diegoluisi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="diegoluisi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 <br />
 
 #### 📄 Curriculum:
