@@ -1,14 +1,16 @@
-### 👋 Hello World, I'm Diego Luisi [diegoluisi][website]
+### 👋 Hello World.., I'm Diego Luisi [diegoluisi][website]
 
 
 [![Website](https://img.shields.io/website?label=diegoluisi.eti.br&style=for-the-badge&url=http%3A%2F%2Fwww.diegoluisi.eti.br)](http://www.diegoluisi.eti.br)
 [![Twitter Follow](https://img.shields.io/twitter/follow/diegoluisi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdiegoluisi&screen_name=diegoluisi)
 
-## 🤖 Hi, my name is Diego Luisi. I'm SRE!
+## 🤖 My name is Diego Luisi. I'm SRE!
 
 -  👨🏼‍💻 Enthusiast of the DevOps culture and passionate about Open Source, I have a 20-year background as a SysAdmin, currently working as an SRE, open to learn new technologies and procedures to improve each day more as a professional. 
 - 📚 I’m currently learning AWS, K8S, Python, and some automations tools.
+- 🌱 Goals in 2022: Immigrate to another country, increase my programming skills
 - ⚡ Fun fact: I'm a Magic player, watch collector and Harley Davidson fan
+
 
 <br />
 
