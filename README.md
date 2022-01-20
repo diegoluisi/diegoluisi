@@ -64,6 +64,14 @@
 - [Instalação CentOS 5.4](https://www.youtube.com/watch?v=004SQHTg54g)
 <!-- YOUTUBE:END -->
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 [website]: http://www.diegoluisi.eti.br
 [twitter]: https://twitter.com/diegoluisi
 [youtube]: https://youtube.com/diegoluisi
