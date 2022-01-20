@@ -26,9 +26,13 @@
 #### 📄 Curriculum:
 ##### [🇧🇷](https://github.com/diegoluisi/personal/blob/master/Diego_Luisi_BR.md)[🇺🇸](https://github.com/diegoluisi/personal/blob/master/Diego_Luisi_EN.md)
 
-# Blog posts
+### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 [website]: http://www.diegoluisi.eti.br
 [twitter]: https://twitter.com/diegoluisi
