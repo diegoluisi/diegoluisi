@@ -38,7 +38,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Puppet" width="26px" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/puppet.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/python.svg" />
-<img align="left" alt="Apache" width="26px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/apache.svg" />
+
 
 
 <br />
