@@ -1,18 +1,12 @@
-## Hello World. 👋 
+### 👋 Hello World, I'm Diego Luisi [diegoluisi][website]
 
 [![Website](https://img.shields.io/website?label=www.diegoluisi.eti.br&style=for-the-badge&url=https%3A%2F%2Fdiegoluisi.com)](http://www.diegoluisi.eti.br)
 [![Twitter Follow](https://img.shields.io/twitter/follow/diegoluisi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdiegoluisi&screen_name=diegoluisi)
 
-#### 🤖 Hi, my name is Diego Luisi. I'm SRE!   
-#### 👨🏼‍💻 Enthusiast of the DevOps culture and passionate about Open Source, I have a 20-year background as a SysAdmin, currently working as an SRE, open to learn new technologies and procedures to improve each day more as a professional. 
-#### 📚 I’m currently learning AWS, K8S, Python, and some automations tools.
-<br />
-<br />
-
-#### 🚀 Skills:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<br />
-<br />
+## 🤖 Hi, my name is Diego Luisi. I'm SRE!   
+-  👨🏼‍💻 Enthusiast of the DevOps culture and passionate about Open Source, I have a 20-year background as a SysAdmin, currently working as an SRE, open to learn new technologies and procedures to improve each day more as a professional. 
+- 📚 I’m currently learning AWS, K8S, Python, and some automations tools.
+- ⚡ Fun fact: I'm a Magic player, watch collector and Harley Davidson fan
 
 ### Connect with me:
 
@@ -21,8 +15,12 @@
 [<img align="left" alt="diegoluisi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="diegoluisi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="diegoluisi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
 
 
+### 🚀 Skills:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+<br />
 <br />
 
 #### 📄 Curriculum:
