@@ -44,7 +44,6 @@
 
 
 
-
 <br />
 <br />
 
@@ -72,7 +71,7 @@
 <!-- YOUTUBE:END -->
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#644](https://github.com/voxpupuli/puppet-php/issues/644) in [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php)
