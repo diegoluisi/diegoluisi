@@ -40,6 +40,7 @@
 
 <br />
 
+
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Zabbix Monitoring  Meltdown and Spectre Vulnerability](http://www.diegoluisi.eti.br/2022/01/23/zabbix-monitoring-meltdown-and-spectre-vulnerability/)
@@ -58,10 +59,17 @@
 - [Instalação CentOS 5.4](https://www.youtube.com/watch?v=004SQHTg54g)
 <!-- YOUTUBE:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoluisi&show_icons=true&locale=en&layout=compact" alt="alanyoshida" /></p>
+<br />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoluisi&show_icons=true&locale=en&layout=compact" alt="diegoluisi" /></p>   
+
+<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegoluisi&show_icons=true&locale=en" alt="diegoluisi" /></p>
 <hr />
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegoluisi" alt="diegoluisi" /></a> </p>
 
 <details>
