@@ -57,11 +57,7 @@
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zabbix Monitoring  Meltdown and Spectre Vulnerability](https://www.diegoluisi.eti.br/2022/01/23/zabbix-monitoring-meltdown-and-spectre-vulnerability/)
-- [How to deploy a local  cluster of Kubernetes with Virtualbox and Vagrant](https://www.diegoluisi.eti.br/2022/01/23/how-to-deploy-a-local-cluster-of-kubernetes-with-virtualbox-and-vagrant/)
-- [How to deploy WordPress and MySQL on Kubernetes in AWS](https://www.diegoluisi.eti.br/2022/01/17/how-to-deploy-wordpress-and-mysql-on-kubernetes-in-aws/)
-- [Run Puppet Master and Agent on local machine with Vagrant](https://www.diegoluisi.eti.br/2022/01/14/puppet-master-and-agent-vagrant/)
-- [Zabbix Monitoring Meltdown and Spectre Vulnerability](https://www.diegoluisi.eti.br/2018/01/05/zabbix-monitoring-meltdown-spectre-vulnerability/)
+- [Hello world!](https://www.diegoluisi.eti.br/2022/01/28/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
