@@ -84,7 +84,7 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#644](https://github.com/voxpupuli/puppet-php/issues/644) in [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php)
+1. 🎉 Merged PR [#3](https://github.com/diegoluisi/argo/pull/3) in [diegoluisi/argo](https://github.com/diegoluisi/argo)
 <!--END_SECTION:activity-->
 
 </details>
