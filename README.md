@@ -57,11 +57,11 @@
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy local Kubernetes cluster  with Vagrant and Anasible for Development](https://www.diegoluisi.eti.br/2022/01/31/deploy-local-kubernetes-cluster-with-vagrant-and-anasible-for-development/)
+- [Run Puppet Master and Agent with Vagrant for Development](https://www.diegoluisi.eti.br/2022/01/31/run-puppet-master-and-agent-with-vagrant-for-development/)
 - [Zabbix Monitoring Meltdown and Spectre Vulnerability](https://www.diegoluisi.eti.br/2018/01/05/zabbix-monitoring-meltdown-spectre-vulnerability/)
 - [How to scan your network to detect ms2017-010](https://www.diegoluisi.eti.br/2017/05/17/scan-network-detect-ms2017-010/)
 - [Rundeck – How to add Windows node](https://www.diegoluisi.eti.br/2015/06/17/rundeck-how-to-add-windows-node/)
-- [Rundeck notification from email](https://www.diegoluisi.eti.br/2015/06/11/rundeck-notification-from-email/)
-- [Rundeck  – Shell Script Backup Sonicwall](https://www.diegoluisi.eti.br/2015/06/11/rundeck-shell-script-backup-sonicwall/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
