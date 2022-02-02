@@ -57,11 +57,11 @@
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zabbix Monitoring  Meltdown and Spectre Vulnerability](http://www.diegoluisi.eti.br/2022/01/23/zabbix-monitoring-meltdown-and-spectre-vulnerability/)
-- [How to deploy a local  cluster of Kubernetes with Virtualbox and Vagrant](http://www.diegoluisi.eti.br/2022/01/23/how-to-deploy-a-local-cluster-of-kubernetes-with-virtualbox-and-vagrant/)
-- [How to deploy WordPress and MySQL on Kubernetes in AWS](http://www.diegoluisi.eti.br/2022/01/17/how-to-deploy-wordpress-and-mysql-on-kubernetes-in-aws/)
-- [Run Puppet Master and Agent on local machine with Vagrant](http://www.diegoluisi.eti.br/2022/01/14/puppet-master-and-agent-vagrant/)
-- [Zabbix Monitoring Meltdown and Spectre Vulnerability](http://www.diegoluisi.eti.br/2018/01/05/zabbix-monitoring-meltdown-spectre-vulnerability/)
+- [Deploy local Kubernetes cluster  with Vagrant and Anasible for Development](https://www.diegoluisi.eti.br/2022/01/31/deploy-local-kubernetes-cluster-with-vagrant-and-anasible-for-development/)
+- [Run Puppet Master and Agent with Vagrant for Development](https://www.diegoluisi.eti.br/2022/01/31/run-puppet-master-and-agent-with-vagrant-for-development/)
+- [Zabbix Monitoring Meltdown and Spectre Vulnerability](https://www.diegoluisi.eti.br/2018/01/05/zabbix-monitoring-meltdown-spectre-vulnerability/)
+- [How to scan your network to detect ms2017-010](https://www.diegoluisi.eti.br/2017/05/17/scan-network-detect-ms2017-010/)
+- [Rundeck – How to add Windows node](https://www.diegoluisi.eti.br/2015/06/17/rundeck-how-to-add-windows-node/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
@@ -88,7 +88,7 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#644](https://github.com/voxpupuli/puppet-php/issues/644) in [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php)
+1. 🎉 Merged PR [#3](https://github.com/diegoluisi/argo/pull/3) in [diegoluisi/argo](https://github.com/diegoluisi/argo)
 <!--END_SECTION:activity-->
 
 </details>
