@@ -6,7 +6,7 @@
 
 ## 🤖 My name is Diego Luisi. I'm SRE!
 
--  👨🏼‍💻 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, with 20 years of experience as a SysAdmin, currently working as an SRE, always open to learning new technologies and procedures to improve every day more as a professional.
+- 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, with 20 years of experience as a SysAdmin, currently working as an SRE, always open to learning new technologies and procedures to improve every day more as a professional.
 - 📚 I’m currently learning AWS, K8S, Python, and some automations tools Argo (CD, Autopilot, Events, Rollouts and Workflows).
 - 🌱 Goals in 2022: Immigrate to another country, increase my programming skills
 - ⚡ Fun fact: I'm a Magic player, watch collector and Harley Davidson fan
