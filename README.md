@@ -6,8 +6,8 @@
 
 ## 🤖 My name is Diego Luisi. I'm SRE!
 
--  👨🏼‍💻 Enthusiast of the DevOps culture and passionate about Open Source, I have a 20-year background as a SysAdmin, currently working as an SRE, open to learn new technologies and procedures to improve each day more as a professional. 
-- 📚 I’m currently learning AWS, K8S, Python, and some automations tools.
+-  👨🏼‍💻 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, with 20 years of experience as a SysAdmin, currently working as an SRE, always open to learning new technologies and procedures to improve every day more as a professional.
+- 📚 I’m currently learning AWS, K8S, Python, and some automations tools Argo (CD, Autopilot, Events, Rollouts and Workflows).
 - 🌱 Goals in 2022: Immigrate to another country, increase my programming skills
 - ⚡ Fun fact: I'm a Magic player, watch collector and Harley Davidson fan
 
@@ -25,7 +25,7 @@
 <br />
 <br />
 
-### 🚀 Languages and Tools:
+### 🥷🏻 Languages and Tools:
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -45,9 +45,9 @@
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 
 
+<br />
+<br />
 
-<br />
-<br />
 
 ### 📄 Curriculum:
 [🇧🇷](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_BR.md)[🇺🇸](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_EN.md)
