@@ -88,7 +88,7 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/diegoluisi/argo/pull/3) in [diegoluisi/argo](https://github.com/diegoluisi/argo)
+1. 🗣 Commented on [#1619](https://github.com/argoproj/argo-rollouts/issues/1619) in [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts)
 <!--END_SECTION:activity-->
 
 </details>
