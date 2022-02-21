@@ -1,4 +1,4 @@
-### 👋 Hello World.., I'm Diego Luisi [diegoluisi][website]
+### 👋 Hello World.., I'm @diegoluisi
 
 
 [![Website](https://img.shields.io/website?label=diegoluisi.eti.br&style=for-the-badge&url=http%3A%2F%2Fwww.diegoluisi.eti.br)](http://www.diegoluisi.eti.br)
@@ -7,14 +7,15 @@
 ## 🤖 My name is Diego Luisi. I'm SRE!
 
 - 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, with 20 years of experience as a SysAdmin, currently working as an SRE, always open to learning new technologies and procedures to improve every day more as a professional.
-- 📚 I’m currently learning AWS, K8S, Python, and some automations tools Argo (CD, Autopilot, Events, Rollouts and Workflows).
-- 🌱 Goals in 2022: Immigrate to another country, increase my programming skills
-- ⚡ Fun fact: I'm a Magic player, watch collector and Harley Davidson fan
+- 👀 I’m interested in Open Source projects (Linux, Kubernetes, GitOps and Tools)
+- 📚 I’m currently learning AWS, K8S, Python, and some automations tools like Argo (CD, Autopilot, Events, Rollouts and Workflows).
+- 🌱 Goals: Immigrate to another country, increase my programming skills
+- ⚡ I love a good coffee and the old Rock and Roll, on the weekends taking some highways with my Harley Davidson.
 
 
 <br />
 
-### 🔔 Connect with me:
+### 📫 How to reach me
 
 [<img align="left" alt="diegoluisi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="diegoluisi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -25,7 +26,7 @@
 <br />
 <br />
 
-### 🥷🏻 Languages and Tools:
+### 🥷🏻 Languages and Tools
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -49,7 +50,7 @@
 <br />
 
 
-### 📄 Curriculum:
+### 📄 Curriculum
 [🇧🇷](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_BR.md)[🇺🇸](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_EN.md)
 
 <br />
