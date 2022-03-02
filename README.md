@@ -58,7 +58,7 @@
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Develop and Deploy cloud-native software faster with DevSpace em K3D](https://www.diegoluisi.eti.br/2022/03/01/develop-and-deploy-cloud-native-software-faster-with-devspace-em-k3d/)
+- [Develop and Deploy cloud-native software faster with DevSpace and K3D](https://www.diegoluisi.eti.br/2022/03/01/develop-and-deploy-cloud-native-software-faster-with-devspace-em-k3d/)
 - [Deploy local Kubernetes cluster  with Vagrant and Anasible for Development](https://www.diegoluisi.eti.br/2022/01/31/deploy-local-kubernetes-cluster-with-vagrant-and-anasible-for-development/)
 - [Run Puppet Master and Agent with Vagrant for Development](https://www.diegoluisi.eti.br/2022/01/31/run-puppet-master-and-agent-with-vagrant-for-development/)
 - [Zabbix Monitoring Meltdown and Spectre Vulnerability](https://www.diegoluisi.eti.br/2018/01/05/zabbix-monitoring-meltdown-spectre-vulnerability/)
