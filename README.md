@@ -89,7 +89,7 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1619](https://github.com/argoproj/argo-rollouts/issues/1619) in [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts)
+1. 🗣 Commented on [#9](https://github.com/diegoluisi/hello-gitops/issues/9) in [diegoluisi/hello-gitops](https://github.com/diegoluisi/hello-gitops)
 <!--END_SECTION:activity-->
 
 </details>
