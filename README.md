@@ -89,7 +89,7 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/diegoluisi/hello-gitops/issues/9) in [diegoluisi/hello-gitops](https://github.com/diegoluisi/hello-gitops)
+1. 🎉 Merged PR [#13](https://github.com/diegoluisi/hello-gitops/pull/13) in [diegoluisi/hello-gitops](https://github.com/diegoluisi/hello-gitops)
 <!--END_SECTION:activity-->
 
 </details>
