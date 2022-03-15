@@ -34,7 +34,6 @@
 <br />
 <br />
 
-
 ### 🥷🏻 Languages and Tools
 <br />
 
@@ -57,7 +56,7 @@
 
 <br />
 <br />
-<br />s
+<br />
 <br />
 
 ### 📄 Curriculum
