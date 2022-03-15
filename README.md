@@ -26,7 +26,17 @@
 <br />
 <br />
 
+### 🎖️ Badges
+
+<img align="left" alt="GitOps" width="48px" src="https://lwfiles.mycourse.app/codefresh-public/0833ce0a2b1436c50f6e3e29384175c2.png" />
+
+<br />
+<br />
+<br />
+
+
 ### 🥷🏻 Languages and Tools
+<br />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -43,12 +53,12 @@
 <img align="left" alt="ArgoCD" width="20px" src="https://landscape.cncf.io/logos/argo.svg" />
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 <img align="left" alt="Puppet" width="26px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/puppet.svg" />
-<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-
+<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" /> 
 
 <br />
 <br />
-
+<br />s
+<br />
 
 ### 📄 Curriculum
 [🇧🇷](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_BR.md)[🇺🇸](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_EN.md)
