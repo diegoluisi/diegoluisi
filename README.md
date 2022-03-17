@@ -24,7 +24,16 @@
 <br />
 <br />
 
+### 🎖️ Badges
+
+<img align="left" alt="GitOps" width="48px" src="https://lwfiles.mycourse.app/codefresh-public/0833ce0a2b1436c50f6e3e29384175c2.png" />
+
+<br />
+<br />
+<br />
+
 ### 🥷🏻 Languages and Tools
+<br />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -41,12 +50,12 @@
 <img align="left" alt="ArgoCD" width="20px" src="https://landscape.cncf.io/logos/argo.svg" />
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 <img align="left" alt="Puppet" width="26px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/puppet.svg" />
-<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-
+<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" /> 
 
 <br />
 <br />
-
+<br />
+<br />
 
 ### 📄 Curriculum
 [🇧🇷](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_BR.md)[🇺🇸](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_EN.md)
@@ -56,11 +65,11 @@
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploy local Kubernetes cluster  with Vagrant and Anasible for Development](https://www.diegoluisi.eti.br/2022/01/31/deploy-local-kubernetes-cluster-with-vagrant-and-anasible-for-development/)
+- [Develop and Deploy cloud-native software faster with DevSpace and K3D](https://www.diegoluisi.eti.br/2022/03/01/develop-and-deploy-cloud-native-software-faster-with-devspace-em-k3d/)
+- [Deploy Kubernetes cluster  with Vagrant and Ansible for Development](https://www.diegoluisi.eti.br/2022/01/31/deploy-local-kubernetes-cluster-with-vagrant-and-anasible-for-development/)
 - [Run Puppet Master and Agent with Vagrant for Development](https://www.diegoluisi.eti.br/2022/01/31/run-puppet-master-and-agent-with-vagrant-for-development/)
 - [Zabbix Monitoring Meltdown and Spectre Vulnerability](https://www.diegoluisi.eti.br/2018/01/05/zabbix-monitoring-meltdown-spectre-vulnerability/)
 - [How to scan your network to detect ms2017-010](https://www.diegoluisi.eti.br/2017/05/17/scan-network-detect-ms2017-010/)
-- [Rundeck – How to add Windows node](https://www.diegoluisi.eti.br/2015/06/17/rundeck-how-to-add-windows-node/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
@@ -87,7 +96,7 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1619](https://github.com/argoproj/argo-rollouts/issues/1619) in [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts)
+1. 🎉 Merged PR [#13](https://github.com/diegoluisi/hello-gitops/pull/13) in [diegoluisi/hello-gitops](https://github.com/diegoluisi/hello-gitops)
 <!--END_SECTION:activity-->
 
 </details>
