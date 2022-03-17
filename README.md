@@ -1,16 +1,14 @@
-### 👋 Hello World.., I'm @diegoluisi
-
-
 [![Website](https://img.shields.io/website?label=diegoluisi.eti.br&style=for-the-badge&url=http%3A%2F%2Fwww.diegoluisi.eti.br)](http://www.diegoluisi.eti.br)
 [![Twitter Follow](https://img.shields.io/twitter/follow/diegoluisi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdiegoluisi&screen_name=diegoluisi)
 
-## 🤖 My name is Diego Luisi. I'm SRE!
+## Hello World.. 👋
+### My name is Diego Luisi. I'm SRE! 🤖
 
 - 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, with 20 years of experience as a SysAdmin, currently working as an SRE, always open to learning new technologies and procedures to improve every day more as a professional.
-- 👀 I’m interested in Open Source projects (Linux, Kubernetes, GitOps and Tools)
+- 👀 I’m interested in Open Source projects (Linux, CNCF, GitOps and Tools)
 - 📚 I’m currently learning AWS, K8S, Python, and some automations tools like Argo (CD, Autopilot, Events, Rollouts and Workflows).
 - 🌱 Goals: Immigrate to another country, increase my programming skills
-- ⚡ I love a good coffee and the old Rock and Roll, on the weekends taking some highways with my Harley Davidson.
+- 💞 I love a good coffee and the old Rock and Roll, on the weekends taking some highways with my Harley Davidson.
 
 
 <br />

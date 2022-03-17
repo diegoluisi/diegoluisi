@@ -35,12 +35,14 @@
   - Conversação – intermediário
   
 ## Certificações:
+- GitOps Fundamentals
 - Scrum Fundamentals Certified
 - SonicWALL Network Security Basic Administration (CSSA)
 - SonicWALL Network Security Advanced Administration (CSSP)
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
 ## Cursos e Seminários:
+- [codefresh] GitOps Fundamentals
 - Developing on AWS (AWS SDK, IAM, S3, DynamoDB, SNS, SQS, Lambda, Cognito)
 - [DO180] Introduction to Containers, Kubernetes, and Red Hat OpenShift
 - [526] DevOps Master (24 horas)
@@ -210,13 +212,15 @@
 - Windows Server/Hyper-V (2000, 2003, 2008, 2012)
   - AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS
 
-### Open Source Tools:
+### Tooling:
+- APM:
+  - New Relic e Instana.
 - AntiSpam:
   - Xeams, Sophos, SpamAssassin.
 - Cache:
   - Redis, MemCached.
 - CI/CD:
-  - Bamboo, Jenkins, CircleCI, CodeDeploy, Travis.
+  - ArgoCD, Bamboo, CircleCI, CodeDeploy, GitHub Actions, Jenkins and Travis.
 - Configuration Management:
   - Ansible, Chef, Puppet, PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt, Terraform e Salt.
 - Containers:
@@ -236,7 +240,7 @@
 - Middlewares:
   - Apache, JBoss, Nginx, Tomcat, Weblogic.
 - Monitoring :
-  - Nagios, Oracle Enterprise Manager (OEM12) e Zabbix.
+  - Prometheus, Nagios, Oracle Enterprise Manager (OEM12) e Zabbix.
 - Open-Source System Management:
   - Spacewalk, SuSE-Manager, Satellite.
 - Proxy Server:
@@ -249,8 +253,24 @@
 ### Cloud:
 - OpenStack.
 - Amazon Web Services (AWS).
-  - ALB, ASG, DynamoDB, EBS, ECS, EC2, EKS, GLACIER, LAMBDA, RDS, R53, SQS, SNS, S3. 
+  - ACM, ALB, ASG, Athena, Cloud Formation, Cloud Front, Code Deploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, GLACIER, IAM, KMS, LAMBDA, RDS, R53, SNS, SQS, S3 e VPC. 
 - Google Cloud Platform (GCP).
+
+### Containers:
+- Kubernetes
+  - Cluster Management
+    - Cert Manager, Sealed Secrets, Vault
+  - CI/CD integration Tools
+    - ArgoCD AutoPilot, ArgoCD, Argo Events, Argo Workflows and Argo Rollouts
+  - Logging and Tracing
+    - Kiali, ELK, FluentBit
+  - Kustomize, Helm 
+  - Service Mesh
+    - Istio, NGINX Ingress Controller e Traefik
+  - Alert and Monitoring
+    - Prometheus, Grafana
+  - Network Policies
+    - Calico
 
 ### Virtualization:
 - VMWare.
