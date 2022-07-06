@@ -27,6 +27,10 @@
 ### 🎖️ Badges
 
 <img align="left" alt="GitOps" width="48px" src="https://lwfiles.mycourse.app/codefresh-public/0833ce0a2b1436c50f6e3e29384175c2.png" />
+<a href="https://www.credly.com/badges/b266410f-2087-4e62-a253-aeb5b7bb6673/twitter" target="_blank" rel="noreferrer"> 
+    <img src="images\Solo_Workshop_Badge_050521_v5.png" alt="istio workshop" width="120" height="120"/> </a> 
+<a href="https://www.credly.com/badges/6872d671-113c-4cea-98a6-ec7c3469aab4/twitter" target="_blank" rel="noreferrer"> 
+    <img src="images\Solo_Workshop_Basics_Badge_061621_v4.png" alt="istio workshop" width="120" height="120"/> </a>
 
 <br />
 <br />
