@@ -76,11 +76,11 @@
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating your first developer portal using Backstage.](https://www.diegoluisi.eti.br/2022/06/26/creating-your-first-developer-portal-using-backstage/)
+- [IDP – Backstage + Crossplane + ArgoCD](https://www.diegoluisi.eti.br/2022/05/31/idp-backstage-crossplane-argocd/)
 - [Develop and Deploy cloud-native software faster with DevSpace and K3D](https://www.diegoluisi.eti.br/2022/03/01/develop-and-deploy-cloud-native-software-faster-with-devspace-em-k3d/)
 - [Deploy Kubernetes cluster  with Vagrant and Ansible for Development](https://www.diegoluisi.eti.br/2022/01/31/deploy-local-kubernetes-cluster-with-vagrant-and-anasible-for-development/)
 - [Run Puppet Master and Agent with Vagrant for Development](https://www.diegoluisi.eti.br/2022/01/31/run-puppet-master-and-agent-with-vagrant-for-development/)
-- [Zabbix Monitoring Meltdown and Spectre Vulnerability](https://www.diegoluisi.eti.br/2018/01/05/zabbix-monitoring-meltdown-spectre-vulnerability/)
-- [How to scan your network to detect ms2017-010](https://www.diegoluisi.eti.br/2017/05/17/scan-network-detect-ms2017-010/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
