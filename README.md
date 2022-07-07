@@ -48,7 +48,7 @@
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="AWS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" />
 
 <img align="left" alt="GCP" width="32px" src="https://w7.pngwing.com/pngs/312/107/png-transparent-google-cloud-platform-cloud-computing-google-search-cloud-computing-angle-rectangle-cloud.png" />
 
@@ -83,6 +83,7 @@
 <img align="left" alt="Terragrunt" width="32px" src="https://assets-global.website-files.com/5ceab5395d0f478e169de7c0/624c7fa12617224fc962dbc1_451c24614aece67849fd62d0432d77ecd00735c6.png" />  
 
 <img align="left" alt="Crossplane" width="32px" src="https://cncf-branding.netlify.app/img/projects/crossplane/icon/color/crossplane-icon-color.png" /> 
+
 <img align="left" alt="Backstage" width="32px" src="https://backstage.io/logo_assets/svg/Icon_Teal.svg" /> 
 
 <img align="left" alt="Prometheus" width="32px" src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.png" /> 
@@ -99,13 +100,10 @@
 
 <img align="left" alt="Sealed Secrets" width="32px" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/sealed-secrets/img/sealed-secrets-stack-220x234.png" />
 
-<img align="left" alt="GitOps" width="32px" src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1610895119256-VB0B89JBCM0A63YUC1CM/what-is-gitops-xenonstack.png?format=300w" />
+<img align="left" alt="GitOps" width="32px" src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1610895119256-VB0B89JBCM0A63YUC1CM/what-is-gitops-xenonstack.png?format=300w" />  
 
-
-<br />
-<br />
-<br />
-<br />
+<br/>
+<br/>
 
 ### 📄 Curriculum
 
