@@ -1,36 +1,38 @@
 # 
-## Dados Pessoais:
+
+## Dados Pessoais
 
 - Diego Fernando Luisi
-  - Brasileiro, Solteiro
-  - Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
+  - Brasileiro, Casado
+  - Rua Guilherme Gomes Fernandes, 5A - Amadora/Lisbon - Portugal
   - Data de Nascimento: 12 de fevereiro de 1986
-  - :calling: +55 (11) 94464-0434
+  - :calling: +351 910910296
   - :penguin: LPI000249557
   - :envelope_with_arrow: contato@diegoluisi.eti.br
-  - :globe_with_meridians: http://www.diegoluisi.eti.br
+  - :globe_with_meridians: <http://www.diegoluisi.eti.br>
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/diegoluisi)
   - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/diegoluisi/)
 
-## Resumo das qualificações:
+## Resumo das qualificações
 
 - Entusiasta da cultura DevOps e apaixonado por Open Source, tenho 20 anos de background como SysAdmin, atualmente trabalho como SRE, aberto para aprender novas tecnologias e procedimentos para melhorar a cada dia mais como profissional.
 
-## Expectativas Profissionais:
+## Expectativas Profissionais
+
 - Prover soluções resilientes de maneira ágil, que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que agreguem valores e as tornem mais competitivas.
 
-## Formação Acadêmica:
+## Formação Acadêmica
 
 - Universidade Nove de Julho (Uninove)
   - Tecnologia em Redes de Computadores
   - São Paulo–SP
-  - Período: 2017 
+  - Período: 2017
 - Universidade do Oeste Paulista (Unoeste)
   - Sistemas de Informação
   - Pres. Prudente – SP
   - Período:  2004 a 2007 (incompleto)
 
-## Idiomas:
+## Idiomas
 
 - Inglês
   - Leitura / Escrita – Avançado
@@ -39,7 +41,7 @@
   - Leitura / Escrita – Básico
   - Conversação – intermediário
   
-## Certificações:
+## Certificações
 
 - GitOps Fundamentals
 - Scrum Fundamentals Certified
@@ -47,7 +49,7 @@
 - SonicWALL Network Security Advanced Administration (CSSP)
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
-## Treinamentos e Workshops:
+## Treinamentos e Workshops
 
 - [solo.io] Deploy Istio for Production
 - [solo.io] Get Started with Istio
@@ -75,7 +77,7 @@
 - NGINX – Servidores Web de Alta Performance (3 horas)
 - Mysql – Gerenciamento de Banco de Dados (3 horas)
 
-## Experiências Profissional:
+## Experiências Profissional
 
 ### Evolution
 
@@ -126,7 +128,7 @@
 - 10/2017 - 08/2019
 - Seguimento: e-commerce
 - Projetos:
-  - Infra as Code: 
+  - Infra as Code:
     - Tecnologias: Puppet, R10k, Puppet-Bolt, Git, Vagrant, AWS, Terraform, Kubernetes, Rundeck.
   - Monitoring:
     - Tecnologias: Zabbix, Grafana, InfluxDB, Metricbeat, Filebeat, Kibana, CloudWatch.
@@ -236,18 +238,18 @@
 - Funções Exercidas:
   - Suporte, Projeto, Instalação e Manutenção em Servidores e Rede.
 
+## Conhecimentos específicos
 
-## Conhecimentos específicos:
-### Operation System:
+### Operation System
 
 - Linux/Unix (Red Hat, SuSE, Debian, CoreOS, HP-UX e IBM-AIX)
 
-### Microsoft:
+### Microsoft
 
 - Windows Server/Hyper-V (2000, 2003, 2008, 2012)
   - AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS
 
-### Tooling:
+### Tooling
 
 - APM:
   - New Relic e Instana.
@@ -286,18 +288,18 @@
 - Voip Server:
   - Asterix, Elastix.
 
-### Cloud:
+### Cloud
 
 - OpenStack.
 - Amazon Web Services (AWS).
-  - ACM, ALB, ASG, Athena, Cloud Formation, Cloud Front, Code Deploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, GLACIER, IAM, KMS, LAMBDA, RDS, R53, SNS, SQS, S3 e VPC. 
+  - ACM, ALB, ASG, Athena, Cloud Formation, Cloud Front, Code Deploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, GLACIER, IAM, KMS, LAMBDA, RDS, R53, SNS, SQS, S3 e VPC.
 - Google Cloud Platform (GCP).
 
-### The Cloud Native Computing Foundation (CNCF):
+### The Cloud Native Computing Foundation (CNCF)
 
 - Kubernetes
   - Application Definition & Image Build
-    - Backstage, Kustomize e Helm 
+    - Backstage, Kustomize e Helm
   - Secret Management
     - Cert Manager, Bitnami Sealed Secrets, Hashicorp Vault
   - Continuous Integration & Delivery:
@@ -313,26 +315,26 @@
   - Service Mesh
     - Istio
 
-### Virtualization:
+### Virtualization
 
 - VMWare.
 - ProxMox.
 - Hyper-V.
 - KVM.
 
-### Unified Threat Management (UTM ):
+### Unified Threat Management (UTM )
 
 - Sonicwall (CSSA e CSSP)
 - Cisco
 - Juniper
 - Netscaler
 
-### Data Storage:
+### Data Storage
 
 - HP 3Par
 - IBM V7000
 
-### Metodologias/Frameworks:
+### Metodologias/Frameworks
 
 - ITIL
 - Ágil
