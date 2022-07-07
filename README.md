@@ -40,6 +40,12 @@
 
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<img align="left" alt="GitLab" width="32px" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/gitlab-runner/img/gitlab-runner-stack-220x234.png" />
+
+<img align="left" alt="CircleCI" width="32px" src="https://mpng.subpng.com/20180907/pyg/kisspng-computer-icons-gitlab-scalable-vector-graphics-ci-circleci-logo-svg-vector-amp-png-transparent-v-5b92b5229299d3.9570815315363412826005.jpg" />
+
+
+
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/python.svg" />
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
