@@ -50,7 +50,7 @@
 
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Vim" width="32px" src="https://download.logo.wine/logo/Vim_(text_editor)/Vim_(text_editor)-Logo.wine.png" />
+<img align="left" alt="Vim" width="32px" src="https://img2.gratispng.com/20181211/wez/kisspng-vim-text-editor-unix-linux-5c0f76fc794c21.0370307015445173724968.jpg" />
 
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
@@ -74,12 +74,21 @@
 
 <img align="left" alt="Crossplane" width="32px" src="https://cncf-branding.netlify.app/img/projects/crossplane/icon/color/crossplane-icon-color.png" /> 
 <img align="left" alt="Backstage" width="32px" src="https://backstage.io/logo_assets/svg/Icon_Teal.svg" /> 
+
 <img align="left" alt="Prometheus" width="32px" src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.png" /> 
+
 <img align="left" alt="Grafana" width="32px" src="https://seeklogo.com/images/G/grafana-logo-15BA0AFA8A-seeklogo.com.png" /> 
+
 <img align="left" alt="Loki" width="32px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_200,h_200/https://api.charmhub.io/api/v1/media/download/charm_VpRGTlLZZh1ON756aodclPgvrXBZHrCN_icon_94116c13f30075da6fb24e8e76ddf8d81abb146842d90934fb4aa10dc48d7101.png" /> 
+
+<img align="left" alt="Alertmanager" width="32px" src="https://devopy.io/wp-content/uploads/2019/02/bell_260.svg" /> 
+
 <img align="left" alt="Istio" width="32px" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" />
+
 <img align="left" alt="Cert Manager" width="32px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-cncf/events/cert-manager-logo.png" />
+
 <img align="left" alt="Sealed Secrets" width="32px" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/sealed-secrets/img/sealed-secrets-stack-220x234.png" />
+
 <img align="left" alt="GitOps" width="32px" src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1610895119256-VB0B89JBCM0A63YUC1CM/what-is-gitops-xenonstack.png?format=300w" />
 
 
