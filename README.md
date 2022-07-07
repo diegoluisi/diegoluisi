@@ -100,12 +100,17 @@
 
 <img align="left" alt="Sealed Secrets" width="32px" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/sealed-secrets/img/sealed-secrets-stack-220x234.png" />
 
-<img align="left" alt="GitOps" width="32px" src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1610895119256-VB0B89JBCM0A63YUC1CM/what-is-gitops-xenonstack.png?format=300w" />  
+<img align="left" alt="GitOps" width="32px" src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1610895119256-VB0B89JBCM0A63YUC1CM/what-is-gitops-xenonstack.png?format=300w" />
 
 <br/>
 <br/>
+<br/>
+<br/>
+
 
 ### 📄 Curriculum
+
+<br />
 
 [🇧🇷](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_BR.md)[🇺🇸](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_EN.md)
 
