@@ -44,15 +44,13 @@
 
 <img align="left" alt="CircleCI" width="32px" src="https://mpng.subpng.com/20180907/pyg/kisspng-computer-icons-gitlab-scalable-vector-graphics-ci-circleci-logo-svg-vector-amp-png-transparent-v-5b92b5229299d3.9570815315363412826005.jpg" />
 
-
-
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/python.svg" />
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
-<img align="left" alt="GCP" width="32px" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" />
+<img align="left" alt="GCP" width="32px" src="https://w7.pngwing.com/pngs/312/107/png-transparent-google-cloud-platform-cloud-computing-google-search-cloud-computing-angle-rectangle-cloud.png" />
 
 <img align="left" alt="Linux" width="32px" src="https://toppng.com/uploads/preview/tux-linux-logo-start-button-icon-linux-11562927335gdm2cpaczy.png" />
 
@@ -69,6 +67,8 @@
 <img align="left" alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 
 <img align="left" alt="EKS" width="32px" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" />
+
+<img align="left" alt="GKE" width="32px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8b/0b59e567f6458f9ee45244bda95782/Container-Engine.png?auto=format%2Ccompress&dpr=1" />
 
 <img align="left" alt="Helm" width="32px" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" />
 
