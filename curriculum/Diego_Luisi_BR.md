@@ -1,4 +1,6 @@
+# 
 ## Dados Pessoais:
+
 - Diego Fernando Luisi
   - Brasileiro, Solteiro
   - Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
@@ -11,12 +13,14 @@
   - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/diegoluisi/)
 
 ## Resumo das qualificações:
+
 - Entusiasta da cultura DevOps e apaixonado por Open Source, tenho 20 anos de background como SysAdmin, atualmente trabalho como SRE, aberto para aprender novas tecnologias e procedimentos para melhorar a cada dia mais como profissional.
 
 ## Expectativas Profissionais:
 - Prover soluções resilientes de maneira ágil, que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que agreguem valores e as tornem mais competitivas.
 
 ## Formação Acadêmica:
+
 - Universidade Nove de Julho (Uninove)
   - Tecnologia em Redes de Computadores
   - São Paulo–SP
@@ -27,23 +31,28 @@
   - Período:  2004 a 2007 (incompleto)
 
 ## Idiomas:
+
 - Inglês
   - Leitura / Escrita – Avançado
   - Conversação – Avançado
-- Espanhol 
+- Espanhol
   - Leitura / Escrita – Básico
   - Conversação – intermediário
   
 ## Certificações:
+
 - GitOps Fundamentals
 - Scrum Fundamentals Certified
 - SonicWALL Network Security Basic Administration (CSSA)
 - SonicWALL Network Security Advanced Administration (CSSP)
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
-## Cursos e Seminários:
+## Treinamentos e Workshops:
+
+- [solo.io] Deploy Istio for Production
+- [solo.io] Get Started with Istio
 - [codefresh] GitOps Fundamentals
-- Developing on AWS (AWS SDK, IAM, S3, DynamoDB, SNS, SQS, Lambda, Cognito)
+- [AWS] Developing on AWS (AWS SDK, IAM, S3, DynamoDB, SNS, SQS, Lambda, Cognito)
 - [DO180] Introduction to Containers, Kubernetes, and Red Hat OpenShift
 - [526] DevOps Master (24 horas)
 - [4435] Administração JBoss AS 7 com Alta Performance e Produtividade
@@ -67,25 +76,42 @@
 - Mysql – Gerenciamento de Banco de Dados (3 horas)
 
 ## Experiências Profissional:
-### Dafiti Group (GFG Group)
+
+### Evolution
+
 - Cargo: SRE (Site Reliability Engineering).
-- São Paulo – SP
-- 09/2020 - Atual
+- Lisbon/Portugal
+- 04/2022 - atual
+- Seguimento: Gamming
+- Projetos:
+  - OpenShift to GKE:
+    - Tecnologias: GitHub, GitHub Actions, ArgoCD, OpenShift, Istio, Kubernetes, GCP e GKE.
+  - IaC:
+    - Tecnologias: GitHub, Crossplane e ArgoCD.
+
+### Dafiti Group (GFG Group)
+
+- Cargo: SRE (Site Reliability Engineering).
+- São Paulo/Brasil
+- 09/2020 - 04/2022
 - Seguimento: e-commerce
 - Projetos:
+  - IDP (Internal Developer Platform):
+    - Backstage, ArgoCD, GitHub, Circle CI.
   - ExtShop Migration:
     - Tecnologias: GitHub, Circle-CI, Puppet, NGINX, Redis, RabbitMQ, Terragrunt, ASG, EC2, S3, R53, Code Depoy.
   - PCI:
     - Tecnologias: Argo, EC2, EKS, Lambda, GitHub, Terraform, Vault.
 
 ### C&A Modas do Brasil
+
 - Cargo: Especialista DevOps.
 - Função: Modernização de aplicações, criação de pipelines e automação de processos.
 - Barueri – SP
 - 08/2019 - 09/2020
 - Seguimento: Varejo
 - Projetos:
-  - Infra as Code: 
+  - Infra as Code:
     - Tecnologias: Puppet, R10k, Puppet-Bolt, GitLab, GitLab-CI, Vagrant, Terraform.
   - Monitoring:
     - Tecnologias: Logstash, Elasticsearch, Kibana, Kafka, Filebeat, Grafana, Prometheus, Icinga2.
@@ -93,6 +119,7 @@
     - Tecnologias: OpenShift, GitLab, Gitlab-CI, Prometheus, ELK, Grafana, Kafka.
 
 ### Dafiti Group (GFG Group)
+
 - Cargo: Analista de Infraestrutura (LATAM) Espec.
 - Função: Modernização de aplicações, criação de pipelines e automação de processos.
 - São Paulo – SP
@@ -109,6 +136,7 @@
     - Tecnologias: AWS, Puppet, Memcached, Terraform, Zabbix/Grafana.
 
 ### C&A Modas do Brasil
+
 - Cargo: Analista de Infraestrutura Linux/Unix Sr.
 - Barueri – SP
 - 08/2014 - 10/2017
@@ -132,6 +160,7 @@
     - Tecnologias: SuSE-Manager, OpenScap.
 
 ### e-Deploy Integrated Technology and Solutions
+
 - Cargo: Zabbix Specialist
 - Barueri – SP
 - 08/2013  - 07/2014
@@ -155,6 +184,7 @@
     - Itens Monitorados: Firewall, Infraestrutura, Aplicaçes e Lojas.
 
 ### Grupo Logos – Logistica e Transportes Planejados
+
 - Cargo: Administrador de Redes
 - Barueri – SP
 - 01/2012 – 09/2013
@@ -172,6 +202,7 @@
     - Tecnologias: Puppet, Puppet-Board, MCollective.
 
 ### FETAESP - Federação dos Trabalhadores na Agricultura do Estado de São Paulo
+
 - Cargo: Administrador de Redes
 - Local: Agudos – SP
 - Duração: 04/2010 a 03/2011
@@ -186,6 +217,7 @@
   - Cabeamento Estruturado.
 
 ### Grupo Santa Alice
+
 - Cargo: Administrador de Redes
 - Local: Presidente Prudente – SP
 - Duração: 05/2006 a 09/2008
@@ -196,6 +228,7 @@
   - Squid/Squid-Guard/Sarg
 
 ### e-Future Informática
+
 - Cargo: Sócio Proprietário
 - Local: Presidente Prudente – SP
 - Duração: 04/2002 a 09/2008
@@ -206,13 +239,16 @@
 
 ## Conhecimentos específicos:
 ### Operation System:
+
 - Linux/Unix (Red Hat, SuSE, Debian, CoreOS, HP-UX e IBM-AIX)
 
 ### Microsoft:
+
 - Windows Server/Hyper-V (2000, 2003, 2008, 2012)
   - AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS
 
 ### Tooling:
+
 - APM:
   - New Relic e Instana.
 - AntiSpam:
@@ -251,44 +287,53 @@
   - Asterix, Elastix.
 
 ### Cloud:
+
 - OpenStack.
 - Amazon Web Services (AWS).
   - ACM, ALB, ASG, Athena, Cloud Formation, Cloud Front, Code Deploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, GLACIER, IAM, KMS, LAMBDA, RDS, R53, SNS, SQS, S3 e VPC. 
 - Google Cloud Platform (GCP).
 
-### Containers:
+### The Cloud Native Computing Foundation (CNCF):
+
 - Kubernetes
-  - Cluster Management
-    - Cert Manager, Sealed Secrets, Vault
-  - CI/CD integration Tools
+  - Application Definition & Image Build
+    - Backstage, Kustomize e Helm 
+  - Secret Management
+    - Cert Manager, Bitnami Sealed Secrets, Hashicorp Vault
+  - Continuous Integration & Delivery:
     - ArgoCD AutoPilot, ArgoCD, Argo Events, Argo Workflows and Argo Rollouts
   - Logging and Tracing
-    - Kiali, ELK, FluentBit
-  - Kustomize, Helm 
-  - Service Mesh
-    - Istio, NGINX Ingress Controller e Traefik
-  - Alert and Monitoring
-    - Prometheus, Grafana
+    - Kiali, Jaeger, ELK, FluentBit e Promtail
+  - Monitoring
+    - Alert Manager, Prometheus, Grafana e Loki
   - Network Policies
     - Calico
+  - Scheduling & Orchestration
+    - Crossplane
+  - Service Mesh
+    - Istio
 
 ### Virtualization:
+
 - VMWare.
 - ProxMox.
 - Hyper-V.
 - KVM.
 
 ### Unified Threat Management (UTM ):
+
 - Sonicwall (CSSA e CSSP)
 - Cisco
 - Juniper
 - Netscaler
 
-### Data Storage
+### Data Storage:
+
 - HP 3Par
 - IBM V7000
 
-### Metodologias/Frameworks
+### Metodologias/Frameworks:
+
 - ITIL
 - Ágil
 - Scrum
