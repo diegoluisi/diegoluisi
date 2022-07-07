@@ -48,6 +48,8 @@
 
 <img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
+<img align="left" alt="Linux" width="32px" src="https://seeklogo.com/images/R/redhat-logo-259A623E59-seeklogo.com.png" />
+
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="Vim" width="32px" src="https://img2.gratispng.com/20181211/wez/kisspng-vim-text-editor-unix-linux-5c0f76fc794c21.0370307015445173724968.jpg" />
