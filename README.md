@@ -46,9 +46,11 @@
 
 <img align="left" alt="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
-<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="GCP" width="32px" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" />
 
-<img align="left" alt="Linux" width="32px" src="https://seeklogo.com/images/R/redhat-logo-259A623E59-seeklogo.com.png" />
+<img align="left" alt="Linux" width="32px" src="https://toppng.com/uploads/preview/tux-linux-logo-start-button-icon-linux-11562927335gdm2cpaczy.png" />
+
+<img align="left" alt="RedHat" width="32px" src="https://seeklogo.com/images/R/redhat-logo-259A623E59-seeklogo.com.png" />
 
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
