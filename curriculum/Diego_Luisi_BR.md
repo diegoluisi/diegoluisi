@@ -299,7 +299,7 @@
 
 - Kubernetes
   - Application Definition & Image Build
-    - Backstage, Kustomize e Helm
+    - Backstage, Kustomize, Helm, DevSpace e Okteto
   - Secret Management
     - Cert Manager, Bitnami Sealed Secrets, Hashicorp Vault
   - Continuous Integration & Delivery:
