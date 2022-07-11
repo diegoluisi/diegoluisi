@@ -10,7 +10,7 @@
   - :calling: +351 910910296
   - :penguin: LPI000249557
   - :envelope_with_arrow: contato@diegoluisi.eti.br
-  - :globe_with_meridians:
+  - :globe_with_meridians: <https://www.diegoluisi.eti.br>
    
     
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/diegoluisi)
