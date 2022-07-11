@@ -60,10 +60,10 @@
 <img align="left" alt="RedHat" width="32px" src="https://seeklogo.com/images/R/redhat-logo-259A623E59-seeklogo.com.png" />
 
 
-<br />
-<br />
-
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
 
 <img align="left" alt="Vim" width="32px" src="https://img2.gratispng.com/20181211/wez/kisspng-vim-text-editor-unix-linux-5c0f76fc794c21.0370307015445173724968.jpg" />
 
@@ -83,10 +83,10 @@
 
 <img align="left" alt="Ansible" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 
-<br />
-<br />
-
 <img align="left" alt="Puppet" width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/puppet.svg" />
+
+<br />
+<br />
 
 <img align="left" alt="Terraform" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />  
 
@@ -106,10 +106,10 @@
 
 <img align="left" alt="Istio" width="32px" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" />
 
-<br />
-<br />
-
 <img align="left" alt="Cert Manager" width="32px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-cncf/events/cert-manager-logo.png" />
+
+<br />
+<br />
 
 <img align="left" alt="Sealed Secrets" width="32px" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/sealed-secrets/img/sealed-secrets-stack-220x234.png" />
 
