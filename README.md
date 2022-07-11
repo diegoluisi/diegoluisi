@@ -85,10 +85,10 @@
 
 <img align="left" alt="Puppet" width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/puppet.svg" />
 
-<br />
-<br />
-
 <img align="left" alt="Terraform" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />  
+
+<br />
+<br />
 
 <img align="left" alt="Terragrunt" width="32px" src="https://assets-global.website-files.com/5ceab5395d0f478e169de7c0/624c7fa12617224fc962dbc1_451c24614aece67849fd62d0432d77ecd00735c6.png" />  
 
@@ -107,9 +107,6 @@
 <img align="left" alt="Istio" width="32px" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" />
 
 <img align="left" alt="Cert Manager" width="32px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-cncf/events/cert-manager-logo.png" />
-
-<br />
-<br />
 
 <img align="left" alt="Sealed Secrets" width="32px" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/sealed-secrets/img/sealed-secrets-stack-220x234.png" />
 
