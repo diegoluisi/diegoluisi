@@ -1,47 +1,63 @@
-## Personal data:
+
+#
+
+## Personal data
+
 - Diego Fernando Luisi
-  - Brazilian, single
-  - Rua Ipiranga No. 342, Apt 102B Vila Barros Barueri – SP
+  - Brazilian, Married
+  - Rua Guilherme Gomes Fernandes, 5A - Amadora/Lisbon - Portugal
   - Date of Birth: February 12, 1986
-  - Telephone: +55 (11) 94464-0434
-  - LPI ID: LPI000249557
-  - E-mail: contato@diegoluisi.eti.br
-  - Skype: diego.luisi
-  - Blog: http://www.diegoluisi.eti.br
-  - LinkedIn: http://www.linkedin.com/in/diegoluisi
+  - :calling: +351 910910296
+  - :penguin: LPI000249557
+  - :envelope_with_arrow: contato@diegoluisi.eti.br
+  - :globe_with_meridians:
+   
+    
+  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/diegoluisi)
+  - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/diegoluisi/)
 
-## Summary of qualifications:
-- I have more than 15 years of experience and extensive background in infrastructure, currently as an SRE focused on automation, I have contributed to several projects, I have great knowledge in IAC (infra as code) and pipelines.
+## Summary of qualifications
 
-## Professional Expectations:
-- Providing resilient solutions in an agile way, which allow optimizing processes, having efficient operations, reducing costs, allowing rapid expansions and presenting new options that add value and make them more competitive.
+- Enthusiastic about the DevOps culture and passionate about Open Source, I have 20 years of background as a SysAdmin, currently working as an SRE, open to learning new technologies and procedures to improve every day more as a professional.
 
-## Academic education:
--Nove de Julho University (Uninove)
+## Professional Expectations
+
+- Provide resilient solutions in an agile way, which make it possible to optimize processes, have efficient operations, reduce costs, allow rapid expansion and present new options that add value and make them more competitive.
+
+## Academic education
+
+- Nove de Julho University (Uninove)
   - Technology in Computer Networks
   - Sao Paulo-SP
   - Period: 2017
-- University of Western São Paulo (Unoeste)
+- University of West Paulista (Unoeste)
   - Information systems
-  - Pres. Prudent - SP
+  - President Prudente - SP
   - Period: 2004 to 2007 (incomplete)
 
-## Languages:
+## Languages
+
 - English
-  - Reading / Writing - Advanced
+  - Read / Write - Advanced
   - Conversation - Advanced
 - Spanish
   - Reading / Writing - Basic
   - Conversation - intermediate
   
-## Certifications:
+## Certifications
+
+- GitOps Fundamentals
 - Scrum Fundamentals Certified
 - SonicWALL Network Security Basic Administration (CSSA)
 - SonicWALL Network Security Advanced Administration (CSSP)
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
-## Courses and Seminars:
-- Developing on AWS (AWS SDK, IAM, S3, DynamoDB, SNS, SQS, Lambda, Cognito)
+## Trainings and Workshops
+
+- [solo.io] Deploy Istio for Production
+- [solo.io] Get Started with Istio
+- [codefresh] GitOps Fundamentals
+- [AWS] Developing on AWS (AWS SDK, IAM, S3, DynamoDB, SNS, SQS, Lambda, Cognito)
 - [DO180] Introduction to Containers, Kubernetes, and Red Hat OpenShift
 - [526] DevOps Master (24 hours)
 - [4435] JBoss AS 7 Administration with High Performance and Productivity
@@ -50,38 +66,55 @@
 - [AIX AN30] Power Systems for AIX PowerVM (40 Hours)
 - [SMGR210] SuSE Manager 3 Administration (24 Hours)
 - [CNS-220] Citrix Netscaler Essential CNS-220 – (24 Hours)
-- Puppet Fundamentals - (24 hours)
-- Puppet Practitioner - (24 Hours)
-- Puppet Introduction - (8 Hours)
-- [AIX AN140BR]AIX Jump Start - (40 Hours)
-- [SUSE3126]SuSE Linux Enterprise server 12 (40 hours)
+- Puppet Fundamentals - (24 Hours)
+- Puppet Practitioner – (24 Hours)
+- Puppet Introduction – (8 Hours)
+- [AIX AN140BR]AIX Jump Start – (40 Hours)
+- [SUSE3126]SuSE Linux Enterprise server 12 (40 Hours)
 - SonicWALL – Network Security Basic Administrator (40 hours)
-- VMware - Implementing and Managing ESXi and vCenter 5.1 Servers - (20 hours)
+- VMware - Implementing and Managing ESXi and vCenter 5.1 servers – (20 hours)
 - [LX0-101/102] Linux – Preparatory course LX0-101/102 (8 weeks)
 - ITIL - V3 Foundation - (18 hours)
 - Zimbra – Collaboration Suite (4 hours)
-- Zabbix – Entreprise Open Source Monitoring Solution (4 hours)
+- Zabbix – Enterprise Open Source Monitoring Solution (4 hours)
 - NGINX – High Performance Web Servers (3 hours)
 - Mysql – Database Management (3 hours)
 
-## Professional Experiences:
-### Dafiti Group (GFG Group)
+## Professional Experiences
+
+### Evolution
+
 - Position: SRE (Site Reliability Engineering).
-- Sao Paulo-SP
-- 09/2020 - Current
-- Tracking: e-commerce
+- Lisbon/Portugal
+- 04/2022 - current
+- Follow-up: Gaming
 - Projects:
+  - OpenShift to GKE:
+    - Technologies: GitHub, GitHub Actions, ArgoCD, OpenShift, Istio, Kubernetes, GCP and GKE.
+  - IaC:
+    - Technologies: GitHub, Crossplane and ArgoCD.
+
+### Dafiti Group (GFG Group)
+
+- Position: SRE (Site Reliability Engineering).
+- São Paulo Brazil
+- 09/2020 - 04/2022
+- Follow-up: e-commerce
+- Projects:
+  - IDP (Internal Developer Platform):
+    - Backstage, ArgoCD, GitHub, Circle CI.
   - ExtShop Migration:
     - Technologies: GitHub, Circle-CI, Puppet, NGINX, Redis, RabbitMQ, Terragrunt, ASG, EC2, S3, R53, Code Depoy.
   - PCI:
     - Technologies: Argo, EC2, EKS, Lambda, GitHub, Terraform, Vault.
 
 ### C&A Modas do Brasil
-- Title: DevOps Specialist.
-- Role: Application modernization, pipeline creation and process automation.
+
+- Position: DevOps Specialist.
+- Function: Application modernization, pipeline creation and process automation.
 - Barueri - SP
 - 08/2019 - 09/2020
-- Tracking: Retail
+- Follow-up: Retail
 - Projects:
   - Infra as Code:
     - Technologies: Puppet, R10k, Puppet-Bolt, GitLab, GitLab-CI, Vagrant, Terraform.
@@ -91,11 +124,12 @@
     - Technologies: OpenShift, GitLab, Gitlab-CI, Prometheus, ELK, Grafana, Kafka.
 
 ### Dafiti Group (GFG Group)
+
 - Position: Infrastructure Analyst (LATAM) Spec.
-- Role: Application modernization, pipeline creation and process automation.
+- Function: Application modernization, pipeline creation and process automation.
 - Sao Paulo-SP
 - 10/2017 - 08/2019
-- Tracking: e-commerce
+- Follow-up: e-commerce
 - Projects:
   - Infra as Code:
     - Technologies: Puppet, R10k, Puppet-Bolt, Git, Vagrant, AWS, Terraform, Kubernetes, Rundeck.
@@ -107,16 +141,17 @@
     - Technologies: AWS, Puppet, Memcached, Terraform, Zabbix/Grafana.
 
 ### C&A Modas do Brasil
-- Position: Infrastructure Analyst Linux/Unix Sr.
+
+- Position: Linux/Unix Infrastructure Analyst Sr.
 - Barueri - SP
 - 08/2014 - 10/2017
-- Tracking: Retail
+- Follow-up: Retail
 - Projects:
-  - XStore (Exchange from POS System to Oracle X-Store solution):
+  - XStore (Exchange POS System for Oracle X-Store solution):
     - Technologies: SuSE Linux, SuSE-Manager, SALT, Git, X-Store.
-  - NFCE (NFCE Implementation - Electronic Consumer Invoice):
+  - NFCE (Implementation NFCE - Electronic Consumer Invoice):
     - Technologies: SuSE Linux, JAVA, Oracle.
-  - Patch and Vulnerabilities Management:
+  - Patches and Vulnerabilities Management:
     - Technologies: SuSE Linux, SuSE-Manager, Puppet, MCollective.
   - Agile Infrastructure:
     - Technologies: Puppet, Puppet-DB, Puppet-Explorer, Git, r10k, MCollective.
@@ -130,15 +165,16 @@
     - Technologies: SuSE-Manager, OpenScap.
 
 ### e-Deploy Integrated Technology and Solutions
+
 - Position: Zabbix Specialist
 - Barueri - SP
 - 08/2013 - 07/2014
-- Tracking: Technology
+- Follow-up: Technology
 - Projects:
   - Burger King:
     - Monitored Items: Infrastructure, Links, Stores and POS.
   - MC Donalds (Golden Arches):
-    - Monitored Items: Infrastructure, Database, Stores and POS.
+    - Monitored Items: Infrastructure, Database, Stores and POSs.
   - GOAL:
     - Monitored Items: Check-in and Mobile Check-in.
   - Marisa:
@@ -147,12 +183,13 @@
     - Monitored Items: Infrastructure, Database, Links and Stores.
   - Staples:
     - Monitored Items: Infrastructure, Applications and Database.
-  - Editora Abril:
+  - April Publisher:
     - Monitored Items: Infrastructure Applications and WEB Applications
   - UAB Motors:
     - Monitored Items: Firewall, Infrastructure, Applications and Stores.
 
-### Logos Group – Logistics and Planned Transport
+### Grupo Logos – Logistics and Planned Transport
+
 - Position: Network Administrator
 - Barueri - SP
 - 01/2012 - 09/2013
@@ -170,53 +207,61 @@
     - Technologies: Puppet, Puppet-Board, MCollective.
 
 ### FETAESP - Federation of Agricultural Workers of the State of São Paulo
+
 - Position: Network Administrator
 - Location: Agudos - SP
 - Duration: 04/2010 to 03/2011
-- Follow-up: Union Organ.
+- Follow-up: Union Body.
 - Projects:
   - Virtualization:
     - Technologies: Hyper-v, XP Unlimited, ThinStation, MS Terminal Service.
   - Centralized Authentication:
     - Technologies: Active Directory.
-  - Safe Internet:
+  - Secure Internet:
     - Technologies: Squid, Squid-Guard and Sarg.
-  - Structured cabling.
+  - Structured Cabling.
 
 ### Santa Alice Group
+
 - Position: Network Administrator
 - Location: Presidente Prudente - SP
 - Duration: 05/2006 to 09/2008
-- Follow-up: Secondary and Elementary Education Institution.
+- Follow-up: Secondary and elementary education institution.
 - Projects:
   - Active Directory
-  - Proxy
+  - proxy
   - Squid/Squid-Guard/Sarg
 
 ### e-Future Informatics
-- Position: Owner Partner
+
+- Position: Owner
 - Location: Presidente Prudente - SP
 - Duration: 04/2002 to 09/2008
 - Follow-up: IT Maintenance and Support Company.
-- Functions performed:
-  - Support, Design, Installation and Maintenance in Servers and Network.
+- Functions Performed:
+  - Support, Design, Installation and Maintenance on Servers and Network.
 
+## Specific knowledge
 
-## Specific knowledge:
-### Operation System:
+### Operation System
+
 - Linux/Unix (Red Hat, SuSE, Debian, CoreOS, HP-UX and IBM-AIX)
 
-### Microsoft:
+### Microsoft
+
 - Windows Server/Hyper-V (2000, 2003, 2008, 2012)
   - AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS
 
-### Open Source Tools:
+### Tooling
+
+- APM:
+  - New Relic and Instana.
 - AntiSpam:
   - Xeams, Sophos, SpamAssassin.
 - Cache:
   - Redis, MemCached.
 - CI/CD:
-  - Bamboo, Jenkins, CircleCI, CodeDeploy, Travis.
+  - ArgoCD, Bamboo, CircleCI, CodeDeploy, GitHub Actions, Jenkins and Travis.
 - Configuration Management:
   - Ansible, Chef, Puppet, PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt, Terraform and Salt.
 - Containers:
@@ -233,44 +278,70 @@
   - Graylog, ELK.
 - Mail Server:
   - Zimbra, Postfix, Dovecot.
-- Middlewares:
+- Middleware:
   - Apache, JBoss, Nginx, Tomcat, Weblogic.
-- Monitoring:
-  - Nagios, Oracle Enterprise Manager (OEM12) and Zabbix.
-- Open-Source System Management:
+- Monitoring :
+  - Prometheus, Nagios, Oracle Enterprise Manager (OEM12) and Zabbix.
+- Open Source System Management:
   - Spacewalk, SuSE-Manager, Satellite.
 - Proxy Server:
   - Squid, Sarg, SquidGuard.
 - Version Control System (VCS):
   - BitBucket, Gitlab and Github.
-- Voip Server:
+- VoIP Server:
   - Asterix, Elastix.
 
-### Cloud:
+### Cloud
+
 - OpenStack.
 - Amazon Web Services (AWS).
-  - ALB, ASG, DynamoDB, EBS, ECS, EC2, EKS, GLACIER, LAMBDA, RDS, R53, SQS, SNS, S3.
+  - ACM, ALB, ASG, Athena, Cloud Formation, Cloud Front, Code Deploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, GLACIER, IAM, KMS, LAMBDA, RDS, R53, SNS, SQS, S3 and VPC.
 - Google Cloud Platform (GCP).
 
-### Virtualization:
+### The Cloud Native Computing Foundation (CNCF)
+
+- Kubernetes
+  - Application Definition & Image Build
+    - Backstage, Kustomize, Helm, DevSpace and Okteto
+  - Secret Management
+    - Cert Manager, Bitnami Sealed Secrets, Hashicorp Vault
+  - Continuous Integration & Delivery:
+    - ArgoCD AutoPilot, ArgoCD, Argo Events, Argo Workflows and Argo Rollouts
+  - Logging and Tracing
+    - Kiali, Jaeger, ELK, FluentBit and Promtail
+  - Monitoring
+    - Alert Manager, Prometheus, Grafana and Loki
+  - Network Policies
+    - Calico
+  - Scheduling & Orchestration
+    - Crossplane
+  - Service Mesh
+    - Istio
+
+### Virtualization
+
 - VMWare.
 - ProxMox.
 - Hyper-V.
 - KVM.
 
-### Unified Threat Management (UTM ):
+### Unified Threat Management (UTM )
+
 - Sonicwall (CSSA and CSSP)
 - Cisco
 - Juniper
 - Netscaler
 
 ### Data Storage
+
 - HP 3Pair
 - IBM V7000
 
 ### Methodologies/Frameworks
+
 - ITIL
 - Agile
 - Scrum
 - Kanban
 
+   
