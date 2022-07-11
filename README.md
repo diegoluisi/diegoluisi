@@ -61,6 +61,7 @@
 
 
 <br />
+<br />
 
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
@@ -83,6 +84,7 @@
 <img align="left" alt="Ansible" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 
 <br />
+<br />
 
 <img align="left" alt="Puppet" width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/puppet.svg" />
 
@@ -104,6 +106,7 @@
 
 <img align="left" alt="Istio" width="32px" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" />
 
+<br />
 <br />
 
 <img align="left" alt="Cert Manager" width="32px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-cncf/events/cert-manager-logo.png" />
