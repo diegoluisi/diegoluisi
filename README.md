@@ -41,6 +41,8 @@
 
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<img align="left" alt="GitOps" width="32px" src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1610895119256-VB0B89JBCM0A63YUC1CM/what-is-gitops-xenonstack.png?format=300w" />
+
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="GitLab" width="32px" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/gitlab-runner/img/gitlab-runner-stack-220x234.png" />
@@ -60,10 +62,10 @@
 <img align="left" alt="RedHat" width="32px" src="https://seeklogo.com/images/R/redhat-logo-259A623E59-seeklogo.com.png" />
 
 
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br />
+<br />
 
-<br />
-<br />
+<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="Vim" width="32px" src="https://img2.gratispng.com/20181211/wez/kisspng-vim-text-editor-unix-linux-5c0f76fc794c21.0370307015445173724968.jpg" />
 
@@ -85,10 +87,10 @@
 
 <img align="left" alt="Puppet" width="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/puppet.svg" />
 
-<img align="left" alt="Terraform" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />  
+<br />
+<br />
 
-<br />
-<br />
+<img align="left" alt="Terraform" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />  
 
 <img align="left" alt="Terragrunt" width="32px" src="https://assets-global.website-files.com/5ceab5395d0f478e169de7c0/624c7fa12617224fc962dbc1_451c24614aece67849fd62d0432d77ecd00735c6.png" />  
 
@@ -109,8 +111,6 @@
 <img align="left" alt="Cert Manager" width="32px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-cncf/events/cert-manager-logo.png" />
 
 <img align="left" alt="Sealed Secrets" width="32px" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/sealed-secrets/img/sealed-secrets-stack-220x234.png" />
-
-<img align="left" alt="GitOps" width="32px" src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1610895119256-VB0B89JBCM0A63YUC1CM/what-is-gitops-xenonstack.png?format=300w" />
 
 <br/>
 <br/>
