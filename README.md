@@ -60,8 +60,8 @@
     <img src="https://www.svgrepo.com/show/331300/aws.svg"" alt="AWS" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/77/5daa76f3e74f3c8e5775b05776cffc/newlogo_GCFUN.png?auto=format%2Ccompress&dpr=1"" alt="GCP" width="40" height="40"/> </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"> 
-    <img src="https://icon-library.com/images/vmware-icon/vmware-icon-22.jpg"" alt="Linux" width="40" height="40"/> </a>
+  <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://icon-library.com/images/vmware-icon/vmware-icon-22.jpg" alt="Linux" width="40" height="40"/> </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"> 
     <img src="https://toppng.com/uploads/preview/tux-linux-logo-start-button-icon-linux-11562927335gdm2cpaczy.png"" alt="Linux" width="40" height="40"/> </a>
   <a href="https://www.redhat.com" target="_blank" rel="noreferrer"> 
