@@ -33,9 +33,6 @@
     <img src="images\Solo_Workshop_Badge_050521_v5.png" alt="istio workshop" width="120" height="120"/> </a>
 </p>
 
-<br />
-<br />
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
