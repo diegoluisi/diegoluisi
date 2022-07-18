@@ -72,6 +72,8 @@
     <img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="EKS" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/kubernetes-engine/docs" target="_blank" rel="noreferrer"> 
     <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8b/0b59e567f6458f9ee45244bda95782/Container-Engine.png?auto=format%2Ccompress&dpr=1" alt="GKE" width="40" height="40"/> </a>
+  <a href="https://docs.openshift.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png" alt="OpenShift" width="40" height="40"/> </a>
   <a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a>
     <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="40" height="40"/> </a>
