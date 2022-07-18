@@ -51,7 +51,7 @@
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"" alt="Visual Studio Code" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"" alt="AWS" width="40" height="40"/> </a>
+    <img src="https://www.svgrepo.com/show/331300/aws.svg"" alt="AWS" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://w7.pngwing.com/pngs/312/107/png-transparent-google-cloud-platform-cloud-computing-google-search-cloud-computing-angle-rectangle-cloud.png"" alt="GCP" width="40" height="40"/> </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"> 
