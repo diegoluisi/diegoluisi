@@ -86,7 +86,7 @@
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" width="40" height="40"/> </a>
   <a href="https://terragrunt.gruntwork.io" target="_blank" rel="noreferrer"> 
-    <img src=" https://camo.githubusercontent.com/6138f49ea2a77eec1ccf7ce8de86b1513747c1439cbd97d4cc116ea5c5bedcb4/68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3563656162353339356430663437386531363964653763302f3632346337666131323631373232346663393632646263315f343531633234363134616563653637383439666436326430343332643737656364303037333563362e706e67" alt="Terragrunt" width="40" height="40"/> </a>
+    <img src=" https://global.discourse-cdn.com/standard11/uploads/gruntwork/original/1X/451c24614aece67849fd62d0432d77ecd00735c6.png" alt="Terragrunt" width="40" height="40"/> </a>
   <a href="https://crossplane.io" target="_blank" rel="noreferrer"> 
     <img src="https://cncf-branding.netlify.app/img/projects/crossplane/icon/color/crossplane-icon-color.png" alt="Crossplane" width="40" height="40"/> </a>
   <a href="https://backstage.io" target="_blank" rel="noreferrer"> 
