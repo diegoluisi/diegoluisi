@@ -87,7 +87,7 @@
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" width="40" height="40"/> </a>
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://dwglogo.com/wp-content/uploads/2017/11/Vagrant_logo.png" alt="Vagrant" width="40" height="40"/> </a>    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vagrant.png/800px-Vagrant.png" alt="Vagrant" width="40" height="40"/> </a>    
   <a href="https://terragrunt.gruntwork.io" target="_blank" rel="noreferrer"> 
     <img src="https://assets-global.website-files.com/5ceab5395d0f478e169de7c0/624c7fa12617224fc962dbc1_451c24614aece67849fd62d0432d77ecd00735c6.png" alt="Terragrunt" width="40" height="40"/> </a>
   <a href="https://crossplane.io" target="_blank" rel="noreferrer"> 
