@@ -82,6 +82,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png" alt="OpenShift" width="40" height="40"/> </a>
   <a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a>
+  <a href="https://kustomize.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.stackshare.io/service/12670/kustomize.png" alt="Kustomize" width="40" height="40"/> </a>
   <a href="https://istio.io" target="_blank" rel="noreferrer">     
     <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="40" height="40"/> </a>
   <a href="https://kiali.io" target="_blank" rel="noreferrer">     
