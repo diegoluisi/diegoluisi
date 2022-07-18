@@ -82,7 +82,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png" alt="OpenShift" width="40" height="40"/> </a>
   <a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a>
+  <a href="https://istio.io" target="_blank" rel="noreferrer">     
     <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="40" height="40"/> </a>
+  <a href="https://kiali.io" target="_blank" rel="noreferrer">     
+    <img src="https://avatars.githubusercontent.com/u/36001875?v=4&s=400" alt="Kiali" width="40" height="40"/> </a>
   <a href="https://cert-manager.io" target="_blank" rel="noreferrer"> 
     <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-cncf/events/cert-manager-logo.png" alt="cert-manager" width="40" height="40"/> </a>
   <a href="https://docs.bitnami.com/tutorials/sealed-secrets" target="_blank" rel="noreferrer"> 
