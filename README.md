@@ -49,9 +49,13 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="40" height="40"/> </a>
   <a href="https://circleci.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://mpng.subpng.com/20180907/pyg/kisspng-computer-icons-gitlab-scalable-vector-graphics-ci-circleci-logo-svg-vector-amp-png-transparent-v-5b92b5229299d3.9570815315363412826005.jpg" alt="CircleCI" width="40" height="40"/> </a>    
+    <img src="https://mpng.subpng.com/20180907/pyg/kisspng-computer-icons-gitlab-scalable-vector-graphics-ci-circleci-logo-svg-vector-amp-png-transparent-v-5b92b5229299d3.9570815315363412826005.jpg" alt="CircleCI" width="40" height="40"/> </a>
+  <a href="https://backstage.io" target="_blank" rel="noreferrer"> 
+    <img src="https://backstage.io/logo_assets/svg/Icon_Teal.svg" alt="Backstage" width="40" height="40"/> </a>
   <a href="https://devspace.sh/" target="_blank" rel="noreferrer"> 
-    <img src="https://v1.docusaurus.io/img/users/devspace.svg" alt="DevSpace" width="40" height="40"/> </a>    
+    <img src="https://v1.docusaurus.io/img/users/devspace.svg" alt="DevSpace" width="40" height="40"/> </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" alt="Python" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
@@ -106,8 +110,6 @@
     <img src="https://assets-global.website-files.com/5ceab5395d0f478e169de7c0/624c7fa12617224fc962dbc1_451c24614aece67849fd62d0432d77ecd00735c6.png" alt="Terragrunt" width="40" height="40"/> </a>
   <a href="https://crossplane.io" target="_blank" rel="noreferrer"> 
     <img src="https://cncf-branding.netlify.app/img/projects/crossplane/icon/color/crossplane-icon-color.png" alt="Crossplane" width="40" height="40"/> </a>
-  <a href="https://backstage.io" target="_blank" rel="noreferrer"> 
-    <img src="https://backstage.io/logo_assets/svg/Icon_Teal.svg" alt="Backstage" width="40" height="40"/> </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
     <img src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.png" alt="Prometheus" width="40" height="40"/> </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
@@ -116,7 +118,8 @@
     <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_200,h_200/https://api.charmhub.io/api/v1/media/download/charm_VpRGTlLZZh1ON756aodclPgvrXBZHrCN_icon_94116c13f30075da6fb24e8e76ddf8d81abb146842d90934fb4aa10dc48d7101.png" alt="Loki" width="40" height="40"/> </a>
   <a href="https://prometheus.io/docs/alerting/latest/alertmanager/" target="_blank" rel="noreferrer"> 
     <img src="https://devopy.io/wp-content/uploads/2019/02/bell_260.svg" alt="Alertmanager" width="40" height="40"/> </a>
-  <a href="https://istio.io" target="_blank" rel="noreferrer"> 
+  <a href="https://www.graylog.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/graylog/graylog-icon.svg" alt="graylog" width="40" height="40"/> </a>
   <a href="https://newrelic.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/new-relic.svg" alt="new-relic" width="40" height="40"/> </a>
   <a href="https://newrelic.com/" target="_blank" rel="noreferrer">
