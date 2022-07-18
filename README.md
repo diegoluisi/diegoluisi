@@ -110,6 +110,9 @@
   <a href="https://prometheus.io/docs/alerting/latest/alertmanager/" target="_blank" rel="noreferrer"> 
     <img src="https://devopy.io/wp-content/uploads/2019/02/bell_260.svg" alt="Alertmanager" width="40" height="40"/> </a>
   <a href="https://istio.io" target="_blank" rel="noreferrer"> 
+  <a href="https://newrelic.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/new-relic.svg" alt="new-relic" width="40" height="40"/> </a>
+  <a href="https://newrelic.com/" target="_blank" rel="noreferrer">
 </p>
 
 <br/>
