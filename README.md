@@ -47,7 +47,7 @@
   <a href="https://circleci.com/" target="_blank" rel="noreferrer"> 
     <img src="https://mpng.subpng.com/20180907/pyg/kisspng-computer-icons-gitlab-scalable-vector-graphics-ci-circleci-logo-svg-vector-amp-png-transparent-v-5b92b5229299d3.9570815315363412826005.jpg" alt="CircleCI" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/python.svg" alt="Python" width="40" height="40"/> </a>
+    <img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" alt="Python" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
     <img src="https://toppng.com/uploads/preview/vscode-visual-studio-code-11562929010rwlaaoeohl.png"" alt="Visual Studio Code" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
