@@ -74,6 +74,11 @@
     <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8b/0b59e567f6458f9ee45244bda95782/Container-Engine.png?auto=format%2Ccompress&dpr=1" alt="GKE" width="40" height="40"/> </a>
   <a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="40" height="40"/> </a>
+  <a href="https://cert-manager.io" target="_blank" rel="noreferrer"> 
+    <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-cncf/events/cert-manager-logo.png" alt="cert-manager" width="40" height="40"/> </a>
+  <a href="https://docs.bitnami.com/tutorials/sealed-secrets" target="_blank" rel="noreferrer"> 
+    <img src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/sealed-secrets/img/sealed-secrets-stack-220x234.png" alt="sealed-secrets" width="40" height="40"/> </a>
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
     <img src="https://landscape.cncf.io/logos/argo.svg" alt="ArgoCD" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
@@ -103,11 +108,6 @@
   <a href="https://prometheus.io/docs/alerting/latest/alertmanager/" target="_blank" rel="noreferrer"> 
     <img src="https://devopy.io/wp-content/uploads/2019/02/bell_260.svg" alt="Alertmanager" width="40" height="40"/> </a>
   <a href="https://istio.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="40" height="40"/> </a>
-  <a href="https://cert-manager.io" target="_blank" rel="noreferrer"> 
-    <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-cncf/events/cert-manager-logo.png" alt="cert-manager" width="40" height="40"/> </a>
-  <a href="https://docs.bitnami.com/tutorials/sealed-secrets" target="_blank" rel="noreferrer"> 
-    <img src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/sealed-secrets/img/sealed-secrets-stack-220x234.png" alt="sealed-secrets" width="40" height="40"/> </a>
 </p>
 
 <br/>
