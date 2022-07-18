@@ -44,8 +44,14 @@
     <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/> </a>
   <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn2.iconfinder.com/data/icons/social-network-round-gloss-shine/512/gitlab.png" alt="GitLab" width="40" height="40"/> </a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
+    <img src="https://landscape.cncf.io/logos/argo.svg" alt="ArgoCD" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="40" height="40"/> </a>
   <a href="https://circleci.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://mpng.subpng.com/20180907/pyg/kisspng-computer-icons-gitlab-scalable-vector-graphics-ci-circleci-logo-svg-vector-amp-png-transparent-v-5b92b5229299d3.9570815315363412826005.jpg" alt="CircleCI" width="40" height="40"/> </a>
+    <img src="https://mpng.subpng.com/20180907/pyg/kisspng-computer-icons-gitlab-scalable-vector-graphics-ci-circleci-logo-svg-vector-amp-png-transparent-v-5b92b5229299d3.9570815315363412826005.jpg" alt="CircleCI" width="40" height="40"/> </a>    
+  <a href="https://devspace.sh/" target="_blank" rel="noreferrer"> 
+    <img src="https://v1.docusaurus.io/img/users/devspace.svg" alt="DevSpace" width="40" height="40"/> </a>    
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" alt="Python" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
@@ -81,12 +87,6 @@
     <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-cncf/events/cert-manager-logo.png" alt="cert-manager" width="40" height="40"/> </a>
   <a href="https://docs.bitnami.com/tutorials/sealed-secrets" target="_blank" rel="noreferrer"> 
     <img src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/sealed-secrets/img/sealed-secrets-stack-220x234.png" alt="sealed-secrets" width="40" height="40"/> </a>
-  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
-    <img src="https://landscape.cncf.io/logos/argo.svg" alt="ArgoCD" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="40" height="40"/> </a>
-  <a href="https://devspace.sh/" target="_blank" rel="noreferrer"> 
-    <img src="https://v1.docusaurus.io/img/users/devspace.svg" alt="DevSpace" width="40" height="40"/> </a>
   <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="Ansible" width="40" height="40"/> </a>
   <a href="https://puppet.com" target="_blank" rel="noreferrer"> 
