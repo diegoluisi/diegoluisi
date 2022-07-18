@@ -76,6 +76,8 @@
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a>
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
     <img src="https://landscape.cncf.io/logos/argo.svg" alt="ArgoCD" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn3.vectorstock.com/i/1000x1000/97/57/jenkins-emblem-man-on-red-circle-bg-vector-25119757.jpg" alt="Jenkins" width="40" height="40"/> </a>
   <a href="https://devspace.sh/" target="_blank" rel="noreferrer"> 
     <img src="https://v1.docusaurus.io/img/users/devspace.svg" alt="DevSpace" width="40" height="40"/> </a>
   <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> 
