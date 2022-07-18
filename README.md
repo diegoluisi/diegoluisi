@@ -29,8 +29,10 @@
 <img align="left" alt="GitOps" width="100px" src="https://lwfiles.mycourse.app/codefresh-public/0833ce0a2b1436c50f6e3e29384175c2.png" />
 
 <a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> 
-<img src="images\Solo_Workshop_Basics_Badge_061621_v4.png" alt="istio workshop" width="100" height="100"/> </a>
+    <img src="images\Solo_Workshop_Basics_Badge_061621_v4.png" alt="istio workshop" width="100" height="100"/> </a>
 
+<a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> 
+    <img src="Solo_Workshop_Badge_050521_v5.png" alt="istio workshop" width="100" height="100"/> </a>
 
 <br />
 <br />
@@ -117,12 +119,11 @@
 <br/>
 <br/>
 
-### 📄 Resume
+### 📄 Curriculum
 
 <br />
 
-[🇧🇷](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_BR.md)
-[🇺🇸](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_EN.md)
+[🇧🇷](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_BR.md)[🇺🇸](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_EN.md)
 
 <br />
 
