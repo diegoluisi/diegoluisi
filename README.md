@@ -80,6 +80,8 @@
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a>
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
     <img src="https://landscape.cncf.io/logos/argo.svg" alt="ArgoCD" width="40" height="40"/> </a>
+  <a href="https://devspace.sh/" target="_blank" rel="noreferrer"> 
+    <img src="https://v1.docusaurus.io/img/users/devspace.svg" alt="DevSpace" width="40" height="40"/> </a>
   <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="Ansible" width="40" height="40"/> </a>
   <a href="https://puppet.com" target="_blank" rel="noreferrer"> 
