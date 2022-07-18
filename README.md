@@ -49,7 +49,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/python.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
-    <img src="https://code.visualstudio.com/assets/branding/app-icon.png"" alt="Visual Studio Code" width="40" height="40"/> </a>
+    <img src="https://toppng.com/uploads/preview/vscode-visual-studio-code-11562929010rwlaaoeohl.png"" alt="Visual Studio Code" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/331300/aws.svg"" alt="AWS" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
