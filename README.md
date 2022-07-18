@@ -25,12 +25,13 @@
 <br />
 
 ### 🎖️ Badges
-
+<p align="left">
 <img align="left" alt="GitOps" width="100px" src="https://lwfiles.mycourse.app/codefresh-public/0833ce0a2b1436c50f6e3e29384175c2.png" />
 <a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> 
     <img src="images\Solo_Workshop_Basics_Badge_061621_v4.png" alt="istio workshop" width="120" height="120"/> </a>
 <a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> 
     <img src="images\Solo_Workshop_Badge_050521_v5.png" alt="istio workshop" width="120" height="120"/> </a>
+</p>
 
 <br />
 <br />
@@ -105,6 +106,7 @@
     <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-cncf/events/cert-manager-logo.png" alt="cert-manager" width="40" height="40"/> </a>
   <a href="https://docs.bitnami.com/tutorials/sealed-secrets" target="_blank" rel="noreferrer"> 
     <img src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/sealed-secrets/img/sealed-secrets-stack-220x234.png" alt="sealed-secrets" width="40" height="40"/> </a>
+</p>
 
 <br/>
 <br/>
