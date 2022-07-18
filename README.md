@@ -32,7 +32,7 @@
     <img src="images\Solo_Workshop_Basics_Badge_061621_v4.png" alt="istio workshop" width="100" height="100"/> </a>
 
 <a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> 
-    <img src="Solo_Workshop_Badge_050521_v5.png" alt="istio workshop" width="100" height="100"/> </a>
+    <img src="images\Solo_Workshop_Badge_050521_v5.png" alt="istio workshop" width="100" height="100"/> </a>
 
 <br />
 <br />
