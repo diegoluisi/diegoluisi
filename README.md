@@ -110,11 +110,9 @@
 
 <br/>
 
-### 📄 Curriculum
+### 📄 Resume
 
 [🇧🇷](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_BR.md)[🇺🇸](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_EN.md)
-
-<br />
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
