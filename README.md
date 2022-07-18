@@ -38,7 +38,6 @@
 
 ### 🛠️ Languages and Tools
 
-<br />
 <p align="left">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/> </a>
@@ -113,11 +112,8 @@
 </p>
 
 <br/>
-<br/>
 
 ### 📄 Curriculum
-
-<br />
 
 [🇧🇷](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_BR.md)[🇺🇸](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_EN.md)
 
