@@ -1,18 +1,18 @@
 
-#
+# Resume:
 
 ## Personal data
 
 - Diego Fernando Luisi
   - Brazilian, Married
   - Rua Guilherme Gomes Fernandes, 5A - Amadora/Lisbon - Portugal
-  - Date of Birth: February 12, 1986
+  - Date of Birth: 12/02/1986
   - :calling: +351 910910296
   - :penguin: LPI000249557
   - :envelope_with_arrow: contato@diegoluisi.eti.br
   - :globe_with_meridians: <https://www.diegoluisi.eti.br>
-   
-    
+
+
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/diegoluisi)
   - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/diegoluisi/)
 
@@ -44,8 +44,11 @@
   - Reading / Writing - Basic
   - Conversation - intermediate
   
-## Certifications
+## Certificates and Badges
 
+- Istio Expert
+- Istio Essentials
+- Istio Foundation
 - GitOps Fundamentals
 - Scrum Fundamentals Certified
 - SonicWALL Network Security Basic Administration (CSSA)
@@ -54,22 +57,23 @@
 
 ## Trainings and Workshops
 
-- [solo.io] Deploy Istio for Production
-- [solo.io] Get Started with Istio
+- [solo.io] Operationalizing Istio [Expert]
+- [solo.io] Deploy Istio for Production [Essentials]
+- [solo.io] Get Started with Istio [Foundation]
 - [codefresh] GitOps Fundamentals
 - [AWS] Developing on AWS (AWS SDK, IAM, S3, DynamoDB, SNS, SQS, Lambda, Cognito)
 - [DO180] Introduction to Containers, Kubernetes, and Red Hat OpenShift
 - [526] DevOps Master (24 hours)
 - [4435] JBoss AS 7 Administration with High Performance and Productivity
 - [525] Agile infrastructure with Devops practices (Ansible, AWS, Docker, GitLab, Jenkins, Puppet and Rundeck)
-- [SUSE SOC201] OpenStack Administration with SUSE (40 Hours)
-- [AIX AN30] Power Systems for AIX PowerVM (40 Hours)
+- [SUSE-SOC201] OpenStack Administration with SUSE (40 Hours)
+- [AIX-AN30] Power Systems for AIX PowerVM (40 Hours)
 - [SMGR210] SuSE Manager 3 Administration (24 Hours)
 - [CNS-220] Citrix Netscaler Essential CNS-220 – (24 Hours)
 - Puppet Fundamentals - (24 Hours)
 - Puppet Practitioner – (24 Hours)
 - Puppet Introduction – (8 Hours)
-- [AIX AN140BR]AIX Jump Start – (40 Hours)
+- [AIX-AN140BR]AIX Jump Start – (40 Hours)
 - [SUSE3126]SuSE Linux Enterprise server 12 (40 Hours)
 - SonicWALL – Network Security Basic Administrator (40 hours)
 - VMware - Implementing and Managing ESXi and vCenter 5.1 servers – (20 hours)
@@ -88,11 +92,8 @@
 - Lisbon/Portugal
 - 04/2022 - current
 - Follow-up: Gaming
-- Projects:
-  - OpenShift to GKE:
-    - Technologies: GitHub, GitHub Actions, ArgoCD, OpenShift, Istio, Kubernetes, GCP and GKE.
-  - IaC:
-    - Technologies: GitHub, Crossplane and ArgoCD.
+- Technologies:
+  - [ArgoCD, Crossplane, GCP, GKE, GitHub, GitHub Actions, Helm, Istio, Kubernetes, Loki, OpenShift, SealedSecrets]
 
 ### Dafiti Group (GFG Group)
 
@@ -100,13 +101,8 @@
 - São Paulo Brazil
 - 09/2020 - 04/2022
 - Follow-up: e-commerce
-- Projects:
-  - IDP (Internal Developer Platform):
-    - Backstage, ArgoCD, GitHub, Circle CI.
-  - ExtShop Migration:
-    - Technologies: GitHub, Circle-CI, Puppet, NGINX, Redis, RabbitMQ, Terragrunt, ASG, EC2, S3, R53, Code Depoy.
-  - PCI:
-    - Technologies: Argo, EC2, EKS, Lambda, GitHub, Terraform, Vault.
+- Technologies:
+  - [AlertManager, ASG, ArgoCD, Backstage, Circle-CI, Code Depoy, EC2, EKS, Grafana, Graylog, GitHub, Helm, Lambda, NGINX, Prometheus, Puppet, R53, RabbitMQ, Redis, S3, SealedSecrets, Terraform, Terragrunt, Vault]
 
 ### C&A Modas do Brasil
 
@@ -115,13 +111,8 @@
 - Barueri - SP
 - 08/2019 - 09/2020
 - Follow-up: Retail
-- Projects:
-  - Infra as Code:
-    - Technologies: Puppet, R10k, Puppet-Bolt, GitLab, GitLab-CI, Vagrant, Terraform.
-  - Monitoring:
-    - Technologies: Logstash, Elasticsearch, Kibana, Kafka, Filebeat, Grafana, Prometheus, Icinga2.
-  - Pacific (OpenShift):
-    - Technologies: OpenShift, GitLab, Gitlab-CI, Prometheus, ELK, Grafana, Kafka.
+- Technologies:
+  - [Puppet, R10k, Puppet-Bolt, GitLab, GitLab-CI, Vagrant, Terraform, Logstash, Elasticsearch, Kibana, Kafka, Filebeat, Grafana, Prometheus, Icinga2, OpenShift, GitLab, Gitlab-CI, Prometheus, ELK, Grafana, Kafka]
 
 ### Dafiti Group (GFG Group)
 
@@ -130,15 +121,9 @@
 - Sao Paulo-SP
 - 10/2017 - 08/2019
 - Follow-up: e-commerce
-- Projects:
-  - Infra as Code:
-    - Technologies: Puppet, R10k, Puppet-Bolt, Git, Vagrant, AWS, Terraform, Kubernetes, Rundeck.
-  - Monitoring:
-    - Technologies: Zabbix, Grafana, InfluxDB, Metricbeat, Filebeat, Kibana, CloudWatch.
-  - Freight
-    - Technologies: AWS, Redis, ELK, NGINX, php-fpm, Terraform.
-  - LATAM
-    - Technologies: AWS, Puppet, Memcached, Terraform, Zabbix/Grafana.
+- Technologies:
+  - [AWS, CloudWatch, ELK, Filebeat, Git, Grafana, InfluxDB, Kibana, Kubernetes, Memcached, Metricbeat, NGINX, Puppet, Puppet-Bolt, R10k, Redis, Rundeck, Terraform, Vagrant, Zabbix]
+
 
 ### C&A Modas do Brasil
 
@@ -146,23 +131,8 @@
 - Barueri - SP
 - 08/2014 - 10/2017
 - Follow-up: Retail
-- Projects:
-  - XStore (Exchange POS System for Oracle X-Store solution):
-    - Technologies: SuSE Linux, SuSE-Manager, SALT, Git, X-Store.
-  - NFCE (Implementation NFCE - Electronic Consumer Invoice):
-    - Technologies: SuSE Linux, JAVA, Oracle.
-  - Patches and Vulnerabilities Management:
-    - Technologies: SuSE Linux, SuSE-Manager, Puppet, MCollective.
-  - Agile Infrastructure:
-    - Technologies: Puppet, Puppet-DB, Puppet-Explorer, Git, r10k, MCollective.
-  - MacOS Mobility:
-    - Technologies: Puppet, MacOS Server, Centrify.
-  - Automation and Job Scheduling:
-    - Technologies: Rundeck.
-  - Configuration Management Database (CMDB):
-    - Technologies: Device42.
-  - Linux Environment Management:
-    - Technologies: SuSE-Manager, OpenScap.
+- Technologies:
+  - [Centrify, Device42, GitLab, GitLabCI, JAVA, Jenkins, MCollective, MacOS Server, OpenScap, Oracle, Puppet, Puppet-DB, Puppet-Explorer, Rundeck, SALT, SuSE Linux, SuSE-Manager, X-Store, r10k]
 
 ### e-Deploy Integrated Technology and Solutions
 
@@ -170,41 +140,17 @@
 - Barueri - SP
 - 08/2013 - 07/2014
 - Follow-up: Technology
-- Projects:
-  - Burger King:
-    - Monitored Items: Infrastructure, Links, Stores and POS.
-  - MC Donalds (Golden Arches):
-    - Monitored Items: Infrastructure, Database, Stores and POSs.
-  - GOAL:
-    - Monitored Items: Check-in and Mobile Check-in.
-  - Marisa:
-    - Monitored Items: Stores, Telecom and Infrastructure.
-  - Drugstore SP:
-    - Monitored Items: Infrastructure, Database, Links and Stores.
-  - Staples:
-    - Monitored Items: Infrastructure, Applications and Database.
-  - April Publisher:
-    - Monitored Items: Infrastructure Applications and WEB Applications
-  - UAB Motors:
-    - Monitored Items: Firewall, Infrastructure, Applications and Stores.
+- Technologies:
+  - [Linux, RedHat, Zabbix, Grafana, MySQL, Sonicwall, JBoss]
 
 ### Grupo Logos – Logistics and Planned Transport
 
-- Position: Network Administrator
+- Position: System Administrator
 - Barueri - SP
 - 01/2012 - 09/2013
 - Follow-up: Logistics and Transport
-- Projects:
-  - Firewall:
-    - Technologies: Sonicwall.
-  - Corporate email:
-    - Technologies: Zimbra, Postgrey, Fail2Ban, Xeams.
-  - Data Center Virtualization:
-    - Technologies: VMware.
-  - Infrastructure and systems monitoring
-    - Technologies: Zabbix, Grafana.
-  - Linux environment orchestration
-    - Technologies: Puppet, Puppet-Board, MCollective.
+- Technologies:
+  - [Active Directory, Bind9, Fail2Ban, Grafana, GitLab, GitLab CI, MCollective, Postgrey, Puppet, Puppet-Board, Sonicwal, VMware, Xeams, Zabbix, Zimbra]
 
 ### FETAESP - Federation of Agricultural Workers of the State of São Paulo
 
@@ -212,14 +158,8 @@
 - Location: Agudos - SP
 - Duration: 04/2010 to 03/2011
 - Follow-up: Union Body.
-- Projects:
-  - Virtualization:
-    - Technologies: Hyper-v, XP Unlimited, ThinStation, MS Terminal Service.
-  - Centralized Authentication:
-    - Technologies: Active Directory.
-  - Secure Internet:
-    - Technologies: Squid, Squid-Guard and Sarg.
-  - Structured Cabling.
+- Technologies:
+  - [Active Directory, Hyper-v, Terminal Service, Sarg, Squid, Squid-Guard, ThinStation, XP Unlimited]
 
 ### Santa Alice Group
 
@@ -227,10 +167,8 @@
 - Location: Presidente Prudente - SP
 - Duration: 05/2006 to 09/2008
 - Follow-up: Secondary and elementary education institution.
-- Projects:
-  - Active Directory
-  - proxy
-  - Squid/Squid-Guard/Sarg
+- Technologies:
+  - [Active Directory, Iptables, Squid, Squid-Guard, Sarg]
 
 ### e-Future Informatics
 
@@ -250,7 +188,7 @@
 ### Microsoft
 
 - Windows Server/Hyper-V (2000, 2003, 2008, 2012)
-  - AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS
+  - [AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS]
 
 ### Tooling
 
@@ -261,7 +199,7 @@
 - Cache:
   - Redis, MemCached.
 - CI/CD:
-  - ArgoCD, Bamboo, CircleCI, CodeDeploy, GitHub Actions, Jenkins and Travis.
+  - ArgoCD, Bamboo, CircleCI, CodeDeploy, GitLab CI, GitHub Actions, Jenkins and Travis.
 - Configuration Management:
   - Ansible, Chef, Puppet, PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt, Terraform and Salt.
 - Containers:
@@ -294,9 +232,10 @@
 ### Cloud
 
 - OpenStack.
-- Amazon Web Services (AWS).
-  - ACM, ALB, ASG, Athena, Cloud Formation, Cloud Front, Code Deploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, GLACIER, IAM, KMS, LAMBDA, RDS, R53, SNS, SQS, S3 and VPC.
-- Google Cloud Platform (GCP).
+- Amazon Web Services (AWS):
+  - [ACM, ALB, ASG, Athena, Cloud Formation, Cloud Front, Code Deploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, GLACIER, IAM, KMS, LAMBDA, RDS, R53, SNS, SQS, S3, VPC]
+- Google Cloud Platform (GCP):
+  - [VPC, GKE]
 
 ### The Cloud Native Computing Foundation (CNCF)
 
@@ -320,17 +259,18 @@
 
 ### Virtualization
 
-- VMWare.
-- ProxMox.
-- Hyper-V.
-- KVM.
+- Hyper-V
+- IBM PoweVM
+- KVM
+- ProxMox
+- VMWare
 
 ### Unified Threat Management (UTM )
 
-- Sonicwall (CSSA and CSSP)
 - Cisco
 - Juniper
 - Netscaler
+- Sonicwall (CSSA and CSSP)
 
 ### Data Storage
 
@@ -339,9 +279,7 @@
 
 ### Methodologies/Frameworks
 
-- ITIL
 - Agile
-- Scrum
+- ITIL
 - Kanban
-
-   
+- Scrum
