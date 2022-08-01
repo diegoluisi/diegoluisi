@@ -93,7 +93,7 @@
 - 04/2022 - current
 - Follow-up: Gaming
 - Role:
-  - As an SRE, my challenge is to create automations that help the developers to have a better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
+  - As an SRE, my challenge is to work with the development and product teams and create automations that help to have a better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
 - Technologies:
   - [ArgoCD, Crossplane, GCP, GKE, GitHub, GitHub Actions, Helm, Istio, Kubernetes, Loki, OpenShift, SealedSecrets]
 
