@@ -89,18 +89,18 @@
 ### Evolution
 
 - Position: SRE (Site Reliability Engineering).
-- Lisbon/Portugal
+- Lisbon, Lisbon/Portugal 🇵🇹
 - 04/2022 - current
 - Follow-up: Gaming
 - Role:
-  - As an SRE, my challenge is to create automations that help the developer to have a better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
+  - As an SRE, my challenge is to create automations that help the developers to have a better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
 - Technologies:
   - [ArgoCD, Crossplane, GCP, GKE, GitHub, GitHub Actions, Helm, Istio, Kubernetes, Loki, OpenShift, SealedSecrets]
 
 ### Dafiti Group (GFG Group)
 
 - Position: SRE (Site Reliability Engineering).
-- São Paulo Brazil
+- São Paulo, SP - Brazil 🇧🇷
 - 09/2020 - 04/2022
 - Follow-up: e-commerce
 - Role:
@@ -112,7 +112,7 @@
 
 - Position: DevOps Specialist.
 - Function: Application modernization, pipeline creation and process automation.
-- Barueri - SP
+- Barueri, SP - Brazil 🇧🇷
 - 08/2019 - 09/2020
 - Follow-up: Retail
 - Role:
@@ -124,7 +124,7 @@
 
 - Position: Infrastructure Analyst (LATAM) Spec.
 - Function: Application modernization, pipeline creation and process automation.
-- Sao Paulo-SP
+- São Paulo, SP - Brazil 🇧🇷
 - 10/2017 - 08/2019
 - Follow-up: e-commerce
 - Technologies:
@@ -134,7 +134,7 @@
 ### C&A Modas do Brasil
 
 - Position: Linux/Unix Infrastructure Analyst Sr.
-- Barueri - SP
+- Barueri, SP - Brazil 🇧🇷
 - 08/2014 - 10/2017
 - Follow-up: Retail
 - Technologies:
@@ -143,7 +143,7 @@
 ### e-Deploy Integrated Technology and Solutions
 
 - Position: Zabbix Specialist
-- Barueri - SP
+- Barueri, SP - Brazil 🇧🇷
 - 08/2013 - 07/2014
 - Follow-up: Technology
 - Technologies:
@@ -152,7 +152,7 @@
 ### Grupo Logos – Logistics and Planned Transport
 
 - Position: System Administrator
-- Barueri - SP
+- Barueri, SP - Brazil 🇧🇷
 - 01/2012 - 09/2013
 - Follow-up: Logistics and Transport
 - Technologies:
@@ -161,7 +161,7 @@
 ### FETAESP - Federation of Agricultural Workers of the State of São Paulo
 
 - Position: Network Administrator
-- Location: Agudos - SP
+- Agudos, SP - Brazil 🇧🇷
 - Duration: 04/2010 to 03/2011
 - Follow-up: Union Body.
 - Technologies:
@@ -170,7 +170,7 @@
 ### Santa Alice Group
 
 - Position: Network Administrator
-- Location: Presidente Prudente - SP
+- Presidente Prudente, SP - Brazil 🇧🇷
 - Duration: 05/2006 to 09/2008
 - Follow-up: Secondary and elementary education institution.
 - Technologies:
@@ -179,7 +179,7 @@
 ### e-Future Informatics
 
 - Position: Owner
-- Location: Presidente Prudente - SP
+- Presidente Prudente, SP - Brazil 🇧🇷
 - Duration: 04/2002 to 09/2008
 - Follow-up: IT Maintenance and Support Company.
 - Functions Performed:
