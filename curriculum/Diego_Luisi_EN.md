@@ -89,7 +89,7 @@
 ### Evolution
 
 - Position: SRE (Site Reliability Engineering).
-- Lisbon, Lisbon/Portugal 🇵🇹
+- Lisbon, Lisbon - Portugal 🇵🇹
 - 04/2022 - current
 - Follow-up: Gaming
 - Role:
