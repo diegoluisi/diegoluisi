@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Diego Luisi
+title: SRE | DevOps Engineer | DevXP | GitOps | Kubernetes | Cloud
+email: contato@diegoluisi.eti.br
+website: www.diegoluisi.eti.br
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: diegoluisi
+github_username:  diegoluisi
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: diegoluisi
+linkedin_username: diegoluisi
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: diegoluisi
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
