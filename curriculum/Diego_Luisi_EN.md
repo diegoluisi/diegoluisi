@@ -93,7 +93,7 @@
 - 04/2022 - current
 - Follow-up: Gaming
 - Role:
-  - As an SRE, my challenge is to work with the development and product teams and create automations that help to have a better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
+  - As an SRE, my challenge is to work with the development and product teams and create automations that provide better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
 - Technologies:
   - [ArgoCD, Crossplane, GCP, GKE, GitHub, GitHub Actions, Helm, Istio, Kubernetes, Loki, OpenShift, SealedSecrets]
 
@@ -122,7 +122,7 @@
 
 ### Dafiti Group (GFG Group)
 
-- Position: Infrastructure Analyst (LATAM) Spec.
+- Position: Senior/Specialist DevOps Engineer.
 - Function: Application modernization, pipeline creation and process automation.
 - São Paulo, SP - Brazil 🇧🇷
 - 10/2017 - 08/2019
@@ -133,25 +133,25 @@
 
 ### C&A Modas do Brasil
 
-- Position: Linux/Unix Infrastructure Analyst Sr.
+- Position: Senior SysAdmin.
 - Barueri, SP - Brazil 🇧🇷
 - 08/2014 - 10/2017
 - Follow-up: Retail
 - Technologies:
-  - [Centrify, Device42, GitLab, GitLabCI, JAVA, Jenkins, MCollective, MacOS Server, Netscaler, OpenScap, Oracle, Puppet, Puppet-DB, Puppet-Explorer, Rundeck, SALT, SuSE Linux, SuSE-Manager, X-Store, r10k]
+  - [Centrify, Device42, GitLab, GitLabCI, JAVA, Jenkins, MCollective, MacOS Server, Netscaler, OpenScap, Oracle, Puppet, Puppet-DB, Puppet-Explorer, Rundeck, SALT, SuSE Linux, SuSE-Manager, VMware, X-Store, r10k]
 
 ### e-Deploy Integrated Technology and Solutions
 
-- Position: Zabbix Specialist
+- Position: Senior SysAdmin/Monitoring
 - Barueri, SP - Brazil 🇧🇷
 - 08/2013 - 07/2014
 - Follow-up: Technology
 - Technologies:
-  - [Linux, RedHat, Zabbix, Grafana, MySQL, Sonicwall, JBoss]
+  - [Linux, RedHat, Zabbix, Grafana, MySQL, Sonicwall, JBoss, VMWare]
 
 ### Grupo Logos – Logistics and Planned Transport
 
-- Position: System Administrator
+- Position: Senior SysAdmin
 - Barueri, SP - Brazil 🇧🇷
 - 01/2012 - 09/2013
 - Follow-up: Logistics and Transport
@@ -160,7 +160,7 @@
 
 ### FETAESP - Federation of Agricultural Workers of the State of São Paulo
 
-- Position: Network Administrator
+- Position: SysAdmin
 - Agudos, SP - Brazil 🇧🇷
 - Duration: 04/2010 to 03/2011
 - Follow-up: Union Body.
@@ -169,7 +169,7 @@
 
 ### Santa Alice Group
 
-- Position: Network Administrator
+- Position: SysAdmin
 - Presidente Prudente, SP - Brazil 🇧🇷
 - Duration: 05/2006 to 09/2008
 - Follow-up: Secondary and elementary education institution.
