@@ -73,8 +73,8 @@
 - Puppet Fundamentals - (24 Hours)
 - Puppet Practitioner – (24 Hours)
 - Puppet Introduction – (8 Hours)
-- [AIX-AN140BR]AIX Jump Start – (40 Hours)
-- [SUSE3126]SuSE Linux Enterprise server 12 (40 Hours)
+- [AIX-AN140BR] AIX Jump Start – (40 Hours)
+- [SUSE3126] SuSE Linux Enterprise server 12 (40 Hours)
 - SonicWALL – Network Security Basic Administrator (40 hours)
 - VMware - Implementing and Managing ESXi and vCenter 5.1 servers – (20 hours)
 - [LX0-101/102] Linux – Preparatory course LX0-101/102 (8 weeks)
@@ -92,6 +92,8 @@
 - Lisbon/Portugal
 - 04/2022 - current
 - Follow-up: Gaming
+- Role:
+  - As an SRE, my challenge is to create automations that help the developer to have a better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
 - Technologies:
   - [ArgoCD, Crossplane, GCP, GKE, GitHub, GitHub Actions, Helm, Istio, Kubernetes, Loki, OpenShift, SealedSecrets]
 
@@ -101,8 +103,10 @@
 - São Paulo Brazil
 - 09/2020 - 04/2022
 - Follow-up: e-commerce
+- Role:
+  - Technical leader of Squad DevXP, my role is to bring the best development practices and ensure a better development experience and ensure that reliable code will be delivered in production, in an automated and safe way.
 - Technologies:
-  - [AlertManager, ASG, ArgoCD, Backstage, Circle-CI, Code Depoy, EC2, EKS, Grafana, Graylog, GitHub, Helm, Lambda, NGINX, Prometheus, Puppet, R53, RabbitMQ, Redis, S3, SealedSecrets, Terraform, Terragrunt, Vault]
+  - [AlertManager, ASG, ArgoCD, Backstage, Circle-CI, Code Depoy, Crossplane, Docker, EC2, EKS, Grafana, Graylog, GitHub, Helm, Istio, Kiali, Lambda, NGINX, Prometheus, Puppet, R53, RabbitMQ, Redis, S3, SealedSecrets, Terraform, Terragrunt, Vault]
 
 ### C&A Modas do Brasil
 
@@ -111,8 +115,10 @@
 - Barueri - SP
 - 08/2019 - 09/2020
 - Follow-up: Retail
+- Role:
+  - Responsible for the modernization of applications and infrastructure, I had the challenge of transforming legacy applications into micro services by adopting practices of containerization and automation of processes and pipelines and cloud services.
 - Technologies:
-  - [Puppet, R10k, Puppet-Bolt, GitLab, GitLab-CI, Vagrant, Terraform, Logstash, Elasticsearch, Kibana, Kafka, Filebeat, Grafana, Prometheus, Icinga2, OpenShift, GitLab, Gitlab-CI, Prometheus, ELK, Grafana, Kafka]
+  - [ELK, Elasticsearch, Filebeat, GitLab, GitLab, Gitlab-CI, Grafana, Icinga2, Kafka, Kibana, Logstash, OpenShift, Prometheus, Puppet, Puppet-Bolt, R10k, Terraform, Vagrant]
 
 ### Dafiti Group (GFG Group)
 
@@ -132,7 +138,7 @@
 - 08/2014 - 10/2017
 - Follow-up: Retail
 - Technologies:
-  - [Centrify, Device42, GitLab, GitLabCI, JAVA, Jenkins, MCollective, MacOS Server, OpenScap, Oracle, Puppet, Puppet-DB, Puppet-Explorer, Rundeck, SALT, SuSE Linux, SuSE-Manager, X-Store, r10k]
+  - [Centrify, Device42, GitLab, GitLabCI, JAVA, Jenkins, MCollective, MacOS Server, Netscaler, OpenScap, Oracle, Puppet, Puppet-DB, Puppet-Explorer, Rundeck, SALT, SuSE Linux, SuSE-Manager, X-Store, r10k]
 
 ### e-Deploy Integrated Technology and Solutions
 
