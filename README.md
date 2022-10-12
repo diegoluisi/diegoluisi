@@ -27,12 +27,19 @@
 ### 🎖️ Badges
 <p align="left">
 <img align="left" alt="GitOps" width="100px" src="https://lwfiles.mycourse.app/codefresh-public/0833ce0a2b1436c50f6e3e29384175c2.png" />
+
 <a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> 
-    <img src=".images\foundation-for-istio-by-solo-io.png" alt="istio workshop" width="120" height="120"/> </a>
+    <img src=".images/fundamentals-for-istio-by-solo-io.png" alt="Istio Fundamentals" width="120" height="120"/> </a>
+
+<a href="https://www.credly.com/badges/ddc221e1-2537-47d1-8531-ac8640de3582/public_url" target="_blank" rel="noreferrer"> 
+    <img src=".images/fundamentals-for-istio-ambient-mesh-by-solo-io.png" alt="Fundamentals for Istio Ambient Mesh" width="120" height="120"/> </a>
+
 <a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> 
-    <img src=".images\essentials-for-istio-by-solo-io.png" alt="istio workshop" width="120" height="120"/> </a>
+    <img src=".images/intermediate-for-istio-by-solo-io.png" alt="Intermediate for Istio" width="120" height="120"/> </a>
+
 <a href="https://www.credly.com/badges/cd8ee582-92dc-4475-8d5e-f214718082e8/public_url" target="_blank" rel="noreferrer"> 
-    <img src=".images\expert-for-istio-by-solo-io.1.png" alt="istio workshop" width="120" height="120"/> </a>
+    <img src=".images/expert-for-istio-by-solo-io.png" alt="Expert for Istio" width="120" height="120"/> </a>
+
 </p>
 
 
