@@ -7,9 +7,9 @@
 
 - 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, with 20 years of experience as a SysAdmin, currently working as an SRE, always open to learning new technologies and procedures to improve every day more as a professional.
 - 👀 I’m interested in Open Source projects (Linux, CNCF, GitOps and Tools)
-- 📚 I’m currently learning AWS, K8S, Python, and some automations tools like Argo (CD, Autopilot, Events, Rollouts and Workflows).
-- 🌱 Goals: Immigrate to another country, increase my programming skills
-- 💞 I love a good coffee and the old Rock and Roll, on the weekends taking some highways with my Harley Davidson.
+- 📚 I’m currently increasing my skills on AWS, K8S, Python, Backstage and some automations tools like Argo (CD, Autopilot, Events, Rollouts and Workflows).
+- 🌱 Goals: Increase my programming skills.
+- 💞 I love old and good Rock and Roll, on weekends traveling on a Harley Davidson.
 
 <br />
 

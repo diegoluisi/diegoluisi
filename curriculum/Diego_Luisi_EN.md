@@ -87,7 +87,7 @@
 
 ## Professional Experiences
 
-### Evolution
+### Evolution Gaming
 
 * Position: SRE (Site Reliability Engineering).
 * Lisbon, Lisbon - Portugal 🇵🇹
