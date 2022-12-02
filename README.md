@@ -40,6 +40,9 @@
 <a href="https://www.credly.com/badges/cd8ee582-92dc-4475-8d5e-f214718082e8/public_url" target="_blank" rel="noreferrer"> 
     <img src=".images/expert-for-istio-by-solo-io.png" alt="Expert for Istio" width="120" height="120"/> </a>
 
+<a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> 
+    <img src=".images/fundamentals-for-cilium-by-solo-io.png" alt="Fundamentals for Cilium" width="120" height="120"/> </a>
+
 </p>
 
 
