@@ -44,6 +44,7 @@
   
 ## Certificates and Badges
 
+* Fundamentals for Cilium
 * GitOps at Scacle
 * Istio Ambient Mesh
 * Istio Expert
