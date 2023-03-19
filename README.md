@@ -155,11 +155,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[GitOps] 🚀 Start a GitOps journey with ArgoCD and Argo-CD Autopilot](https://www.youtube.com/watch?v=nR-i0Hn6trw)
 - [How to improve the development journey in your company with Backstage.](https://www.youtube.com/watch?v=qFP_CcLp0Ao)
 - [GitOps Infrastructure with Backstage + Crossplane + ArgoCD](https://www.youtube.com/watch?v=Ii-lpLuzPxw)
 - [Bacula Client Install Windows 2008 R2 X64 @diegoluisi](https://www.youtube.com/watch?v=XYr9QrrrEZ8)
 - [Instalação Ocomon no CentoOS.mp4](https://www.youtube.com/watch?v=rXk6NDRi3hk)
-- [Instalação CentOS 5.4 em modo texto](https://www.youtube.com/watch?v=ik7WDrOYwPw)
 <!-- YOUTUBE:END -->
 
 <br />
