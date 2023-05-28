@@ -88,11 +88,22 @@
 
 ## Professional Experiences
 
+### Shield
+
+* Position: DevOps Enginer
+* Lisbon, Lisbon - Portugal 🇵🇹
+* 04/2023 - Current
+* Follow-up: Financial Compliance
+* Role:
+  * As an SRE, my challenge is to work with the development and product teams and create automations that provide better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
+* Technologies:
+  * [ArgoCD, Crossplane, GCP, GKE, GitHub, GitHub Actions, Helm, Istio, Kubernetes, Loki, OpenShift, SealedSecrets]
+
 ### Evolution Gaming
 
 * Position: SRE (Site Reliability Engineering).
 * Lisbon, Lisbon - Portugal 🇵🇹
-* 04/2022 - current
+* 04/2022 - 04/2023
 * Follow-up: Gaming
 * Role:
   * As an SRE, my challenge is to work with the development and product teams and create automations that provide better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
@@ -101,7 +112,7 @@
 
 ### Dafiti Group (GFG Group) II
 
-* Position: SRE (Site Reliability Engineering).
+* Position: SRE (Site Reliability Engineering) - Tech Leader.
 * São Paulo, SP - Brazil 🇧🇷
 * 09/2020 - 04/2022
 * Follow-up: e-commerce
@@ -112,7 +123,7 @@
 
 ### C&A Modas do Brasil - II
 
-* Position: DevOps Specialist.
+* Position: DevOps Specialist - Tech Leader.
 * Function: Application modernization, pipeline creation and process automation.
 * Barueri, SP - Brazil 🇧🇷
 * 08/2019 - 09/2020
@@ -124,7 +135,7 @@
 
 ### Dafiti Group (GFG Group) - I
 
-* Position: Senior/Specialist DevOps Engineer.
+* Position: Senior/Specialist DevOps Engineer - Tech Leader.
 * Function: Application modernization, pipeline creation and process automation.
 * São Paulo, SP - Brazil 🇧🇷
 * 10/2017 - 08/2019
@@ -219,9 +230,10 @@
 * File Server:
   * SAMBA.
 * Infrastructure as Code:
-  * Terraform
   * Crossplane
   * CloudFormation
+  * Terraform
+  * Terragrunt
 * ITSM / CMDB:
   * Jira/Confluence, Device42, GLPI, Ocs Inventory and OTRS.
 * Log Management:
