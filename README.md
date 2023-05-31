@@ -43,6 +43,9 @@
 <a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> 
     <img src=".images/fundamentals-for-cilium-by-solo-io.png" alt="Fundamentals for Cilium" width="120" height="120"/> </a>
 
+<a href="https://www.credly.com/badges/b3c4a257-4d9f-4bc6-9961-374b12e1c78d/public_url" target="_blank" rel="noreferrer"> 
+    <img src=".images/fundamentals-for-ebpf-by-solo-io.png" alt="Fundamentals for eBPF" width="120" height="120"/> </a>
+
 </p>
 
 
