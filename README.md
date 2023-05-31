@@ -34,17 +34,17 @@
 <a href="https://www.credly.com/badges/ddc221e1-2537-47d1-8531-ac8640de3582/public_url" target="_blank" rel="noreferrer"> 
     <img src=".images/fundamentals-for-istio-ambient-mesh-by-solo-io.png" alt="Fundamentals for Istio Ambient Mesh" width="120" height="120"/> </a>
 
-<a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> 
-    <img src=".images/intermediate-for-istio-by-solo-io.png" alt="Intermediate for Istio" width="120" height="120"/> </a>
-
-<a href="https://www.credly.com/badges/cd8ee582-92dc-4475-8d5e-f214718082e8/public_url" target="_blank" rel="noreferrer"> 
-    <img src=".images/expert-for-istio-by-solo-io.png" alt="Expert for Istio" width="120" height="120"/> </a>
-
 <a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> 
     <img src=".images/fundamentals-for-cilium-by-solo-io.png" alt="Fundamentals for Cilium" width="120" height="120"/> </a>
 
 <a href="https://www.credly.com/badges/b3c4a257-4d9f-4bc6-9961-374b12e1c78d/public_url" target="_blank" rel="noreferrer"> 
     <img src=".images/fundamentals-for-ebpf-by-solo-io.png" alt="Fundamentals for eBPF" width="120" height="120"/> </a>
+
+<a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> 
+    <img src=".images/intermediate-for-istio-by-solo-io.png" alt="Intermediate for Istio" width="120" height="120"/> </a>
+
+<a href="https://www.credly.com/badges/cd8ee582-92dc-4475-8d5e-f214718082e8/public_url" target="_blank" rel="noreferrer"> 
+    <img src=".images/expert-for-istio-by-solo-io.png" alt="Expert for Istio" width="120" height="120"/> </a>
 
 </p>
 
