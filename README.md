@@ -149,7 +149,7 @@
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://www.diegoluisi.eti.br/2023/06/13/hello-world/)
+- [Hello world!](https://www.diegoluisi.eti.br/2023/08/09/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
