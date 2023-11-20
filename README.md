@@ -150,6 +150,10 @@
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Hello world!](https://www.diegoluisi.eti.br/2023/08/11/hello-world/)
+- [Creating your first developer portal using Backstage.](https://www.diegoluisi.eti.br/2022/06/26/creating-your-first-developer-portal-using-backstage/)
+- [IDP – Backstage + Crossplane + ArgoCD](https://www.diegoluisi.eti.br/2022/05/31/idp-backstage-crossplane-argocd/)
+- [Develop and Deploy cloud-native software faster with DevSpace and K3D](https://www.diegoluisi.eti.br/2022/03/01/develop-and-deploy-cloud-native-software-faster-with-devspace-em-k3d/)
+- [Deploy Kubernetes cluster  with Vagrant and Ansible for Development](https://www.diegoluisi.eti.br/2022/01/31/deploy-local-kubernetes-cluster-with-vagrant-and-anasible-for-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
