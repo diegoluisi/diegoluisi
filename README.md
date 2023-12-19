@@ -27,9 +27,8 @@
 ### 🎖️ Badges
 
 <p align="left">
-<img align="left" alt="GitOps Fundamentals" width="100px" src="https://lwfiles.mycourse.app/codefresh-public/0833ce0a2b1436c50f6e3e29384175c2.png" />
+<img align="left" alt="GitOps Fundamentals" width="200px" src=".images/codefresh-gitops-fundamentals.png" />
 
-<p align="left">
 <img align="left" alt="GitOps at Scale" width="200px" src=".images/codefresh-gitops-scale.png" />
 
 <a href="https://www.credly.com/badges/2c9c4338-7478-44bc-b447-693d55002232/public_url" target="_blank" rel="noreferrer">
