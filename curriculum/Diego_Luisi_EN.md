@@ -12,14 +12,14 @@
 * 🐧 LPI000249557
 * 📨 contato@diegoluisi.eti.br
 * 🌐 <https://www.diegoluisi.eti.br>
+* ⏯️ [YouTube](https://www.youtube.com/@devxp-tech)  
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/diegoluisi)
-* [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/diegoluisi/)
-* [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/devxp-tech/)  
-<!-- * [![YouTube](https://i.stack.imgur.com/tskMh.png) YouTube](https://www.youtube.com/channel/UC9AFVwDEdvU2dG0DW3HfA_A)   -->
+* [![GitHub](https://i.stack.imgur.com/tskMh.png) diegoluisi](https://github.com/diegoluisi/)
+* [![GitHub](https://i.stack.imgur.com/tskMh.png) devxp-tech](https://github.com/devxp-tech/)  
 
 ## Summary of qualifications
 
-* Enthusiastic about the DevOps culture and passionate about Open Source, I have 20 years of background as a SysAdmin, currently working as an SRE, open to learning new technologies and procedures to improve every day more as a professional.
+* Eager to embrace the DevOps culture and fueled by a passion for Open Source, I bring over 20 years of IT expertise. As the owner of the GitHub Organization [devxp-tech](https://github.com/devxp-tech/), I am committed to fostering collaborative projects. Additionally, my [YouTube](https://www.youtube.com/@devxp-tech) channel serves as a platform for sharing knowledge and providing assistance to the community.
 
 ## Professional Expectations
 
@@ -47,6 +47,7 @@
   
 ## Certificates and Badges
 
+* Amazon EKS
 * Fundamentals for eBPF
 * Fundamentals for Cilium
 * GitOps at Scacle
@@ -62,6 +63,9 @@
 
 ## Trainings and Workshops
 
+* [Udemy] Certified Kubernetes Administrator (CKA)
+* [LFS162x] Introduction to DevOps and Site Reliability Engineering
+* [AWS] Amazon EKS - (40 Hours)
 * [solo.io] Fundamentals for eBPF
 * [solo.io] Fundamentals for Cilium
 * [codefresh] GitOps at Scale
@@ -86,7 +90,7 @@
 * SonicWALL – Network Security Basic Administrator (40 hours)
 * VMware - Implementing and Managing ESXi and vCenter 5.1 servers – (20 hours)
 * [LX0-101/102] Linux – Preparatory course LX0-101/102 (8 weeks)
-* ITIL - V3 Foundation - (18 hours)
+* [ITIL] - V3 Foundation - (18 hours)
 * Zimbra – Collaboration Suite (4 hours)
 * Zabbix – Enterprise Open Source Monitoring Solution (4 hours)
 * NGINX – High Performance Web Servers (3 hours)
@@ -101,9 +105,13 @@
 * 04/2023 - Current
 * Follow-up: Financial Compliance
 * Role:
-  * As an SRE, my challenge is to work with the development and product teams and create automations that provide better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
+  * As an DevOps Engineer my focus is on development and operations, focusing on automation, collaboration, and continuous improvement for efficient software deployment and infrastructure management.
 * Technologies:
-  * [AWS, Azure, ArgoCD, ArgoWorkflows, Bitbucket, Bitbucket Pipelines, Crossplane, Harbor, Helm Charts, Istio, Karpenter, Kafka, Keda, Kubernetes (EKS, AKS), Terraform, Terragrunt, Vault]
+  * [AWS, Azure, EKS, AKS, Fargate, OpenSearch, Kafka]
+  * [ArgoCD, ArgoWorkflows, Bitbucket, Bitbucket Pipelines]
+  * [AlertManager, Grafana, Jaeger, Zipkin, Loki, Promtail, Prometheus, Prometheus-Pushgateway,  OpenTelemetry]
+  * [Crossplane, Harbor, Helm Charts, Istio, Karpenter, Kafka, Keda,  Terraform, Terragrunt, Vault]
+  * [Vault, Snyc]
 
 ### Evolution Gaming
 
@@ -118,7 +126,7 @@
 
 ### Dafiti Group (GFG Group) II
 
-* Position: SRE (Site Reliability Engineering) - Tech Leader.
+* Position: Site Reliability Engineering/Platform Engineer (Tech Leader).
 * São Paulo, SP - Brazil 🇧🇷
 * 09/2020 - 04/2022
 * Follow-up: e-commerce
