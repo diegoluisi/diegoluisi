@@ -28,6 +28,9 @@
 <p align="left">
 <img align="left" alt="GitOps" width="100px" src="https://lwfiles.mycourse.app/codefresh-public/0833ce0a2b1436c50f6e3e29384175c2.png" />
 
+<a href="https://www.credly.com/badges/2c9c4338-7478-44bc-b447-693d55002232/public_url" target="_blank" rel="noreferrer"> 
+    <img src=".images/aws-knowledge-amazon-eks.png" alt="Amazon EKS" width="120" height="120"/> </a>
+
 <a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> 
     <img src=".images/fundamentals-for-istio-by-solo-io.png" alt="Istio Fundamentals" width="120" height="120"/> </a>
 

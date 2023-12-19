@@ -14,6 +14,9 @@
 * 🌐 <https://www.diegoluisi.eti.br>
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/diegoluisi)
 * [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/diegoluisi/)
+* [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/devxp-tech/)  
+<!-- * [![YouTube](https://i.stack.imgur.com/tskMh.png) YouTube](https://www.youtube.com/channel/UC9AFVwDEdvU2dG0DW3HfA_A)   -->
+
 ## Summary of qualifications
 
 * Enthusiastic about the DevOps culture and passionate about Open Source, I have 20 years of background as a SysAdmin, currently working as an SRE, open to learning new technologies and procedures to improve every day more as a professional.
@@ -44,6 +47,7 @@
   
 ## Certificates and Badges
 
+* Fundamentals for eBPF
 * Fundamentals for Cilium
 * GitOps at Scacle
 * Istio Ambient Mesh
@@ -58,6 +62,8 @@
 
 ## Trainings and Workshops
 
+* [solo.io] Fundamentals for eBPF
+* [solo.io] Fundamentals for Cilium
 * [codefresh] GitOps at Scale
 * [solo.io] Operationalizing Istio [Expert]
 * [solo.io] Deploy Istio for Production [Essentials]
@@ -88,16 +94,16 @@
 
 ## Professional Experiences
 
-### Shield
+### Shield Financial Compliance
 
-* Position: DevOps Enginer
+* Position: DevOps Engineer
 * Lisbon, Lisbon - Portugal 🇵🇹
 * 04/2023 - Current
 * Follow-up: Financial Compliance
 * Role:
   * As an SRE, my challenge is to work with the development and product teams and create automations that provide better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
 * Technologies:
-  * [ArgoCD, Crossplane, GCP, GKE, GitHub, GitHub Actions, Helm, Istio, Kubernetes, Loki, OpenShift, SealedSecrets]
+  * [AWS, Azure, ArgoCD, ArgoWorkflows, Bitbucket, Bitbucket Pipelines, Crossplane, Harbor, Helm Charts, Istio, Karpenter, Kafka, Keda, Kubernetes (EKS, AKS), Terraform, Terragrunt, Vault]
 
 ### Evolution Gaming
 
@@ -108,7 +114,7 @@
 * Role:
   * As an SRE, my challenge is to work with the development and product teams and create automations that provide better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
 * Technologies:
-  * [ArgoCD, Crossplane, GCP, GKE, GitHub, GitHub Actions, Helm, Istio, Kubernetes, Loki, OpenShift, SealedSecrets]
+  * [ArgoCD, Backstage, Crossplane, Grafana, GCP, GKE, GitHub, GitHub Actions, Helm Charts, Istio, Kafka, Kubernetes (GKE and Anthos), Kustomize, Loki, OpenShift, Prometheus, Thanos, SealedSecrets]
 
 ### Dafiti Group (GFG Group) II
 
@@ -119,7 +125,7 @@
 * Role:
   * Technical leader of Squad DevXP, my role is to bring the best development practices and ensure a better development experience and ensure that reliable code will be delivered in production, in an automated and safe way.
 * Technologies:
-  * [AlertManager, ASG, ArgoCD, Backstage, Circle-CI, CodeDepoy, Crossplane, Docker, EC2, EKS, Grafana, Graylog, GitHub, Helm, Istio, Kiali, Lambda, NGINX, Prometheus, Puppet, R53, RabbitMQ, Redis, S3, SealedSecrets, Terraform, Terragrunt, Vault]
+  * [AlertManager, ASG, ArgoCD, Backstage, Circle-CI, CodeDepoy, Crossplane, DevSpace, Docker, EC2, EKS, Grafana, Graylog, GitHub, Helm, Istio, Karpenter, Kiali, Lambda, Loki, NGINX, Prometheus, Puppet, R53, RabbitMQ, Redis, S3, SealedSecrets, Terraform, Terragrunt, Vault]
 
 ### C&A Modas do Brasil - II
 
@@ -135,7 +141,7 @@
 
 ### Dafiti Group (GFG Group) - I
 
-* Position: Senior/Specialist DevOps Engineer - Tech Leader.
+* Position: Senior / Specialist DevOps Engineer - Tech Leader.
 * Function: Application modernization, pipeline creation and process automation.
 * São Paulo, SP - Brazil 🇧🇷
 * 10/2017 - 08/2019
@@ -146,7 +152,7 @@
 
 ### C&A Modas do Brasil - I
 
-* Position: Senior SysAdmin.
+* Position: Senior SysAdmin / DevOps Engineer.
 * Barueri, SP - Brazil 🇧🇷
 * 08/2014 - 10/2017
 * Follow-up: Retail
@@ -155,12 +161,12 @@
 
 ### e-Deploy Integrated Technology and Solutions
 
-* Position: Senior SysAdmin/Monitoring
+* Position: Senior SysAdmin / Monitoring Specialist
 * Barueri, SP - Brazil 🇧🇷
 * 08/2013 - 07/2014
 * Follow-up: Technology
 * Technologies:
-  * [Linux, RedHat, Zabbix, Grafana, MySQL, Sonicwall, JBoss, VMWare]
+  * [Linux, RedHat, Zabbix, Grafana, MySQL, Sonicwall, Apache, JBoss, VMWare, MySQL]
 
 ### Grupo Logos – Logistics and Planned Transport
 
@@ -169,7 +175,7 @@
 * 01/2012 - 09/2013
 * Follow-up: Logistics and Transport
 * Technologies:
-  * [Active Directory, Bind9, Fail2Ban, Grafana, GitLab, GitLab CI, MCollective, Postgrey, Puppet, Puppet-Board, Sonicwal, VMware, Xeams, Zabbix, Zimbra]
+  * [Active Directory, Apache, Bind9, Fail2Ban, Grafana, GitLab, GitLab CI, MCollective, MySQL, NGINX,Postgrey, Puppet, Puppet-Board, Sonicwal, VMware, Xeams, Zabbix, Zimbra]
 
 ### FETAESP - Federation of Agricultural Workers of the State of São Paulo
 
@@ -187,7 +193,7 @@
 * Duration: 05/2006 to 09/2008
 * Follow-up: Secondary and elementary education institution.
 * Technologies:
-  * [Active Directory, Iptables, Squid, Squid-Guard, Sarg]
+  * [Active Directory, Iptables, Linux, Microsoft, Squid, Squid-Guard, Sarg]
 
 ### e-Future Informatics
 
