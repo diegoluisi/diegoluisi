@@ -30,7 +30,7 @@
 <img align="left" alt="GitOps Fundamentals" width="100px" src="https://lwfiles.mycourse.app/codefresh-public/0833ce0a2b1436c50f6e3e29384175c2.png" />
 
 <p align="left">
-<img align="left" alt="GitOps Fundamentals" width="100px" src=".images/codefresh-gitops-scale.png" />
+<img align="left" alt="GitOps at Scale" width="200px" src=".images/codefresh-gitops-scale.png" />
 
 <a href="https://www.credly.com/badges/2c9c4338-7478-44bc-b447-693d55002232/public_url" target="_blank" rel="noreferrer">
     <img src=".images/aws-knowledge-amazon-eks.png" alt="Amazon EKS" width="120" height="120"/> </a>
