@@ -47,7 +47,8 @@
   
 ## Certificates and Badges
 
-* Amazon EKS
+* AWS - Amazon EKS
+* AWS - Cloud Essentials
 * Fundamentals for eBPF
 * Fundamentals for Cilium
 * GitOps at Scacle
@@ -64,8 +65,9 @@
 ## Trainings and Workshops
 
 * [Udemy] Certified Kubernetes Administrator (CKA)
-* [LFS162x] Introduction to DevOps and Site Reliability Engineering
 * [AWS] Amazon EKS - (40 Hours)
+* [AWS] Cloud Practitioner Essentials
+* [LFS162x] Introduction to DevOps and Site Reliability Engineering
 * [solo.io] Fundamentals for eBPF
 * [solo.io] Fundamentals for Cilium
 * [codefresh] GitOps at Scale
