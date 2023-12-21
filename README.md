@@ -48,6 +48,7 @@
 <img align="left" alt="GitOps at Scale" width="200px" src=".images/codefresh-gitops-scale.png" />
 </p>
 
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
