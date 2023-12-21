@@ -42,7 +42,7 @@
   <img src=".images/fundamentals-for-cilium-by-solo-io.png" alt="Fundamentals for Cilium" width="120" height="120"/> </a>
 <a href="https://www.credly.com/badges/b3c4a257-4d9f-4bc6-9961-374b12e1c78d/public_url" target="_blank" rel="noreferrer">
   <img src=".images/fundamentals-for-ebpf-by-solo-io.png" alt="Fundamentals for eBPF" width="120" height="120"/> </a>
-<img alt="GitOps Fundamentals" width="210px" src=".images/codefresh-gitops-fundamentals.png" />
+<img alt="GitOps Fundamentals" width="120px" src=".images/codefresh-gitops-fundamentals.png" />
 <img alt="GitOps at Scale" width="210px" src=".images/codefresh-gitops-scale.png" />
 </p>
 
