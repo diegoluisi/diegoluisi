@@ -47,6 +47,7 @@
   
 ## Certificates and Badges
 
+* Akuity - Introduction to Continuous Delivery and GitOps using Argo CD
 * AWS - Amazon EKS
 * AWS - Cloud Essentials
 * Fundamentals for eBPF
@@ -64,6 +65,7 @@
 
 ## Trainings and Workshops
 
+* [Akuity] Introduction to Continuous Delivery and GitOps using Argo CD
 * [Udemy] Certified Kubernetes Administrator (CKA)
 * [AWS] Amazon EKS - (40 Hours)
 * [AWS] Cloud Practitioner Essentials
