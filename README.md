@@ -42,6 +42,8 @@
   <img src=".images/fundamentals-for-cilium-by-solo-io.png" alt="Fundamentals for Cilium" width="120" height="120"/> </a>
 <a href="https://www.credly.com/badges/b3c4a257-4d9f-4bc6-9961-374b12e1c78d/public_url" target="_blank" rel="noreferrer">
   <img src=".images/fundamentals-for-ebpf-by-solo-io.png" alt="Fundamentals for eBPF" width="120" height="120"/> </a>
+<a href="https://www.credly.com/badges/4bbd5adc-13c1-46d4-8e7f-b101ea6ca0b7/public_url" target="_blank" rel="noreferrer">
+  <img src=".images/lfs169-introduction-to-gitops.png" alt="LFS169: Introduction to GitOps" width="120" height="120"/> </a>  
 <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" target="_blank" rel="noreferrer">
   <img src=".images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="120" height="120"/> </a>
 <img alt="GitOps Fundamentals" width="120px" src=".images/codefresh-gitops-fundamentals.png" />

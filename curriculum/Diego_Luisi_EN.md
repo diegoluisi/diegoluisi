@@ -47,6 +47,7 @@
   
 ## Certificates and Badges
 
+* Linux Foundation: Introduction to GitOps
 * Akuity - Introduction to Continuous Delivery and GitOps using Argo CD
 * AWS - Amazon EKS
 * AWS - Cloud Essentials
@@ -65,6 +66,7 @@
 
 ## Trainings and Workshops
 
+* [LFS169] Introduction to GitOps
 * [Akuity] Introduction to Continuous Delivery and GitOps using Argo CD
 * [Udemy] Certified Kubernetes Administrator (CKA)
 * [AWS] Amazon EKS - (40 Hours)
