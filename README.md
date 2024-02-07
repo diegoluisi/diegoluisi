@@ -30,6 +30,8 @@
 <a href="https://www.credly.com/badges/4ad7496c-38ee-43e8-9539-015eae4c8e87/public_url" target="_blank" rel="noreferrer"> <img src=".images/aws-knowledge-cloud-essentials.png" alt="Cloud Essentials"width="120"height="120"/> <a>
 <a href="https://www.credly.com/badges/2c9c4338-7478-44bc-b447-693d55002232/public_url" target="_blank" rel="noreferrer">
   <img src=".images/aws-knowledge-amazon-eks.png" alt="Amazon EKS" width="120" height="120"/> <a>
+<a href="https://www.credly.com/badges/e3b200e1-f329-4893-85cd-a516e0f50e22/public_url" target="_blank" rel="noreferrer">
+  <img src=".images/fundamentals-for-kyverno.png" alt="Fundamentals For Kyverno.png" width="120" height="120"/> <a>
 <a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer">
   <img src=".images/fundamentals-for-istio-by-solo-io.png" alt="Istio Fundamentals" width="120" height="120"/> </a>
 <a href="https://www.credly.com/badges/ddc221e1-2537-47d1-8531-ac8640de3582/public_url" target="_blank" rel="noreferrer">
