@@ -47,6 +47,7 @@
   
 ## Certificates and Badges
 
+* Nirmata: Fundamentals for Kyverno
 * Linux Foundation: Introduction to GitOps
 * Akuity - Introduction to Continuous Delivery and GitOps using Argo CD
 * AWS - Amazon EKS
