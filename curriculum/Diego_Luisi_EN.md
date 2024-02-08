@@ -47,6 +47,8 @@
   
 ## Certificates and Badges
 
+* Isovalent: Cilium Getting Started
+* Datadog: Kubernetes Fundamentals
 * Nirmata: Fundamentals for Kyverno
 * Linux Foundation: Introduction to GitOps
 * Akuity - Introduction to Continuous Delivery and GitOps using Argo CD
@@ -67,6 +69,9 @@
 
 ## Trainings and Workshops
 
+* [DataDog] Progressive Delivery in Kubernetes
+* [DataDog] Monitoring the Kubernetes Platform
+* [DataDog] Introduction to Monitoring Kubernetes
 * [LFS169] Introduction to GitOps
 * [Akuity] Introduction to Continuous Delivery and GitOps using Argo CD
 * [Udemy] Certified Kubernetes Administrator (CKA)
