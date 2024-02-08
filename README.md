@@ -27,6 +27,7 @@
 ### 🎖️ Badges
 
 <p align="left">
+<a href="https://www.credly.com/badges/de419523-caf5-47e1-b1ca-24d913ab8037/public_url" target="_blank" rel="noreferrer"> <img src=".images/kubernetes-fundamentals.png" alt="Datadog Kubernetes Fundamentals"width="120"height="120"/> <a>
 <a href="https://www.credly.com/badges/4ad7496c-38ee-43e8-9539-015eae4c8e87/public_url" target="_blank" rel="noreferrer"> <img src=".images/aws-knowledge-cloud-essentials.png" alt="Cloud Essentials"width="120"height="120"/> <a>
 <a href="https://www.credly.com/badges/2c9c4338-7478-44bc-b447-693d55002232/public_url" target="_blank" rel="noreferrer">
   <img src=".images/aws-knowledge-amazon-eks.png" alt="Amazon EKS" width="120" height="120"/> <a>
