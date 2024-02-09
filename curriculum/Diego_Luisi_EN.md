@@ -38,6 +38,8 @@
 
 ## Languages
 
+* Portuguese
+  * Native
 * English
   * Read / Write - Advanced
   * Conversation - Advanced
@@ -47,6 +49,7 @@
   
 ## Certificates and Badges
 
+* Isovalent: Cilium Ingress Controller
 * Isovalent: Cilium Getting Started
 * Datadog: Kubernetes Fundamentals
 * Nirmata: Fundamentals for Kyverno
@@ -134,7 +137,7 @@
 * Role:
   * As an SRE, my challenge is to work with the development and product teams and create automations that provide better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
 * Technologies:
-  * [ArgoCD, Backstage, Crossplane, Grafana, GCP, GKE, GitHub, GitHub Actions, Helm Charts, Istio, Kafka, Kubernetes (GKE and Anthos), Kustomize, Loki, OpenShift, Prometheus, Thanos, SealedSecrets]
+  * [ArgoCD, Backstage, Cilium, Crossplane, Grafana, GCP, GKE, GitHub, GitHub Actions, Helm Charts, Istio, Kafka, Kubernetes (GKE and Anthos), Kustomize, Loki, OpenShift, Prometheus, Thanos, SealedSecrets]
 
 ### Dafiti Group (GFG Group) II
 
