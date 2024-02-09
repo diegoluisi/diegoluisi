@@ -49,6 +49,7 @@
   
 ## Certificates and Badges
 
+* Isovalent: Hubble Flow Visibility
 * Isovalent: Cilium Ingress Controller
 * Isovalent: Cilium Getting Started
 * Datadog: Kubernetes Fundamentals

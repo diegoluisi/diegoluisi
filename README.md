@@ -49,6 +49,8 @@
   <img src=".images/cilium-getting-started.png" alt="Cilium Getting Started" width="120" height="120"/> </a>
 <a href="https://www.credly.com/badges/f29769eb-7070-40a3-886e-698f476b2412/public_url" target="_blank" rel="noreferrer">
   <img src=".images/cilium-ingress-controller.png" alt="Cilium Ingress Controller" width="120" height="120"/> </a>
+<a href="https://www.credly.com/badges/ae01efe7-49ef-4fcd-9ee8-975b82ec4d83/public_url" target="_blank" rel="noreferrer">
+  <img src=".images/hubble-flow-visibility.png" alt="Hubble Flow Visibility" width="120" height="120"/> </a>
 <a href="https://www.credly.com/badges/71b57ca2-c870-4f9f-80a9-bba2f971899f/public_url" target="_blank" rel="noreferrer">
   <img src=".images/lfs169-introduction-to-gitops.png" alt="LFS169: Introduction to GitOps" width="120" height="120"/> </a>  
 <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" target="_blank" rel="noreferrer">
