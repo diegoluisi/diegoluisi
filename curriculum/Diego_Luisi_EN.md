@@ -73,6 +73,7 @@
 
 ## Trainings and Workshops
 
+* [AWS] AWS Well-Architected Foundations
 * [DataDog] Progressive Delivery in Kubernetes
 * [DataDog] Monitoring the Kubernetes Platform
 * [DataDog] Introduction to Monitoring Kubernetes
