@@ -79,6 +79,7 @@
 * [LFS169] Introduction to GitOps
 * [Akuity] Introduction to Continuous Delivery and GitOps using Argo CD
 * [Udemy] Certified Kubernetes Administrator (CKA)
+* [AWS] Getting Started with DevOps on AWS
 * [AWS] Amazon EKS - (40 Hours)
 * [AWS] Cloud Practitioner Essentials
 * [LFS162x] Introduction to DevOps and Site Reliability Engineering
