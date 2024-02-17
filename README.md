@@ -29,9 +29,10 @@
 <p align="left">
 <a href="https://www.credly.com/badges/4ad7496c-38ee-43e8-9539-015eae4c8e87/public_url" target="_blank" rel="noreferrer"> <img src=".images/aws-knowledge-cloud-essentials.png" alt="Cloud Essentials"width="120"height="120"/> <a>
 <a href="https://www.credly.com/badges/2c9c4338-7478-44bc-b447-693d55002232/public_url" target="_blank" rel="noreferrer"> <img src=".images/aws-knowledge-amazon-eks.png" alt="Amazon EKS" width="120" height="120"/> <a>
-<a href="https://www.credly.com/badges/2c9c4338-7478-44bc-b447-693d55002232/public_url" target="_blank" rel="noreferrer"> <img src=".images/well-architected-proficient.png" alt="Amazon Well Architected" width="120" height="120"/> <a>
+<a href="https://www.credly.com/badges/6e3b0d7d-a46b-4a45-885f-ce7077935c2b/public_url" target="_blank" rel="noreferrer"> <img src=".images/well-architected-proficient.png" alt="Amazon Well Architected" width="120" height="120"/> <a>
 <a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> <img src=".images/cilium-getting-started.png" alt="Cilium Getting Started" width="120" height="120"/> </a>
 <a href="https://www.credly.com/badges/f29769eb-7070-40a3-886e-698f476b2412/public_url" target="_blank" rel="noreferrer"> <img src=".images/cilium-ingress-controller.png" alt="Cilium Ingress Controller" width="120" height="120"/> </a>
+<a href="https://www.credly.com/badges/b15309de-ecfb-48b2-94ba-f29063a4b62d/public_url" target="_blank" rel="noreferrer"> <img src=".images/cilium-gateway-api.png" alt="Cilium Gateway Api" width="120" height="120"/> </a>
 <a href="https://www.credly.com/badges/ae01efe7-49ef-4fcd-9ee8-975b82ec4d83/public_url" target="_blank" rel="noreferrer"> <img src=".images/hubble-flow-visibility.png" alt="Hubble Flow Visibility" width="120" height="120"/> </a>
 <a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> <img src=".images/fundamentals-for-istio-by-solo-io.png" alt="Istio Fundamentals" width="120" height="120"/> </a>
 <a href="https://www.credly.com/badges/ddc221e1-2537-47d1-8531-ac8640de3582/public_url" target="_blank" rel="noreferrer"> <img src=".images/fundamentals-for-istio-ambient-mesh-by-solo-io.png" alt="Fundamentals for Istio Ambient Mesh" width="120" height="120"/> </a>
