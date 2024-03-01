@@ -49,6 +49,9 @@
   
 ## Certificates and Badges
 
+* Isovalent: Discovery Platform Engineer
+* Isovalent: Cilium Advanced Gateway API Use Cases
+* Isovalent: Cilium Gateway API
 * Isovalent: Hubble Flow Visibility
 * Isovalent: Cilium Ingress Controller
 * Isovalent: Cilium Getting Started
@@ -56,6 +59,7 @@
 * Nirmata: Fundamentals for Kyverno
 * Linux Foundation: Introduction to GitOps
 * Akuity - Introduction to Continuous Delivery and GitOps using Argo CD
+* AWS - Well-Architected Proficient 
 * AWS - Amazon EKS
 * AWS - Cloud Essentials
 * Fundamentals for eBPF
