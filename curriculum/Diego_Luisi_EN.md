@@ -1,4 +1,3 @@
-
 # Resume
 
 * Diego Fernando Luisi
@@ -10,7 +9,7 @@
 * Date of Birth: 12/02/1986
 * 📞 +351 910910296
 * 🐧 LPI000249557
-* 📨 contato@diegoluisi.eti.br
+* 📨 <contato@diegoluisi.eti.br>
 * 🌐 <https://www.diegoluisi.eti.br>
 * ⏯️ [YouTube](https://www.youtube.com/@devxp-tech)  
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/diegoluisi)
@@ -49,17 +48,17 @@
   
 ## Certificates and Badges
 
-* Isovalent: Discovery Platform Engineer
 * Isovalent: Cilium Advanced Gateway API Use Cases
 * Isovalent: Cilium Gateway API
 * Isovalent: Hubble Flow Visibility
 * Isovalent: Cilium Ingress Controller
 * Isovalent: Cilium Getting Started
+* Isovalent: Discovery Platform Engineer
 * Datadog: Kubernetes Fundamentals
 * Nirmata: Fundamentals for Kyverno
 * Linux Foundation: Introduction to GitOps
 * Akuity - Introduction to Continuous Delivery and GitOps using Argo CD
-* AWS - Well-Architected Proficient 
+* AWS - Well-Architected Proficient
 * AWS - Amazon EKS
 * AWS - Cloud Essentials
 * Fundamentals for eBPF
@@ -104,9 +103,9 @@
 * [AIX-AN30] Power Systems for AIX PowerVM (40 Hours)
 * [SMGR210] SuSE Manager 3 Administration (24 Hours)
 * [CNS-220] Citrix Netscaler Essential CNS-220 – (24 Hours)
-* Puppet Fundamentals - (24 Hours)
-* Puppet Practitioner – (24 Hours)
-* Puppet Introduction – (8 Hours)
+* [Instruct] Puppet Fundamentals - (24 Hours)
+* [Instruct] Puppet Practitioner – (24 Hours)
+* [Instruct] Puppet Introduction – (8 Hours)
 * [AIX-AN140BR] AIX Jump Start – (40 Hours)
 * [SUSE3126] SuSE Linux Enterprise server 12 (40 Hours)
 * SonicWALL – Network Security Basic Administrator (40 hours)
@@ -127,24 +126,16 @@
 * 04/2023 - Current
 * Follow-up: Financial Compliance
 * Role:
-  * As an DevOps Engineer my focus is on development and operations, focusing on automation, collaboration, and continuous improvement for efficient software deployment and infrastructure management.
-* Technologies:
-  * [AWS, Azure, EKS, AKS, Fargate, OpenSearch, Kafka]
-  * [ArgoCD, ArgoWorkflows, Bitbucket, Bitbucket Pipelines]
-  * [AlertManager, Grafana, Jaeger, Zipkin, Loki, Promtail, Prometheus, Prometheus-Pushgateway,  OpenTelemetry]
-  * [Crossplane, Harbor, Helm Charts, Istio, Karpenter, Kafka, Keda,  Terraform, Terragrunt, Vault]
-  * [Vault, Snyc]
+  * As a DevOps engineer specializing in Cloud Environments such as AWS and Azure, my role is centered around leveraging automation tools like Terraform, Terragrunt, ArgoCD, and Helm to streamline infrastructure provisioning and Kubernetes management. I collaborate closely with development and operations teams to ensure efficient deployment pipelines and scalable architecture. In addition to infrastructure orchestration, I implement advanced Kubernetes features like Istio, Keda, and Karpenter to enhance service mesh capabilities, autoscaling, and workload optimization. Monitoring and observability are integral parts of my responsibilities, where I deploy tools like Grafana, Prometheus, Loki, and OpenTelemetry to gain insights into system performance, troubleshoot issues, and ensure reliable operations. Through continuous improvement and optimization, I strive to maintain robust, resilient, and scalable cloud-native environments that meet the evolving needs of the organization.
 
 ### Evolution Gaming
 
-* Position: SRE (Site Reliability Engineering).
+* Position: Site Reliability Engineering (Tech Leader).
 * Lisbon, Lisbon - Portugal 🇵🇹
 * 04/2022 - 04/2023
 * Follow-up: Gaming
 * Role:
-  * As an SRE, my challenge is to work with the development and product teams and create automations that provide better observability of the application, guaranteed by automated processes that facilitate the deployment of new applications, generating greater competitiveness for the business.
-* Technologies:
-  * [ArgoCD, Backstage, Cilium, Crossplane, Grafana, GCP, GKE, GitHub, GitHub Actions, Helm Charts, Istio, Kafka, Kubernetes (GKE and Anthos), Kustomize, Loki, OpenShift, Prometheus, Thanos, SealedSecrets]
+  * As a Site Reliability Engineering (SRE) Tech Leader, my primary responsibility revolves around managing environments on Google Cloud Platform (GCP) and ensuring their reliability, scalability, and efficiency. Leveraging automation tools like ArgoCD, Crossplane, and Helm, I orchestrate the seamless bootstrap of new clusters and environments, enabling rapid deployment and consistent infrastructure configuration. In addition to automation, I prioritize observability by implementing monitoring solutions such as Prometheus, Loki, and Grafana, enabling proactive identification and resolution of system issues. As part of our internal developer platform, I oversee the implementation and maintenance of Backstage, facilitating collaboration and enhancing developer productivity. Through strategic leadership and continuous improvement, I strive to optimize our GCP environments to meet the organization's performance and reliability requirements effectively.
 
 ### Dafiti Group (GFG Group) II
 
@@ -153,32 +144,25 @@
 * 09/2020 - 04/2022
 * Follow-up: e-commerce
 * Role:
-  * Technical leader of Squad DevXP, my role is to bring the best development practices and ensure a better development experience and ensure that reliable code will be delivered in production, in an automated and safe way.
-* Technologies:
-  * [AlertManager, ASG, ArgoCD, Backstage, Circle-CI, CodeDepoy, Crossplane, DevSpace, Docker, EC2, EKS, Grafana, Graylog, GitHub, Helm, Istio, Karpenter, Kiali, Lambda, Loki, NGINX, Prometheus, Puppet, R53, RabbitMQ, Redis, S3, SealedSecrets, Terraform, Terragrunt, Vault]
+  * As the Technical Leader of Squad DevXP, I am entrusted with fostering a culture of excellence and innovation within the team while driving the adoption of best development practices. Utilizing a robust toolset including AlertManager, ArgoCD, CircleCI, and GitHub, I orchestrate streamlined development workflows and ensure adherence to industry standards. Leveraging technologies like Kubernetes (EKS), Terraform, and Helm, I facilitate the efficient provisioning and management of infrastructure, empowering the team to deliver high-quality solutions with speed and reliability. Additionally, I champion the implementation of observability tools such as Grafana, Prometheus, and Loki to enable proactive monitoring and troubleshooting of applications and systems. Through strategic guidance and mentorship, I strive to cultivate a collaborative environment where team members can thrive and contribute to the success of our projects.
 
 ### C&A Modas do Brasil - II
 
-* Position: DevOps Specialist - Tech Leader.
-* Function: Application modernization, pipeline creation and process automation.
+* Position: DevOps Specialist (Tech Leader).
 * Barueri, SP - Brazil 🇧🇷
 * 08/2019 - 09/2020
 * Follow-up: Retail
 * Role:
-  * Responsible for the modernization of applications and infrastructure, I had the challenge of transforming legacy applications into micro services by adopting practices of containerization and automation of processes and pipelines and cloud services.
-* Technologies:
-  * [Docker, ELK, Elasticsearch, Filebeat, GitLab, Gitlab-CI, Grafana, Icinga2, Kafka, Kibana, Logstash, OpenShift, Prometheus, Puppet, Puppet-Bolt, R10k, Satellite, Terraform, Vagrant]
+  * As a DevOps Specialist and Tech Leader, I spearheaded the modernization efforts for both applications and infrastructure, navigating the transformation of legacy systems into scalable microservices architectures. Employing cutting-edge technologies such as Docker, OpenShift, and Kubernetes, I embraced containerization practices to enhance portability and scalability while streamlining deployment pipelines through automation tools like GitLab CI and Puppet. Leveraging ELK stack components for centralized logging and monitoring, including Elasticsearch, Logstash, and Kibana, I ensured robust observability across the entire ecosystem. Additionally, I optimized infrastructure provisioning and management using Terraform and Vagrant, orchestrating seamless transitions to cloud environments. Through meticulous planning and execution, I successfully modernized our technology stack, empowering the organization to deliver innovative solutions with agility and reliability.
 
 ### Dafiti Group (GFG Group) - I
 
 * Position: Senior / Specialist DevOps Engineer - Tech Leader.
-* Function: Application modernization, pipeline creation and process automation.
 * São Paulo, SP - Brazil 🇧🇷
 * 10/2017 - 08/2019
 * Follow-up: e-commerce
 * Technologies:
   * [AWS, CloudWatch, ELK, Filebeat, Git, Grafana, InfluxDB, Kibana, Kubernetes, Memcached, Metricbeat, NGINX, Puppet, Puppet-Bolt, R10k, Redis, Rundeck, Terraform, Vagrant, Zabbix]
-
 
 ### C&A Modas do Brasil - I
 
@@ -236,11 +220,39 @@
 
 ## Specific knowledge
 
+### Public Cloud
+
+* Amazon Web Services (AWS):
+  * [ACM, ALB, ASG, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch Logs, Code Deploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, GLACIER, IAM, KMS, LAMBDA, RDS, R53, SNS, SQS, S3, VPC]
+* Azure:
+  * [Virtual Machines, Blob Storage, Kubernetes Service (AKS), SQL Database, Cosmos DB, Service Bus, Data Lake Storage, Functions, App Service, Active Directory (Azure AD)]
+* Google Cloud Platform (GCP):
+  * [Compute Engine, Cloud Storage, Google Kubernetes Engine (GKE), Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Google Cloud IAM (Identity and Access Management)]
+
+### The Cloud Native Computing Foundation (CNCF)
+
+* Kubernetes
+  * Application Definition & Image Build
+    * Backstage, Kustomize, Helm, DevSpace and Okteto
+  * Secret Management
+    * Cert Manager, Bitnami Sealed Secrets, Hashicorp Vault
+  * Continuous Integration & Delivery:
+    * ArgoCD AutoPilot, ArgoCD, Argo Events, Argo Workflows and Argo Rollouts
+  * Logging and Tracing
+    * Kiali, Jaeger, ELK, FluentBit, Promtail, Tempo and OpenTelemetry
+  * Monitoring
+    * Alert Manager, Prometheus, Grafana and Loki
+  * Network Policies
+    * Calico, Cilium
+  * Scheduling & Orchestration
+    * Crossplane
+  * Service Mesh
+    * Istio and Cilium
+
 ### Operation System
 
-* Linux/Unix (Red Hat, SuSE, Debian, CoreOS, HP-UX and IBM-AIX)
-
-### Microsoft
+* Linux/Unix
+  * [Red Hat, SuSE, Debian, CoreOS, HP-UX and IBM-AIX]
 
 * Windows Server/Hyper-V (2000, 2003, 2008, 2012)
   * [AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS]
@@ -248,7 +260,7 @@
 ### Tooling
 
 * APM:
-  * New Relic and Instana.
+  * Datadog, New Relic and Instana.
 * AntiSpam:
   * Xeams, Sophos, SpamAssassin.
 * Cache:
@@ -266,10 +278,7 @@
 * File Server:
   * SAMBA.
 * Infrastructure as Code:
-  * Crossplane
-  * CloudFormation
-  * Terraform
-  * Terragrunt
+  * Crossplane, CloudFormation, Terraform and Terragrunt
 * ITSM / CMDB:
   * Jira/Confluence, Device42, GLPI, Ocs Inventory and OTRS.
 * Log Management:
@@ -288,34 +297,6 @@
   * BitBucket, Gitlab and Github.
 * VoIP Server:
   * Asterix, Elastix.
-
-### Cloud
-
-* OpenStack.
-* Amazon Web Services (AWS):
-  * [ACM, ALB, ASG, Athena, Cloud Formation, Cloud Front, Code Deploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, GLACIER, IAM, KMS, LAMBDA, RDS, R53, SNS, SQS, S3, VPC]
-* Google Cloud Platform (GCP):
-  * [VPC, GKE]
-
-### The Cloud Native Computing Foundation (CNCF)
-
-* Kubernetes
-  * Application Definition & Image Build
-    * Backstage, Kustomize, Helm, DevSpace and Okteto
-  * Secret Management
-    * Cert Manager, Bitnami Sealed Secrets, Hashicorp Vault
-  * Continuous Integration & Delivery:
-    * ArgoCD AutoPilot, ArgoCD, Argo Events, Argo Workflows and Argo Rollouts
-  * Logging and Tracing
-    * Kiali, Jaeger, ELK, FluentBit and Promtail
-  * Monitoring
-    * Alert Manager, Prometheus, Grafana and Loki
-  * Network Policies
-    * Calico
-  * Scheduling & Orchestration
-    * Crossplane
-  * Service Mesh
-    * Istio
 
 ### Virtualization
 
@@ -343,3 +324,4 @@
 * ITIL
 * Kanban
 * Scrum
+  
