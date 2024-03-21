@@ -7,24 +7,20 @@
 * Brazilian, Married.
 * Rua Guilherme Gomes Fernandes, 5A - Amadora/Lisbon - Portugal
 * Date of Birth: 12/02/1986
-* 📞 +351 910910296
-* 🐧 LPI000249557
-* 📨 <contato@diegoluisi.eti.br>
-* 🌐 <https://www.diegoluisi.eti.br>
-* ⏯️ [YouTube](https://www.youtube.com/@devxp-tech)  
-* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/diegoluisi)
-* [![GitHub](https://i.stack.imgur.com/tskMh.png) diegoluisi](https://github.com/diegoluisi/)
-* [![GitHub](https://i.stack.imgur.com/tskMh.png) devxp-tech](https://github.com/devxp-tech/)  
+* 📞 +351 910910296 <!-- * 🐧 LPI000249557 -->
+* 📨 <contato@diegoluisi.eti.br> | 🌐 <https://www.diegoluisi.eti.br>
+* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/diegoluisi) | 🎥 [YouTube](https://www.youtube.com/@devxp-tech)  
+* [![GitHub](https://i.stack.imgur.com/tskMh.png) diegoluisi](https://github.com/diegoluisi/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) devxp-tech](https://github.com/devxp-tech/)  
 
-## Summary of qualifications
-
-* Eager to embrace the DevOps culture and fueled by a passion for Open Source, I bring over 20 years of IT expertise. As the owner of the GitHub Organization [devxp-tech](https://github.com/devxp-tech/), I am committed to fostering collaborative projects. Additionally, my [YouTube](https://www.youtube.com/@devxp-tech) channel serves as a platform for sharing knowledge and providing assistance to the community.
-
-## Professional Expectations
+## Professional Expectations 🚀
 
 * Provide resilient solutions in an agile way, which make it possible to optimize processes, have efficient operations, reduce costs, allow rapid expansion and present new options that add value and make them more competitive.
 
-## Academic education
+## Summary of qualifications 👨🏼‍💻
+
+* Eager to embrace the DevOps culture and fueled by a passion for Open Source, I bring over 20 years of IT expertise. As the owner of the GitHub Organization [devxp-tech](https://github.com/devxp-tech/), I am committed to fostering collaborative projects. Additionally, my [YouTube](https://www.youtube.com/@devxp-tech) channel serves as a platform for sharing knowledge and providing assistance to the community.
+
+## Academic education 📚
 
 * Nove de Julho University (Uninove)
   * Technology in Computer Networks
@@ -35,10 +31,8 @@
   * President Prudente - SP
   * Period: 2004 to 2007 (incomplete)
 
-## Languages
+## Languages 🌎
 
-* Portuguese
-  * Native
 * English
   * Read / Write - Advanced
   * Conversation - Advanced
@@ -46,7 +40,7 @@
   * Reading / Writing - Basic
   * Conversation - intermediate
   
-## Certificates and Badges
+## Certificates and Badges 🏅
 
 * Isovalent: Cilium Advanced Gateway API Use Cases
 * Isovalent: Cilium Gateway API
@@ -74,8 +68,9 @@
 * SonicWALL Network Security Advanced Administration (CSSP)
 * ITIL® v3 - Foundation Certificate in IT Service Management
 
-## Trainings and Workshops
+## Trainings and Workshops 🌱
 
+* [GCP] Google Cloud Fundamentals: Core Infrastructure
 * [AWS] AWS Well-Architected Foundations
 * [DataDog] Progressive Delivery in Kubernetes
 * [DataDog] Monitoring the Kubernetes Platform
@@ -117,7 +112,7 @@
 * NGINX – High Performance Web Servers (3 hours)
 * Mysql – Database Management (3 hours)
 
-## Professional Experiences
+## Professional Experiences 👜
 
 ### Shield Financial Compliance
 
@@ -126,7 +121,7 @@
 * 04/2023 - Current
 * Follow-up: Financial Compliance
 * Role:
-  * As a DevOps engineer specializing in Cloud Environments such as AWS and Azure, my role is centered around leveraging automation tools like Terraform, Terragrunt, ArgoCD, and Helm to streamline infrastructure provisioning and Kubernetes management. I collaborate closely with development and operations teams to ensure efficient deployment pipelines and scalable architecture. In addition to infrastructure orchestration, I implement advanced Kubernetes features like Istio, Keda, and Karpenter to enhance service mesh capabilities, autoscaling, and workload optimization. Monitoring and observability are integral parts of my responsibilities, where I deploy tools like Grafana, Prometheus, Loki, and OpenTelemetry to gain insights into system performance, troubleshoot issues, and ensure reliable operations. Through continuous improvement and optimization, I strive to maintain robust, resilient, and scalable cloud-native environments that meet the evolving needs of the organization.
+  * As a DevOps engineer specializing in Cloud Environments, my role revolves around automating infrastructure with tools like Terraform, Terragrunt, ArgoCD, and Helm. I collaborate with teams to optimize deployment pipelines and architecture scalability. I deploy advanced Kubernetes features like Istio, Keda, and Karpenter for service mesh capabilities and workload optimization. Monitoring with Grafana, Prometheus, Loki, and OpenTelemetry ensures system performance and reliability. Continuous improvement maintains robust, resilient, and scalable environments in AWS and Azure, meeting evolving organizational needs.
 
 ### Evolution Gaming
 
@@ -135,7 +130,7 @@
 * 04/2022 - 04/2023
 * Follow-up: Gaming
 * Role:
-  * As a Site Reliability Engineering (SRE) Tech Leader, my primary responsibility revolves around managing environments on Google Cloud Platform (GCP) and ensuring their reliability, scalability, and efficiency. Leveraging automation tools like ArgoCD, Crossplane, and Helm, I orchestrate the seamless bootstrap of new clusters and environments, enabling rapid deployment and consistent infrastructure configuration. In addition to automation, I prioritize observability by implementing monitoring solutions such as Prometheus, Loki, and Grafana, enabling proactive identification and resolution of system issues. As part of our internal developer platform, I oversee the implementation and maintenance of Backstage, facilitating collaboration and enhancing developer productivity. Through strategic leadership and continuous improvement, I strive to optimize our GCP environments to meet the organization's performance and reliability requirements effectively.
+  * As a Site Reliability Engineering (SRE) Tech Leader, I oversee environment management on Google Cloud Platform (GCP), ensuring reliability, scalability, and efficiency. Using automation tools like ArgoCD, Crossplane, and Helm, I orchestrate seamless bootstrap of new clusters and environments, enabling rapid deployment and consistent infrastructure configuration. Prioritizing observability, I implement monitoring solutions such as Prometheus, Loki, and Grafana, enabling proactive issue identification and resolution. Overseeing our internal developer platform, Backstage, I facilitate collaboration and enhance developer productivity. Through strategic leadership and continuous improvement, I optimize GCP environments to meet organizational performance and reliability requirements.
 
 ### Dafiti Group (GFG Group) II
 
@@ -144,7 +139,7 @@
 * 09/2020 - 04/2022
 * Follow-up: e-commerce
 * Role:
-  * As the Technical Leader of Squad DevXP, I am entrusted with fostering a culture of excellence and innovation within the team while driving the adoption of best development practices. Utilizing a robust toolset including AlertManager, ArgoCD, CircleCI, and GitHub, I orchestrate streamlined development workflows and ensure adherence to industry standards. Leveraging technologies like Kubernetes (EKS), Terraform, and Helm, I facilitate the efficient provisioning and management of infrastructure, empowering the team to deliver high-quality solutions with speed and reliability. Additionally, I champion the implementation of observability tools such as Grafana, Prometheus, and Loki to enable proactive monitoring and troubleshooting of applications and systems. Through strategic guidance and mentorship, I strive to cultivate a collaborative environment where team members can thrive and contribute to the success of our projects.
+  * As the Technical Leader of Squad DevXP, I foster a culture of excellence and innovation while driving the adoption of best development practices. With tools like AlertManager, ArgoCD, CircleCI, and GitHub, I orchestrate streamlined workflows and ensure adherence to standards. Leveraging Kubernetes (EKS), Terraform, and Helm, I facilitate efficient infrastructure provisioning and management, empowering the team to deliver quality solutions rapidly. Additionally, I champion observability tools like Grafana, Prometheus, and Loki for proactive monitoring and troubleshooting. Through strategic guidance and mentorship, I cultivate a collaborative environment where team members thrive and contribute to project success.
 
 ### C&A Modas do Brasil - II
 
@@ -153,7 +148,7 @@
 * 08/2019 - 09/2020
 * Follow-up: Retail
 * Role:
-  * As a DevOps Specialist and Tech Leader, I spearheaded the modernization efforts for both applications and infrastructure, navigating the transformation of legacy systems into scalable microservices architectures. Employing cutting-edge technologies such as Docker, OpenShift, and Kubernetes, I embraced containerization practices to enhance portability and scalability while streamlining deployment pipelines through automation tools like GitLab CI and Puppet. Leveraging ELK stack components for centralized logging and monitoring, including Elasticsearch, Logstash, and Kibana, I ensured robust observability across the entire ecosystem. Additionally, I optimized infrastructure provisioning and management using Terraform and Vagrant, orchestrating seamless transitions to cloud environments. Through meticulous planning and execution, I successfully modernized our technology stack, empowering the organization to deliver innovative solutions with agility and reliability.
+  * As a DevOps Specialist and Tech Leader, I led the modernization efforts for applications and infrastructure, transforming legacy systems into scalable microservices architectures. Utilizing Docker, OpenShift, and Kubernetes, I embraced containerization to improve portability and scalability, while automation tools like GitLab CI and Puppet streamlined deployment pipelines. Employing ELK stack components for centralized logging and monitoring, including Elasticsearch, Logstash, and Kibana, ensured robust observability. With Terraform and Vagrant, I optimized infrastructure provisioning, orchestrating seamless transitions to cloud environments. Through meticulous planning and execution, I successfully modernized our technology stack, empowering the organization to deliver innovative solutions with agility and reliability.
 
 ### Dafiti Group (GFG Group) - I
 
@@ -209,7 +204,7 @@
 * Technologies:
   * [Active Directory, Iptables, Linux, Microsoft, Squid, Squid-Guard, Sarg]
 
-### e-Future Informatics
+### e-Future Informatic
 
 * Position: Owner
 * Presidente Prudente, SP - Brazil 🇧🇷
@@ -218,7 +213,7 @@
 * Functions Performed:
   * Support, Design, Installation and Maintenance on Servers and Network.
 
-## Specific knowledge
+## Specific knowledge 🥷
 
 ### Public Cloud
 
@@ -253,7 +248,7 @@
 
 * Linux/Unix
   * [Red Hat, SuSE, Debian, CoreOS, HP-UX and IBM-AIX]
-
+  * 
 * Windows Server/Hyper-V (2000, 2003, 2008, 2012)
   * [AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS]
 
@@ -282,12 +277,12 @@
 * ITSM / CMDB:
   * Jira/Confluence, Device42, GLPI, Ocs Inventory and OTRS.
 * Log Management:
-  * Graylog, ELK.
+  * Graylog, ELK and Loki.
 * Mail Server:
   * Zimbra, Postfix, Dovecot.
 * Middleware:
   * Apache, JBoss, Nginx, Tomcat, Weblogic.
-* Monitoring :
+* Monitoring:
   * Prometheus, Nagios, Oracle Enterprise Manager (OEM12) and Zabbix.
 * Open Source System Management:
   * Spacewalk, SuSE-Manager, Satellite.
@@ -300,28 +295,17 @@
 
 ### Virtualization
 
-* Hyper-V
-* IBM PoweVM
-* KVM
-* ProxMox
-* VMWare
+* Hyper-V, IBM PoweVM, KVM, ProxMox and VMWare
 
 ### Unified Threat Management (UTM )
 
-* Cisco
-* Juniper
-* Netscaler
-* Sonicwall (CSSA and CSSP)
-
-### Data Storage
-
-* HP 3Pair
-* IBM V7000
+* Cisco, Juniper, Netscaler and Sonicwall (CSSA and CSSP Certified)
 
 ### Methodologies/Frameworks
 
-* Agile
-* ITIL
-* Kanban
-* Scrum
+* Agile, ITIL, Kanban and Scrum (Fundamentals Certified)
   
+<!-- ### Data Storage
+
+* HP 3Pair
+* IBM V7000 -->
