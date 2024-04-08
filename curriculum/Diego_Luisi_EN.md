@@ -42,6 +42,7 @@
   
 ## Certificates and Badges 🏅
 
+* Isovalent: Golden Signals with Hubble and Grafana
 * Isovalent: Cilium Advanced Gateway API Use Cases
 * Isovalent: Cilium Gateway API
 * Isovalent: Hubble Flow Visibility
