@@ -43,30 +43,30 @@
 ## Certificates and Badges 🏅
 
 <p align="left">
-<a href="https://www.credly.com/badges/4ad7496c-38ee-43e8-9539-015eae4c8e87/public_url" target="_blank" rel="noreferrer"> <img src="../.images/aws-knowledge-cloud-essentials.png" alt="Cloud Essentials"width="80"height="80"/> <a>
-<a href="https://www.credly.com/badges/2c9c4338-7478-44bc-b447-693d55002232/public_url" target="_blank" rel="noreferrer"> <img src="../.images/aws-knowledge-amazon-eks.png" alt="Amazon EKS" width="80" height="80"/> <a>
-<a href="https://www.credly.com/badges/6e3b0d7d-a46b-4a45-885f-ce7077935c2b/public_url" target="_blank" rel="noreferrer"> <img src="../.images/well-architected-proficient.png" alt="Amazon Well Architected" width="80" height="80"/> <a>
-<a href="https://www.credly.com/badges/b1600bd0-dd9a-4ae6-93ce-51216258232a/public_url" target="_blank" rel="noreferrer"> <img src="../.images/discovery-platform-engineer.png" alt="Discovery Platform Engineer" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> <img src="../.images/cilium-getting-started.png" alt="Cilium Getting Started" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/f29769eb-7070-40a3-886e-698f476b2412/public_url" target="_blank" rel="noreferrer"> <img src="../.images/cilium-ingress-controller.png" alt="Cilium Ingress Controller" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/b15309de-ecfb-48b2-94ba-f29063a4b62d/public_url" target="_blank" rel="noreferrer"> <img src="../.images/cilium-gateway-api.png" alt="Cilium Gateway Api" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/37727449-0dcd-4c29-8fb2-fd9d9e98f8aa/public_url" target="_blank" rel="noreferrer"> <img src="../.images/advanced-gateway-api-use-cases.png" alt="Advanced Gateway Api-use-cases.png" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/ae01efe7-49ef-4fcd-9ee8-975b82ec4d83/public_url" target="_blank" rel="noreferrer"> <img src="../.images/hubble-flow-visibility.png" alt="Hubble Flow Visibility" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/49662b2a-29e4-4b29-9325-16c39c7091e4/public_url" target="_blank" rel="noreferrer"> <img src="../.images/golden-signals-with-hubble-and-grafana.png" alt="Hubble Golden Signals" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/8d3f41b8-d286-4106-91b5-d5277a8e0c29/public_url" target="_blank" rel="noreferrer"> <img src="../.images/tetragon-getting-started.png" alt="Tetragon Getting Started" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> <img src="../.images/fundamentals-for-istio-by-solo-io.png" alt="Istio Fundamentals" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/ddc221e1-2537-47d1-8531-ac8640de3582/public_url" target="_blank" rel="noreferrer"> <img src="../.images/fundamentals-for-istio-ambient-mesh-by-solo-io.png" alt="Fundamentals for Istio Ambient Mesh" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> <img src="../.images/intermediate-for-istio-by-solo-io.png" alt="Intermediate for Istio" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/cd8ee582-92dc-4475-8d5e-f214718082e8/public_url" target="_blank" rel="noreferrer"> <img src="../.images/expert-for-istio-by-solo-io.png" alt="Expert for Istio" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/b3c4a257-4d9f-4bc6-9961-374b12e1c78d/public_url" target="_blank" rel="noreferrer"> <img src="../.images/fundamentals-for-ebpf-by-solo-io.png" alt="Fundamentals for eBPF" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> <img src="../.images/fundamentals-for-cilium-by-solo-io.png" alt="Fundamentals for Cilium" width="80" height="80"/> </a>
-<a href="https://www.credly.com/badges/e3b200e1-f329-4893-85cd-a516e0f50e22/public_url" target="_blank" rel="noreferrer"> <img src="../.images/fundamentals-for-kyverno.png" alt="Fundamentals For Kyverno.png" width="80" height="80"/> <a>
-<a href="https://www.credly.com/badges/71b57ca2-c870-4f9f-80a9-bba2f971899f/public_url" target="_blank" rel="noreferrer"> <img src="../.images/lfs169-introduction-to-gitops.png" alt="LFS169: Introduction to GitOps" width="80" height="80"/> </a>  
-<a href="https://www.credly.com/badges/de419523-caf5-47e1-b1ca-24d913ab8037/public_url" target="_blank" rel="noreferrer"> <img src="../.images/kubernetes-fundamentals.png" alt="Datadog Kubernetes Fundamentals"width="80"height="80"/> <a>
-<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" target="_blank" rel="noreferrer"> <img src="../.images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="80" height="80"/> </a>
-<img alt="GitOps Fundamentals" width="80px" src="../.images/codefresh-gitops-fundamentals.png" />
-<img alt="GitOps at Scale" width="80px" src="../.images/codefresh-gitops-scale.png" />
-</p>
+<a href="https://www.credly.com/badges/4ad7496c-38ee-43e8-9539-015eae4c8e87/public_url" target="_blank" rel="noreferrer"> <img src="../.images/aws-knowledge-cloud-essentials.png" alt="Cloud Essentials"width="75"height="75"/> <a>
+<a href="https://www.credly.com/badges/2c9c4338-7478-44bc-b447-693d55002232/public_url" target="_blank" rel="noreferrer"> <img src="../.images/aws-knowledge-amazon-eks.png" alt="Amazon EKS" width="75" height="75"/> <a>
+<a href="https://www.credly.com/badges/6e3b0d7d-a46b-4a45-885f-ce7077935c2b/public_url" target="_blank" rel="noreferrer"> <img src="../.images/well-architected-proficient.png" alt="Amazon Well Architected" width="75" height="75"/> <a>
+<a href="https://www.credly.com/badges/b1600bd0-dd9a-4ae6-93ce-51216258232a/public_url" target="_blank" rel="noreferrer"> <img src="../.images/discovery-platform-engineer.png" alt="Discovery Platform Engineer" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> <img src="../.images/cilium-getting-started.png" alt="Cilium Getting Started" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/8d3f41b8-d286-4106-91b5-d5277a8e0c29/public_url" target="_blank" rel="noreferrer"> <img src="../.images/tetragon-getting-started.png" alt="Tetragon Getting Started" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/f29769eb-7070-40a3-886e-698f476b2412/public_url" target="_blank" rel="noreferrer"> <img src="../.images/cilium-ingress-controller.png" alt="Cilium Ingress Controller" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/b15309de-ecfb-48b2-94ba-f29063a4b62d/public_url" target="_blank" rel="noreferrer"> <img src="../.images/cilium-gateway-api.png" alt="Cilium Gateway Api" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/d565b6fc-f314-430d-a771-6df716841765/public_url" target="_blank" rel="noreferrer"> <img src="../.images/cilium-egress-gateway.png" alt="Cilium Egress Gateway" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/ae01efe7-49ef-4fcd-9ee8-975b82ec4d83/public_url" target="_blank" rel="noreferrer"> <img src="../.images/hubble-flow-visibility.png" alt="Hubble Flow Visibility" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/37727449-0dcd-4c29-8fb2-fd9d9e98f8aa/public_url" target="_blank" rel="noreferrer"> <img src="../.images/advanced-gateway-api-use-cases.png" alt="Advanced Gateway Api-use-cases.png" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/49662b2a-29e4-4b29-9325-16c39c7091e4/public_url" target="_blank" rel="noreferrer"> <img src="../.images/golden-signals-with-hubble-and-grafana.png" alt="Hubble Golden Signals" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> <img src="../.images/fundamentals-for-istio-by-solo-io.png" alt="Istio Fundamentals" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/ddc221e1-2537-47d1-8531-ac8640de3582/public_url" target="_blank" rel="noreferrer"> <img src="../.images/fundamentals-for-istio-ambient-mesh-by-solo-io.png" alt="Fundamentals for Istio Ambient Mesh" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> <img src="../.images/intermediate-for-istio-by-solo-io.png" alt="Intermediate for Istio" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/cd8ee582-92dc-4475-8d5e-f214718082e8/public_url" target="_blank" rel="noreferrer"> <img src="../.images/expert-for-istio-by-solo-io.png" alt="Expert for Istio" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/b3c4a257-4d9f-4bc6-9961-374b12e1c78d/public_url" target="_blank" rel="noreferrer"> <img src="../.images/fundamentals-for-ebpf-by-solo-io.png" alt="Fundamentals for eBPF" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> <img src="../.images/fundamentals-for-cilium-by-solo-io.png" alt="Fundamentals for Cilium" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/e3b200e1-f329-4893-85cd-a516e0f50e22/public_url" target="_blank" rel="noreferrer"> <img src="../.images/fundamentals-for-kyverno.png" alt="Fundamentals For Kyverno.png" width="75" height="75"/> <a>
+<a href="https://www.credly.com/badges/71b57ca2-c870-4f9f-80a9-bba2f971899f/public_url" target="_blank" rel="noreferrer"> <img src="../.images/lfs169-introduction-to-gitops.png" alt="LFS169: Introduction to GitOps" width="75" height="75"/> </a>  
+<a href="https://www.credly.com/badges/de419523-caf5-47e1-b1ca-24d913ab8037/public_url" target="_blank" rel="noreferrer"> <img src="../.images/kubernetes-fundamentals.png" alt="Datadog Kubernetes Fundamentals"width="75"height="75"/> <a>
+<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" target="_blank" rel="noreferrer"> <img src="../.images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="75" height="75"/> </a>
+<img alt="GitOps Fundamentals" width="75px" src="../.images/codefresh-gitops-fundamentals.png" />
+<img alt="GitOps at Scale" width="75px" src="../.images/codefresh-gitops-scale.png" />
 
 ## Trainings and Workshops 🌱
 
@@ -244,12 +244,19 @@
   * Service Mesh
     * Istio and Cilium
 
-### Operation System
+<!-- ### Operation System
 
 * Linux/Unix
   * [Red Hat, SuSE, Debian, CoreOS, HP-UX and IBM-AIX]
 * Windows Server/Hyper-V (2000, 2003, 2008, 2012)
-  * [AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS]
+  * [AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS] -->
+
+### Programing
+
+* Python
+  * Basic
+* Golang
+  * Basic
 
 ### Tooling
 
@@ -267,30 +274,30 @@
   * Docker, OpenShift, EKS, Kubernetes, Rancher.
 * Data base:
   * Mysql, PostgreSQL, MariaDB, MongoDB and Oracle.
-* DNS Server:
+<!-- * DNS Server:
   * Bind9.
 * File Server:
-  * SAMBA.
+  * SAMBA. -->
 * Infrastructure as Code:
   * Crossplane, CloudFormation, Terraform and Terragrunt
-* ITSM / CMDB:
-  * Jira/Confluence, Device42, GLPI, Ocs Inventory and OTRS.
+<!-- * ITSM / CMDB:
+  * Jira/Confluence, Device42, GLPI, Ocs Inventory and OTRS. -->
 * Log Management:
   * Graylog, ELK and Loki.
-* Mail Server:
-  * Zimbra, Postfix, Dovecot.
+<!-- * Mail Server:
+  * Zimbra, Postfix, Dovecot. -->
 * Middleware:
   * Apache, JBoss, Nginx, Tomcat, Weblogic.
 * Monitoring:
   * Prometheus, Nagios, Oracle Enterprise Manager (OEM12) and Zabbix.
-* Open Source System Management:
+<!-- * Open Source System Management:
   * Spacewalk, SuSE-Manager, Satellite.
 * Proxy Server:
   * Squid, Sarg, SquidGuard.
 * Version Control System (VCS):
   * BitBucket, Gitlab and Github.
 * VoIP Server:
-  * Asterix, Elastix.
+  * Asterix, Elastix. -->
 
 ### Virtualization
 
