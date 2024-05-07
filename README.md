@@ -24,7 +24,7 @@
 <br />
 <br />
 
-### 🎖️ Badges
+### 🎖️ Badges and Certificates
 
 <p align="left">
 <a href="https://www.credly.com/badges/4ad7496c-38ee-43e8-9539-015eae4c8e87/public_url" target="_blank" rel="noreferrer"> <img src=".images/aws-knowledge-cloud-essentials.png" alt="Cloud Essentials"width="120"height="120"/> <a>
@@ -48,6 +48,8 @@
 <a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> <img src=".images/fundamentals-for-cilium-by-solo-io.png" alt="Fundamentals for Cilium" width="120" height="120"/> </a>
 <a href="https://www.credly.com/badges/e3b200e1-f329-4893-85cd-a516e0f50e22/public_url" target="_blank" rel="noreferrer"> <img src=".images/fundamentals-for-kyverno.png" alt="Fundamentals For Kyverno.png" width="120" height="120"/> <a>
 <a href="https://www.credly.com/badges/71b57ca2-c870-4f9f-80a9-bba2f971899f/public_url" target="_blank" rel="noreferrer"> <img src=".images/lfs169-introduction-to-gitops.png" alt="LFS169: Introduction to GitOps" width="120" height="120"/> </a>  
+<a href="https://www.credly.com/badges/6c3cfd5d-d7e6-4134-b067-4b50154a936c/public_url" target="_blank" rel="noreferrer"> <img src=".images/lfs169-introduction-to-gitops.png" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="120" height="120"/> </a>  
+<a href="https://www.credly.com/badges/75481294-82b7-4240-8eaa-402d0ed34ed1/public_url" target="_blank" rel="noreferrer"> <img src=".images/lfs169-introduction-to-gitops.png" alt="LFS144: Introduction to Istio" width="120" height="120"/> </a>  
 <a href="https://www.credly.com/badges/de419523-caf5-47e1-b1ca-24d913ab8037/public_url" target="_blank" rel="noreferrer"> <img src=".images/kubernetes-fundamentals.png" alt="Datadog Kubernetes Fundamentals"width="120"height="120"/> <a>
 <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" target="_blank" rel="noreferrer"> <img src=".images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="120" height="120"/> </a>
 <img alt="GitOps Fundamentals" width="120px" src=".images/codefresh-gitops-fundamentals.png" />
