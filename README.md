@@ -13,7 +13,7 @@
 
 <br />
 
-### 📫 How to reach me
+### How to reach me 📫
 
 [<img align="left" alt="diegoluisi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="diegoluisi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -24,7 +24,7 @@
 <br />
 <br />
 
-### 🎖️ Badges and Certificates
+### Certificates and Badges 🏅
 
 <p align="left">
 <a href="https://www.credly.com/badges/4ad7496c-38ee-43e8-9539-015eae4c8e87/public_url" target="_blank" rel="noreferrer"> <img src=".images/aws-knowledge-cloud-essentials.png" alt="Cloud Essentials"width="120"height="120"/> <a>
@@ -56,7 +56,7 @@
 <img alt="GitOps at Scale" width="120px" src=".images/codefresh-gitops-scale.png" />
 </p>
 
-### 🛠️ Languages and Tools
+### Languages and Tools 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=ansible,aws,azure,bash,bitbucket,debian,docker,elasticsearch,gcp,git,github,githubactions,gitlab,go,grafana,jenkins,kubernetes,linux,mysql,nginx,openshift,postgres,prometheus,py,rabbitmq,redhat,redis,terraform,vim,vscode)](https://skillicons.dev)
 
@@ -152,11 +152,11 @@
 
 <br/> -->
 
-### 📄 Resume
+### Resume 📄
 
 [🇧🇷](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_BR.md)[🇺🇸](https://github.com/diegoluisi/diegoluisi/blob/master/curriculum/Diego_Luisi_EN.md)
 
-### 📝 Latest Blog posts
+### Latest Blog posts 📝
 <!-- BLOG-POST-LIST:START -->
 - [IDP – Backstage + Crossplane + ArgoCD](https://www.diegoluisi.eti.br/2022/05/31/idp-backstage-crossplane-argocd/)
 - [Develop and Deploy cloud-native software faster with DevSpace and K3D](https://www.diegoluisi.eti.br/2022/03/01/develop-and-deploy-cloud-native-software-faster-with-devspace-em-k3d/)
@@ -165,7 +165,7 @@
 - [Zabbix Monitoring Meltdown and Spectre Vulnerability](https://www.diegoluisi.eti.br/2018/01/05/zabbix-monitoring-meltdown-spectre-vulnerability/)
 <!-- BLOG-POST-LIST:END -->
 
-### 📺 Latest YouTube Videos
+### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
 - [[GitOps] 🚀 Start a GitOps journey with ArgoCD and Argo-CD Autopilot](https://www.youtube.com/watch?v=nR-i0Hn6trw)
 - [How to improve the development journey in your company with Backstage.](https://www.youtube.com/watch?v=qFP_CcLp0Ao)
