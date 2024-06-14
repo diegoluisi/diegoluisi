@@ -59,7 +59,7 @@
 
 ### Languages and Tools 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,aws,azure,bash,bitbucket,debian,docker,elasticsearch,gcp,git,github,githubactions,gitlab,go,grafana,jenkins,kubernetes,linux,mysql,nginx,openshift,postgres,prometheus,py,rabbitmq,redhat,redis,terraform,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,atom,aws,azure,bash,bitbucket,bsd,cassandra,debian,docker,dynamodb,elasticsearch,gcp,git,github,githubactions,gitlab,go,grafana,jenkins,kafka,kali,kubernetes,linux,md,mysql,nginx,openshift,postgres,prometheus,py,rabbitmq,redhat,redis,terraform,ubuntu,vim,vscode)](https://skillicons.dev)
 
 <!-- <p align="left">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
