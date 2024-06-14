@@ -53,7 +53,7 @@
 <a href="https://www.credly.com/badges/b86cd1c9-3919-444c-b2dc-c81ec3c62409/public_url" target="_blank" rel="noreferrer"> <img src=".images/lfs158-introduction-to-kubernetes.png" alt="LFS158: Introduction to Kubernetes" width="120" height="120"/> </a>  
 <a href="https://www.credly.com/badges/de419523-caf5-47e1-b1ca-24d913ab8037/public_url" target="_blank" rel="noreferrer"> <img src=".images/kubernetes-fundamentals.png" alt="Datadog Kubernetes Fundamentals"width="120"height="120"/> <a>
 <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" target="_blank" rel="noreferrer"> <img src=".images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="120" height="120"/> </a>
-<img alt="GitOps Fundamentals" width="120px" src=".images/codefresh-gitops-fundamentals.png" />
+<a href="https://www.credly.com/badges/59156dda-7a0e-40b7-a2fb-f34a558e359b/public_url" target="_blank" rel="noreferrer"> <img src=".images/gitops-fundamentals.png" alt="GitOps Fundamentals" width="120" height="120"/> </a>
 <a href="https://www.credly.com/badges/5d5e31d1-c5e3-48c8-acf6-2b98bc925e5f/public_url" target="_blank" rel="noreferrer"> <img src=".images/gitops-at-scale.png" alt="GitOps at Scale" width="120" height="120"/> </a>
 </p>
 
