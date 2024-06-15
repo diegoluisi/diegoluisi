@@ -42,6 +42,7 @@
   
 ### Certificates and Badges 🏅
 
+* [LinuxFoundation] LFEL1014: Scaling Cloud Native Applications with KEDA
 * [LinuxFoundation] LFS158: Introduction to Kubernetes
 * [LinuxFoundation] LFS144: Introduction to Istio
 * [LinuxFoundation] LFS162: Introduction to DevOps and Site Reliability Engineering
