@@ -42,10 +42,13 @@
   
 ### Certificates and Badges 🏅
 
+* [CNCF] CKA: Certified Kubernetes Admistrator
+* [LinuxFoundation] LFS142: Introduction to Backstage - Developer Portals Made Easy
 * [LinuxFoundation] LFEL1014: Scaling Cloud Native Applications with KEDA
 * [LinuxFoundation] LFS158: Introduction to Kubernetes
-* [LinuxFoundation] LFS144: Introduction to Istio
 * [LinuxFoundation] LFS162: Introduction to DevOps and Site Reliability Engineering
+* [LinuxFoundation] LFS144: Introduction to Istio
+* [LinuxFoundation] LFS169: Introduction to GitOps
 * [AWS] Cloud Practitioner
 * [Isovalent] Cilium Egress Gateway
 * [Isovalent] Tetragon Getting Started
@@ -58,7 +61,6 @@
 * [Isovalent] Discovery Platform Engineer
 * [Datadog] Kubernetes Fundamentals
 * [Nirmata] Fundamentals for Kyverno
-* [LinuxFoundation] LFS169: Introduction to GitOps
 * [Akuity] - Introduction to Continuous Delivery and GitOps using Argo CD
 * [AWS] Well-Architected Proficient
 * [AWS] Amazon EKS
