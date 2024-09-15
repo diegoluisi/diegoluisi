@@ -74,6 +74,7 @@
 <a href="https://www.credly.com/badges/015c85b7-5974-4f00-8562-69199e5096b6/public_url" target="_blank" rel="noreferrer"> <img src="../.images/lfel1014-keda.png" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="60" height="60"/> </a>  
 <a href="https://www.credly.com/badges/8fd90d23-4601-42f9-9b36-eca1f3707d7e/public_url" target="_blank" rel="noreferrer"> <img src="../.images/lfs142-introduction-to-backstage-developer-portals-.png" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/> </a>  
 <a href="https://www.credly.com/badges/914ed653-49af-4c9d-82eb-344916c7ab91/public_url" target="_blank" rel="noreferrer"> <img src="../.images/cka-certified-kubernetes-administrator.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60"/> </a>  
+<a href="https://www.credly.com/badges/c1414741-bb73-4892-96d9-7674413e3230/public_url" target="_blank" rel="noreferrer"> <img src="../.images/hashicorp-certified-terraform-associate-003.png" alt="HashiCorp Certified: Terraform Associate (003)" width="60" height="60"/> </a>  
 </p>
 
 ## Trainings and Workshops 🌱

@@ -42,6 +42,7 @@
   
 ### Certificates and Badges 🏅
 
+* [Hashicorp] Hashicorp Certified Terraform Associate (003)
 * [CNCF] CKA: Certified Kubernetes Admistrator
 * [LinuxFoundation] LFS142: Introduction to Backstage - Developer Portals Made Easy
 * [LinuxFoundation] LFEL1014: Scaling Cloud Native Applications with KEDA
