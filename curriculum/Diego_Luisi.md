@@ -73,8 +73,9 @@
 <a href="https://www.credly.com/badges/b86cd1c9-3919-444c-b2dc-c81ec3c62409/public_url" target="_blank" rel="noreferrer"> <img src="../.images/lfs158-introduction-to-kubernetes.png" alt="LFS158: Introduction to Kubernetes" width="60" height="60"/> </a>  
 <a href="https://www.credly.com/badges/015c85b7-5974-4f00-8562-69199e5096b6/public_url" target="_blank" rel="noreferrer"> <img src="../.images/lfel1014-keda.png" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="60" height="60"/> </a>  
 <a href="https://www.credly.com/badges/8fd90d23-4601-42f9-9b36-eca1f3707d7e/public_url" target="_blank" rel="noreferrer"> <img src="../.images/lfs142-introduction-to-backstage-developer-portals-.png" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/> </a>  
-<a href="https://www.credly.com/badges/c1414741-bb73-4892-96d9-7674413e3230/public_url" target="_blank" rel="noreferrer"> <img src="../.images/hashicorp-certified-terraform-associate-003.png" alt="HashiCorp Certified: Terraform Associate (003)" width="60" height="60"/> </a>  
-<a href="https://www.credly.com/badges/914ed653-49af-4c9d-82eb-344916c7ab91/public_url" target="_blank" rel="noreferrer"> <img src="../.images/cka-certified-kubernetes-administrator.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60"/> </a>  
+<img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="HashiCorp Certified: Terraform Associate (003)" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" alt="HashiCorp Vault Certification" width="60" height="60">
+<img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60">
 </p>
 
 ## Trainings and Workshops 🌱
