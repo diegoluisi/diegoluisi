@@ -27,39 +27,39 @@
 ### Certificates and Badges 🏅
 
 <p align="left">
-<a href="https://www.credly.com/badges/4ad7496c-38ee-43e8-9539-015eae4c8e87/public_url" target="_blank" rel="noreferrer"> <img src=".images/aws-knowledge-cloud-essentials.png" alt="Cloud Essentials"width="120"height="120"/> <a>
-<a href="https://www.credly.com/badges/2c9c4338-7478-44bc-b447-693d55002232/public_url" target="_blank" rel="noreferrer"> <img src=".images/aws-knowledge-amazon-eks.png" alt="Amazon EKS" width="120" height="120"/> <a>
-<a href="https://www.credly.com/badges/6e3b0d7d-a46b-4a45-885f-ce7077935c2b/public_url" target="_blank" rel="noreferrer"> <img src=".images/well-architected-proficient.png" alt="Amazon Well Architected" width="120" height="120"/> <a>
-<a href="https://www.credly.com/badges/5ef19719-878c-41fc-8571-cd2f53176d0f/public_url" target="_blank" rel="noreferrer"> <img src=".images/aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest: Cloud Practitioner" width="120" height="120"/> <a>
-<a href="https://www.credly.com/badges/59156dda-7a0e-40b7-a2fb-f34a558e359b/public_url" target="_blank" rel="noreferrer"> <img src=".images/gitops-fundamentals.png" alt="GitOps Fundamentals" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/5d5e31d1-c5e3-48c8-acf6-2b98bc925e5f/public_url" target="_blank" rel="noreferrer"> <img src=".images/gitops-at-scale.png" alt="GitOps at Scale" width="120" height="120"/> </a>
-<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" target="_blank" rel="noreferrer"> <img src=".images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/e3b200e1-f329-4893-85cd-a516e0f50e22/public_url" target="_blank" rel="noreferrer"> <img src=".images/fundamentals-for-kyverno.png" alt="Fundamentals For Kyverno.png" width="120" height="120"/> <a>
-<a href="https://www.credly.com/badges/de419523-caf5-47e1-b1ca-24d913ab8037/public_url" target="_blank" rel="noreferrer"> <img src=".images/kubernetes-fundamentals.png" alt="Datadog Kubernetes Fundamentals"width="120"height="120"/> <a>
-<a href="https://www.credly.com/badges/b1600bd0-dd9a-4ae6-93ce-51216258232a/public_url" target="_blank" rel="noreferrer"> <img src=".images/discovery-platform-engineer.png" alt="Discovery Platform Engineer" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> <img src=".images/cilium-getting-started.png" alt="Cilium Getting Started" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/8d3f41b8-d286-4106-91b5-d5277a8e0c29/public_url" target="_blank" rel="noreferrer"> <img src=".images/tetragon-getting-started.png" alt="Tetragon Getting Started" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/f29769eb-7070-40a3-886e-698f476b2412/public_url" target="_blank" rel="noreferrer"> <img src=".images/cilium-ingress-controller.png" alt="Cilium Ingress Controller" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/b15309de-ecfb-48b2-94ba-f29063a4b62d/public_url" target="_blank" rel="noreferrer"> <img src=".images/cilium-gateway-api.png" alt="Cilium Gateway Api" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/d565b6fc-f314-430d-a771-6df716841765/public_url" target="_blank" rel="noreferrer"> <img src=".images/cilium-egress-gateway.png" alt="Cilium Egress Gateway" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/ae01efe7-49ef-4fcd-9ee8-975b82ec4d83/public_url" target="_blank" rel="noreferrer"> <img src=".images/hubble-flow-visibility.png" alt="Hubble Flow Visibility" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/37727449-0dcd-4c29-8fb2-fd9d9e98f8aa/public_url" target="_blank" rel="noreferrer"> <img src=".images/advanced-gateway-api-use-cases.png" alt="Advanced Gateway Api-use-cases.png" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/49662b2a-29e4-4b29-9325-16c39c7091e4/public_url" target="_blank" rel="noreferrer"> <img src=".images/golden-signals-with-hubble-and-grafana.png" alt="Hubble Golden Signals" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> <img src=".images/fundamentals-for-istio-by-solo-io.png" alt="Istio Fundamentals" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/ddc221e1-2537-47d1-8531-ac8640de3582/public_url" target="_blank" rel="noreferrer"> <img src=".images/fundamentals-for-istio-ambient-mesh-by-solo-io.png" alt="Fundamentals for Istio Ambient Mesh" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/ffd78bdb-5501-4ae1-972a-ae7971559c11/public_url" target="_blank" rel="noreferrer"> <img src=".images/intermediate-for-istio-by-solo-io.png" alt="Intermediate for Istio" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/cd8ee582-92dc-4475-8d5e-f214718082e8/public_url" target="_blank" rel="noreferrer"> <img src=".images/expert-for-istio-by-solo-io.png" alt="Expert for Istio" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/b3c4a257-4d9f-4bc6-9961-374b12e1c78d/public_url" target="_blank" rel="noreferrer"> <img src=".images/fundamentals-for-ebpf-by-solo-io.png" alt="Fundamentals for eBPF" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/f0e88a16-1e53-46d8-b885-586757b01896/public_url" target="_blank" rel="noreferrer"> <img src=".images/fundamentals-for-cilium-by-solo-io.png" alt="Fundamentals for Cilium" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/71b57ca2-c870-4f9f-80a9-bba2f971899f/public_url" target="_blank" rel="noreferrer"> <img src=".images/lfs169-introduction-to-gitops.png" alt="LFS169: Introduction to GitOps" width="120" height="120"/> </a>  
-<a href="https://www.credly.com/badges/75481294-82b7-4240-8eaa-402d0ed34ed1/public_url" target="_blank" rel="noreferrer"> <img src=".images/lfs144-introduction-to-istio.png" alt="LFS144: Introduction to Istio" width="120" height="120"/> </a>  
-<a href="https://www.credly.com/badges/b86cd1c9-3919-444c-b2dc-c81ec3c62409/public_url" target="_blank" rel="noreferrer"> <img src=".images/lfs162-introduction-to-devops-and-site-reliability-.png" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="120" height="120"/> </a>  
-<a href="https://www.credly.com/badges/b86cd1c9-3919-444c-b2dc-c81ec3c62409/public_url" target="_blank" rel="noreferrer"> <img src=".images/lfs158-introduction-to-kubernetes.png" alt="LFS158: Introduction to Kubernetes" width="120" height="120"/> </a>  
-<a href="https://www.credly.com/badges/015c85b7-5974-4f00-8562-69199e5096b6/public_url" target="_blank" rel="noreferrer"> <img src=".images/lfel1014-keda.png" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="120" height="120"/> </a>  
-<a href="https://www.credly.com/badges/8fd90d23-4601-42f9-9b36-eca1f3707d7e/public_url" target="_blank" rel="noreferrer"> <img src=".images/lfs142-introduction-to-backstage-developer-portals-.png" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="120" height="120"/> </a>  
-<a href="https://www.credly.com/badges/c1414741-bb73-4892-96d9-7674413e3230/public_url" target="_blank" rel="noreferrer"> <img src=".images/hashicorp-certified-terraform-associate-003.png" alt="HashiCorp Certified: Terraform Associate (003)" width="120" height="120"/> </a>  
+<img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Knowledge: Cloud Essentials" width="120" height="120"/> <a>
+<img src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" alt="Amazon EKS" width="120" height="120"/> <a>
+<img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="Well-Architected Proficient" width="120" height="120"/> <a>
+<img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="120" height="120"/> <a>
+<img src="https://images.credly.com/size/340x340/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" alt="GitOps at Scale" width="120" height="120"/> </a>
+<img src=".images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="120" height="120"/> <a>
+<img src="https://images.credly.com/size/340x340/images/4566aa76-1000-4ed5-a27e-e67ca4b7ff4d/image.png" alt="Kubernetes Fundamentals"width="120"height="120"/> <a>
+<img src="https://images.credly.com/size/340x340/images/06667f6f-68b0-4d6c-a0b9-a6199a1cf741/image.png" alt="Discovery: Platform Engineer" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png" alt="Cilium Getting Started" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/36cb8a56-369f-4c47-a797-da62c52c30c6/image.png" alt="Tetragon Getting Started" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png" alt="Cilium Ingress Controller" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png" alt="Cilium Gateway Api" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/f31796ba-b73c-4b5c-bd9a-4bfe2508de9e/image.png" alt="Cilium Egress Gateway" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/5db2624a-b21d-42d4-8e77-02db1f0af9a1/image.png" alt="Hubble Flow Visibility" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/39cfc979-51f6-4da7-869f-9721cdcbf39b/image.png" alt="Cilium Advanced Gateway API Use Cases" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/182670a8-b6e2-401d-a898-a2233ba55272/image.png" alt="Golden Signals with Hubble and Grafana" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" alt="Fundamentals for Istio by Solo.io" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/19eb9d45-751f-45bb-8e05-c654efde6b20/image.png" alt="Fundamentals for Istio Ambient Mesh" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/7a5401a6-01eb-4f48-bbcd-9a227fdff361/image.png" alt="Intermediate for Istio" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/68e1190d-f711-441b-9d55-79d54c04e232/image.png" alt="Expert for Istio" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/54e795a8-e328-45ed-837e-1c48b57e596e/image.png" alt="Fundamentals for eBPF" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png" alt="Fundamentals for Cilium" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" alt="LFS169: Introduction to GitOps" width="120" height="120"/> </a>  
+<img src="https://images.credly.com/size/340x340/images/6166f9b5-2213-45f5-b7de-ba0e58048d23/blob" alt="LFS144: Introduction to Istio" width="120" height="120"/> </a>  
+<img src="https://images.credly.com/size/340x340/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="120" height="120"/> </a>  
+<img src="https://images.credly.com/size/340x340/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" alt="LFS158: Introduction to Kubernetes" width="120" height="120"/> </a>  
+<img src="https://images.credly.com/size/110x110/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="120" height="120"/> </a>  
+<img src="https://images.credly.com/size/110x110/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="HashiCorp Certified: Terraform Associate (003)" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" alt="HashiCorp Vault Certification" width="120" height="120">
-<a href="https://www.credly.com/badges/914ed653-49af-4c9d-82eb-344916c7ab91/public_url" target="_blank" rel="noreferrer"> <img src=".images/cka-certified-kubernetes-administrator.png" alt="CKA: Certified Kubernetes Administrator" width="120" height="120"/> </a>  
+<img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="120" height="120">
 </p>
 
 ### Languages and Tools 🛠️
