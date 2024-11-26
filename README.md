@@ -57,6 +57,7 @@
 <img src="https://images.credly.com/size/340x340/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" alt="LFS158: Introduction to Kubernetes" width="120" height="120"/> </a>  
 <img src="https://images.credly.com/size/110x110/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="120" height="120"/> </a>  
 <img src="https://images.credly.com/size/110x110/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="HashiCorp Certified: Terraform Associate (003)" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" alt="HashiCorp Vault Certification" width="120" height="120">
 <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="120" height="120">

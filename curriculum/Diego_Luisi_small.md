@@ -42,6 +42,7 @@
   
 ### Certificates and Badges 🏅
 
+* [LinuxFoundation] LFS148: Getting Started with OpenTelemetry
 * [Hashicorp] Hashicorp Certified: Vault Associate (002)
 * [Hashicorp] Hashicorp Certified: Terraform Associate (003)
 * [CNCF] CKA: Certified Kubernetes Admistrator
