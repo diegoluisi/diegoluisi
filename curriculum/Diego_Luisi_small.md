@@ -42,6 +42,7 @@
   
 ### Certificates and Badges 🏅
 
+* [Codefresh] GitOps Enterprise
 * [LinuxFoundation] LFS148: Getting Started with OpenTelemetry
 * [Hashicorp] Hashicorp Certified: Vault Associate (002)
 * [Hashicorp] Hashicorp Certified: Terraform Associate (003)
@@ -70,12 +71,12 @@
 * [AWS] Cloud Essentials
 * [Solo.io] Fundamentals for eBPF
 * [Solo.io] Fundamentals for Cilium
-* [Solo.io] GitOps at Scacle
+* [Codefresh] GitOps at Scacle
 * [Solo.io] Istio Ambient Mesh
 * [Solo.io] Istio Expert
 * [Solo.io] Istio Essentials
 * [Solo.io] Istio Foundation
-* [4Linux] GitOps Fundamentals
+* [Codefresh] GitOps Fundamentals
 * [SCRUMstudy] Scrum Fundamentals Certified (SFC)
 * [SonicWALL] Network Security Basic Administration (CSSA)
 * [SonicWALL] Network Security Advanced Administration (CSSP)

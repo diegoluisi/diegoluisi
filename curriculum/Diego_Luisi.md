@@ -49,6 +49,7 @@
 <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="60" height="60"/> <a>
 <img src="https://images.credly.com/size/340x340/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" alt="GitOps at Scale" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/5c67fbf1-d62b-4f7f-93c9-e7258414c862/blob" alt="GitOps Enterprise" width="60" height="60"/> </a>
 <img src="../.images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="60" height="60"/> <a>
 <img src="https://images.credly.com/size/340x340/images/4566aa76-1000-4ed5-a27e-e67ca4b7ff4d/image.png" alt="Kubernetes Fundamentals"width="60"height="60"/> <a>
@@ -167,6 +168,8 @@
 * São Paulo, SP - Brazil 🇧🇷
 * 10/2017 - 08/2019
 * Follow-up: e-commerce
+* Role:
+  * In this role, I collaborated closely with development teams to maintain the health and stability of Kubernetes environments, ensuring reliable and scalable application deployments. My focus was on automating infrastructure and operational processes to enhance system performance and reduce manual tasks. As a technical leader, I guided best practices in DevOps and fostered alignment between development and operations.
 * Technologies:
   * [AWS, CloudWatch, ELK, Filebeat, Git, Grafana, InfluxDB, Kibana, Kubernetes, Memcached, Metricbeat, NGINX, Puppet, Puppet-Bolt, R10k, Redis, Rundeck, Terraform, Vagrant, Zabbix]
 
@@ -176,6 +179,8 @@
 * Barueri, SP - Brazil 🇧🇷
 * 08/2014 - 10/2017
 * Follow-up: Retail
+* Role:
+  * As a Senior System Administrator, I was responsible for managing and automating the operations of approximately 900 servers across diverse platforms. This role marked my first exposure to DevOps tools and methodologies, which I leveraged to streamline processes, enhance infrastructure reliability, and improve deployment workflows. I developed automation solutions for configuration management, system provisioning, and application deployment.
 * Technologies:
   * [AIX, Centrify, Device42, GitLab, GitLabCI, JAVA, Jenkins, MCollective, MacOS Server, Netscaler, OpenScap, Oracle, PowerVM, Puppet, Puppet-DB, Puppet-Explorer, Rundeck, SALT, SuSE Linux, SuSE-Manager, VMware, X-Store, r10k]
 
