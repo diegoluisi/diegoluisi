@@ -42,7 +42,7 @@
   
 ### Certificates and Badges 🏅
 
-<p align="center">
+<p align="left">
 <img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Knowledge: Cloud Essentials" width="60" height="60"/> <a>
 <img src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" alt="Amazon EKS" width="60" height="60"/> <a>
 <img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="Well-Architected Proficient" width="60" height="60"/> <a>
