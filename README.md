@@ -39,6 +39,7 @@
 <img src="https://images.credly.com/size/340x340/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png" alt="Fundamentals for Cilium" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/06667f6f-68b0-4d6c-a0b9-a6199a1cf741/image.png" alt="Discovery: Platform Engineer" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/ea17abae-eca7-4117-bd8c-c65c545abcf4/image.png" alt="Discovery: Network Engineer" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/2824612e-3f3a-4ee0-a7a7-382cba9702d9/image.png" alt="Discovery: SecOps Engineer" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png" alt="Cilium Getting Started" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/36cb8a56-369f-4c47-a797-da62c52c30c6/image.png" alt="Tetragon Getting Started" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png" alt="Cilium Ingress Controller" width="120" height="120"/> </a>
