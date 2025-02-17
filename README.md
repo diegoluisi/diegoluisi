@@ -49,11 +49,11 @@
 <img src="https://images.credly.com/size/340x340/images/39cfc979-51f6-4da7-869f-9721cdcbf39b/image.png" alt="Cilium Advanced Gateway API Use Cases" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/182670a8-b6e2-401d-a898-a2233ba55272/image.png" alt="Golden Signals with Hubble and Grafana" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/13222796-2aa7-4d17-b2c4-6f2c58e76387/image.png" alt="Isovalent Lab Champion (10 labs)" width="120" height="120"/> </a>
-<img src="https://images.credly.com/size/340x340/images/4566aa76-1000-4ed5-a27e-e67ca4b7ff4d/image.png" alt="Kubernetes Fundamentals"width="120"height="120"/> <a>
 <img src="https://images.credly.com/size/340x340/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" alt="GitOps at Scale" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/5c67fbf1-d62b-4f7f-93c9-e7258414c862/blob" alt="GitOps Enterprise" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="120" height="120"/> <a>
+<img src="https://images.credly.com/size/340x340/images/4566aa76-1000-4ed5-a27e-e67ca4b7ff4d/image.png" alt="Kubernetes Fundamentals"width="120"height="120"/> <a>
 <img src=".images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" alt="LFS169: Introduction to GitOps" width="120" height="120"/> </a>  
 <img src="https://images.credly.com/size/340x340/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="120" height="120"/> </a>  
