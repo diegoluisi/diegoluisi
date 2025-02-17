@@ -38,6 +38,7 @@
 <img src="https://images.credly.com/size/340x340/images/54e795a8-e328-45ed-837e-1c48b57e596e/image.png" alt="Fundamentals for eBPF" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png" alt="Fundamentals for Cilium" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/06667f6f-68b0-4d6c-a0b9-a6199a1cf741/image.png" alt="Discovery: Platform Engineer" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/ea17abae-eca7-4117-bd8c-c65c545abcf4/image.png" alt="Discovery: Network Engineer" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png" alt="Cilium Getting Started" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/36cb8a56-369f-4c47-a797-da62c52c30c6/image.png" alt="Tetragon Getting Started" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png" alt="Cilium Ingress Controller" width="120" height="120"/> </a>
@@ -46,6 +47,7 @@
 <img src="https://images.credly.com/size/340x340/images/5db2624a-b21d-42d4-8e77-02db1f0af9a1/image.png" alt="Hubble Flow Visibility" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/39cfc979-51f6-4da7-869f-9721cdcbf39b/image.png" alt="Cilium Advanced Gateway API Use Cases" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/182670a8-b6e2-401d-a898-a2233ba55272/image.png" alt="Golden Signals with Hubble and Grafana" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/13222796-2aa7-4d17-b2c4-6f2c58e76387/image.png" alt="Isovalent Lab Champion (10 labs)" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/4566aa76-1000-4ed5-a27e-e67ca4b7ff4d/image.png" alt="Kubernetes Fundamentals"width="120"height="120"/> <a>
 <img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="120" height="120"/> <a>
 <img src=".images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="120" height="120"/> </a>
