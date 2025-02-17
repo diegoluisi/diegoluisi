@@ -31,6 +31,8 @@
 <img src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" alt="Amazon EKS" width="120" height="120"/> <a>
 <img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="Well-Architected Proficient" width="120" height="120"/> <a>
 <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="120" height="120"/> <a>
+<img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="120" height="120">
+<img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" alt="HashiCorp Vault Certification" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" alt="Fundamentals for Istio by Solo.io" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/19eb9d45-751f-45bb-8e05-c654efde6b20/image.png" alt="Fundamentals for Istio Ambient Mesh" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/7a5401a6-01eb-4f48-bbcd-9a227fdff361/image.png" alt="Intermediate for Istio" width="120" height="120"/> </a>
@@ -64,8 +66,6 @@
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="120" height="120">
 <!-- <img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="120" height="120"> -->
-<img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="120" height="120">
-<img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" alt="HashiCorp Vault Certification" width="120" height="120">
 </p>
 
 ### Languages and Tools 🛠️
