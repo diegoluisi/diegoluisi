@@ -47,13 +47,17 @@
 <img src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" alt="Amazon EKS" width="60" height="60"/> <a>
 <img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="Well-Architected Proficient" width="60" height="60"/> <a>
 <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="60" height="60"/> <a>
-<img src="https://images.credly.com/size/340x340/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" alt="GitOps at Scale" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/5c67fbf1-d62b-4f7f-93c9-e7258414c862/blob" alt="GitOps Enterprise" width="60" height="60"/> </a>
-<img src="../.images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="60" height="60"/> <a>
-<img src="https://images.credly.com/size/340x340/images/4566aa76-1000-4ed5-a27e-e67ca4b7ff4d/image.png" alt="Kubernetes Fundamentals"width="60"height="60"/> <a>
+<img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" alt="HashiCorp Vault Certification" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" alt="Fundamentals for Istio by Solo.io" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/19eb9d45-751f-45bb-8e05-c654efde6b20/image.png" alt="Fundamentals for Istio Ambient Mesh" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/7a5401a6-01eb-4f48-bbcd-9a227fdff361/image.png" alt="Intermediate for Istio" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/68e1190d-f711-441b-9d55-79d54c04e232/image.png" alt="Expert for Istio" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/54e795a8-e328-45ed-837e-1c48b57e596e/image.png" alt="Fundamentals for eBPF" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png" alt="Fundamentals for Cilium" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/06667f6f-68b0-4d6c-a0b9-a6199a1cf741/image.png" alt="Discovery: Platform Engineer" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/ea17abae-eca7-4117-bd8c-c65c545abcf4/image.png" alt="Discovery: Network Engineer" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/2824612e-3f3a-4ee0-a7a7-382cba9702d9/image.png" alt="Discovery: SecOps Engineer" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png" alt="Cilium Getting Started" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/36cb8a56-369f-4c47-a797-da62c52c30c6/image.png" alt="Tetragon Getting Started" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png" alt="Cilium Ingress Controller" width="60" height="60"/> </a>
@@ -62,22 +66,22 @@
 <img src="https://images.credly.com/size/340x340/images/5db2624a-b21d-42d4-8e77-02db1f0af9a1/image.png" alt="Hubble Flow Visibility" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/39cfc979-51f6-4da7-869f-9721cdcbf39b/image.png" alt="Cilium Advanced Gateway API Use Cases" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/182670a8-b6e2-401d-a898-a2233ba55272/image.png" alt="Golden Signals with Hubble and Grafana" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" alt="Fundamentals for Istio by Solo.io" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/19eb9d45-751f-45bb-8e05-c654efde6b20/image.png" alt="Fundamentals for Istio Ambient Mesh" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/7a5401a6-01eb-4f48-bbcd-9a227fdff361/image.png" alt="Intermediate for Istio" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/68e1190d-f711-441b-9d55-79d54c04e232/image.png" alt="Expert for Istio" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/54e795a8-e328-45ed-837e-1c48b57e596e/image.png" alt="Fundamentals for eBPF" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png" alt="Fundamentals for Cilium" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/13222796-2aa7-4d17-b2c4-6f2c58e76387/image.png" alt="Isovalent Lab Champion (10 labs)" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="60" height="60"/> <a>
+<img src="https://images.credly.com/size/340x340/images/4566aa76-1000-4ed5-a27e-e67ca4b7ff4d/image.png" alt="Kubernetes Fundamentals"width="60"height="60"/> <a>
+<!-- <img src="../.images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="60" height="60"/> </a> -->
+<img src="https://images.credly.com/size/340x340/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" alt="GitOps at Scale" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/5c67fbf1-d62b-4f7f-93c9-e7258414c862/blob" alt="GitOps Enterprise" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" alt="LFS169: Introduction to GitOps" width="60" height="60"/> </a>  
-<img src="https://images.credly.com/size/340x340/images/6166f9b5-2213-45f5-b7de-ba0e58048d23/blob" alt="LFS144: Introduction to Istio" width="60" height="60"/> </a>  
 <img src="https://images.credly.com/size/340x340/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="60" height="60"/> </a>  
+<img src="https://images.credly.com/size/340x340/images/6166f9b5-2213-45f5-b7de-ba0e58048d23/blob" alt="LFS144: Introduction to Istio" width="60" height="60"/> </a>  
 <img src="https://images.credly.com/size/340x340/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" alt="LFS158: Introduction to Kubernetes" width="60" height="60"/> </a>  
-<img src="https://images.credly.com/size/110x110/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="60" height="60"/> </a>  
-<img src="https://images.credly.com/size/110x110/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="60" height="60"/> </a>  
+<img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="HashiCorp Certified: Terraform Associate (003)" width="60" height="60">
-<img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" alt="HashiCorp Vault Certification" width="60" height="60">
-<img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="60" height="60">
 </p>
 
 ## Trainings and Workshops 🌱
