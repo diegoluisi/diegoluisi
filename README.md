@@ -52,8 +52,8 @@
 <img src="https://images.credly.com/size/340x340/images/182670a8-b6e2-401d-a898-a2233ba55272/image.png" alt="Golden Signals with Hubble and Grafana" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/13222796-2aa7-4d17-b2c4-6f2c58e76387/image.png" alt="Isovalent Lab Champion (10 labs)" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="120" height="120"/> <a>
-<img src="https://images.credly.com/size/340x340/images/4566aa76-1000-4ed5-a27e-e67ca4b7ff4d/image.png" alt="Kubernetes Fundamentals"width="120"height="120"/> <a>
-<img src=".images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/5d5fbcb9-76b8-41ac-aea0-b13a163eae53/blob" alt="Kubernetes Fundamentals"width="120"height="120"/> <a>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" alt="GitOps at Scale" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/5c67fbf1-d62b-4f7f-93c9-e7258414c862/blob" alt="GitOps Enterprise" width="120" height="120"/> </a>
@@ -64,9 +64,11 @@
 <img src="https://images.credly.com/size/340x340/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="120" height="120"/> </a>  
 <img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="120" height="120"/> </a>
-<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="120" height="120">
+<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="120" height="120">
+<!-- <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="120" height="120"> -->
 </p>
+
 
 ### Languages and Tools 🛠️
 

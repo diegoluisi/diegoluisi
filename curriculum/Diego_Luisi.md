@@ -69,7 +69,7 @@
 <img src="https://images.credly.com/size/340x340/images/13222796-2aa7-4d17-b2c4-6f2c58e76387/image.png" alt="Isovalent Lab Champion (10 labs)" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="60" height="60"/> <a>
 <img src="https://images.credly.com/size/340x340/images/5d5fbcb9-76b8-41ac-aea0-b13a163eae53/blob" alt="Kubernetes Fundamentals"width="60"height="60"/> <a>
-<img src="../.images/akuity-gitops-argocd.png" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="60" height="60"/> </a>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" alt="GitOps at Scale" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/5c67fbf1-d62b-4f7f-93c9-e7258414c862/blob" alt="GitOps Enterprise" width="60" height="60"/> </a>
