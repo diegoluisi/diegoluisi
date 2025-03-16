@@ -80,8 +80,9 @@
 <img src="https://images.credly.com/size/340x340/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="60" height="60"/> </a>  
 <img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="60" height="60">
 </p>
 
 ## Trainings and Workshops 🌱

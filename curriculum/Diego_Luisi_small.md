@@ -42,6 +42,7 @@
   
 ### Certificates and Badges 🏅
 
+* [CNCF] CKAD: Certified Kubernetes Application Developer
 * [CNCF] PCA: Certified Prometheus Associate
 * [Codefresh] GitOps Enterprise
 * [LinuxFoundation] LFS148: Getting Started with OpenTelemetry
