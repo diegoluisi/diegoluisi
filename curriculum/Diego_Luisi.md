@@ -1,24 +1,22 @@
-# Resume
+# Diego Fernando Luisi
 
-* Diego Fernando Luisi
+## Contact Information
 
-## Personal data
-
-* Brazilian, Married.
-* Rua Rua Padre Rui Valério 8, Apto 4B - Odivelas/Lisbon - Portugal
-* Date of Birth: 12/02/1986
-* 📞 +351 910910296 <!-- * 🐧 LPI000249557 -->
-* 📨 <contato@diegoluisi.eti.br> | 🌐 <https://www.diegoluisi.eti.br>
-* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/diegoluisi) | 🎥 [YouTube](https://www.youtube.com/@devxp-tech)  
-* [![GitHub](https://i.stack.imgur.com/tskMh.png) diegoluisi](https://github.com/diegoluisi/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) devxp-tech](https://github.com/devxp-tech/)  
+* Phone: +351 910 910 296
+* Email: <contato@diegoluisi.eti.br>
+* Website: [diegoluisi.eti.br](https://www.diegoluisi.eti.br)
+* LinkedIn: [linkedin.com/in/diegoluisi](https://www.linkedin.com/in/diegoluisi)
+* GitHub: [github.com/diegoluisi](https://github.com/diegoluisi) / [github.com/devxp-tech](https://github.com/devxp-tech)
+* YouTube: [youtube.com/@devxp-tech](https://www.youtube.com/@devxp-tech)
+* Location: Odivelas, Lisbon - Portugal
 
 ## Professional Expectations 🚀
 
-* Provide resilient solutions in an agile way, which make it possible to optimize processes, have efficient operations, reduce costs, allow rapid expansion and present new options that add value and make them more competitive.
+* Deliver scalable, efficient solutions using agile methodologies to optimize processes, enhance operational performance, reduce costs, and enable rapid growth. I aim to drive innovation that adds significant value, improves competitiveness, and supports long-term business success.
 
 ## Summary of qualifications 👨🏼‍💻
 
-* Eager to embrace the DevOps culture and fueled by a passion for Open Source, I bring over 20 years of IT expertise. As the owner of the GitHub Organization [devxp-tech](https://github.com/devxp-tech/), I am committed to fostering collaborative projects. Additionally, my [YouTube](https://www.youtube.com/@devxp-tech) channel serves as a platform for sharing knowledge and providing assistance to the community.
+* With over 20 years of experience in IT and a solid background in Open Source solutions, I have spent the last 10+ years focusing on DevOps, Site Reliability Engineering (SRE), and Platform Engineering. As the owner of the GitHub Organization devxp-tech, I lead collaborative projects aimed at fostering innovation and community-driven solutions. I have also served as a Tech Lead, guiding cross-functional teams towards high-performance outcomes. Additionally, my YouTube channel serves as a platform for sharing technical knowledge and providing guidance to the broader community.
 
 ## Academic education 📚
 
@@ -33,13 +31,14 @@
 
 ## Languages 🌎
 
-* English
-  * Read / Write - Advanced
-  * Conversation - Advanced
-* Spanish
-  * Reading / Writing - Basic
-  * Conversation - intermediate
-  
+* **English**  
+  * Reading / Writing: Advanced  
+  * Conversation: Advanced  
+
+* **Spanish**  
+  * Reading / Writing: Basic  
+  * Conversation: Intermediate
+
 ### Certificates and Badges 🏅
 
 <p align="left">
@@ -135,181 +134,151 @@
 
 ### Hashgraph Group 🇨🇭
 
-* Role: Platform Engineer (Tech Leader)
-* City: Remote
-* Date: 06/2024 - Current
-* Follow-up: BlockChain
-* Role:
+* **Job Title**: Platform Engineer (Tech Leader)
+* **City**: Remote
+* **Date**: 06/2024 - Current
+* **Industry**: BlockChain
+* **Role**: As a Tech Lead Platform Engineer at Hashgraph Group, I am responsible for designing and implementing secure, scalable AWS-based environments using Infrastructure as Code with Terraform, Crossplane, and Atlantis. I lead CI/CD initiatives with GitHub Actions and ArgoCD to streamline deployments, and manage secrets securely with Vault and External Secrets. I architect observability stacks using Grafana, Loki, Tempo, Mimir, and Alloy, ensuring deep visibility across distributed systems. Additionally, I oversee the implementation of Istio as a service mesh to enhance traffic control, security, and observability across microservices in a blockchain-native infrastructure.
 
-### 50Hertz 🇩🇪
+### 50Hertz / Elia Group 🇩🇪
 
-* Role: [Contractor] Observability Engineer
-* City: Remote
-* Date: 06/2024 - 06/2025
-* Follow-up: Energy
-* Role:
+* **Job Title**: [Contractor] SRE/Observability Engineer
+* **City**: Remote
+* **Date**: 06/2024 - 06/2025
+* **Industry**: Energy
+* **Role**: As an SRE Observability Engineer at 50Hertz, I led the design and implementation of a multi-tenant observability stack using Kubernetes, Grafana, Tempo, Mimir, Loki, and OpenTelemetry. I defined architecture standards, automated deployment pipelines, and enabled scalable, centralized monitoring for multiple teams, improving visibility, reliability, and troubleshooting efficiency across environments.
 
 ### Shield Financial Compliance 🇮🇱
 
-* Role: DevOps Engineer
-* City: Lisbon - Portugal 🇵🇹
-* Date: 04/2023 - 06/2024
-* Follow-up: Financial Compliance
-* Role:
-  * As a DevOps engineer specializing in Cloud Environments, my role revolves around automating infrastructure with tools like Terraform, Terragrunt, ArgoCD, and Helm. I collaborate with teams to optimize deployment pipelines and architecture scalability. I deploy advanced Kubernetes features like Istio, Keda, and Karpenter for service mesh capabilities and workload optimization. Monitoring with Grafana, Prometheus, Loki, and OpenTelemetry ensures system performance and reliability. Continuous improvement maintains robust, resilient, and scalable environments in AWS and Azure, meeting evolving organizational needs.
+* **Job Title**: DevOps Engineer
+* **City**: Lisbon - Portugal 🇵🇹
+* **Date**: 04/2023 - 06/2024
+* **Industry**: Financial Compliance
+* **Role**: As a DevOps engineer specializing in Cloud Environments, my role revolves around automating infrastructure with tools like Terraform, Terragrunt, ArgoCD, and Helm. I collaborate with teams to optimize deployment pipelines and architecture scalability. I deploy advanced Kubernetes features like Istio, Keda, and Karpenter for service mesh capabilities and workload optimization. Monitoring with Grafana, Prometheus, Loki, and OpenTelemetry ensures system performance and reliability. Continuous improvement maintains robust, resilient, and scalable environments in AWS and Azure, meeting evolving organizational needs.
 
 ### Evolution Gaming 🇸🇪
 
-* Role: Site Reliability Engineering (Tech Leader)
-* City: Lisbon - Portugal 🇵🇹
-* Date: 04/2022 - 04/2023
-* Follow-up: Gaming
-* Role:
-  * As a Site Reliability Engineering (SRE) Tech Leader, I oversee environment management on Google Cloud Platform (GCP), ensuring reliability, scalability, and efficiency. Using automation tools like ArgoCD, Crossplane, and Helm, I orchestrate seamless bootstrap of new clusters and environments, enabling rapid deployment and consistent infrastructure configuration. Prioritizing observability, I implement monitoring solutions such as Prometheus, Loki, and Grafana, enabling proactive issue identification and resolution. Overseeing our internal developer platform, Backstage, I facilitate collaboration and enhance developer productivity. Through strategic leadership and continuous improvement, I optimize GCP environments to meet organizational performance and reliability requirements.
+* **Job Title**: Site Reliability Engineering (Tech Leader)
+* **City**: Lisbon - Portugal 🇵🇹
+* **Date**: 04/2022 - 04/2023
+* **Industry**: Gaming
+* **Role**: As a Site Reliability Engineering (SRE) Tech Leader, I oversee environment management on Google Cloud Platform (GCP), ensuring reliability, scalability, and efficiency. Using automation tools like ArgoCD, Crossplane, and Helm, I orchestrate seamless bootstrap of new clusters and environments, enabling rapid deployment and consistent infrastructure configuration. Prioritizing observability, I implement monitoring solutions such as Prometheus, Loki, and Grafana, enabling proactive issue identification and resolution. Overseeing our internal developer platform, Backstage, I facilitate collaboration and enhance developer productivity. Through strategic leadership and continuous improvement, I optimize GCP environments to meet organizational performance and reliability requirements.
 
 ### Dafiti Group (GFG Group) II 🇧🇷
 
-* Role: [Contractor] Site Reliability Engineering/Platform Engineer (Tech Leader)
-* City: São Paulo, SP - Brazil
-* Date: 09/2020 - 07/2023
-* Follow-up: e-commerce
-* Role:
-  * As the Technical Leader of Squad DevXP, I foster a culture of excellence and innovation while driving the adoption of best development practices. With tools like AlertManager, ArgoCD, CircleCI, and GitHub, I orchestrate streamlined workflows and ensure adherence to standards. Leveraging Kubernetes (EKS), Terraform, and Helm, I facilitate efficient infrastructure provisioning and management, empowering the team to deliver quality solutions rapidly. Additionally, I champion observability tools like Grafana, Prometheus, and Loki for proactive monitoring and troubleshooting. Through strategic guidance and mentorship, I cultivate a collaborative environment where team members thrive and contribute to project success.
+* **Job Title**: [Contractor] Site Reliability Engineering/Platform Engineer (Tech Leader)
+* **City**: São Paulo, SP - Brazil
+* **Date**: 09/2020 - 07/2023
+* **Industry**: e-commerce
+* **Role**: As the Technical Leader of Squad DevXP, I foster a culture of excellence and innovation while driving the adoption of best development practices. With tools like AlertManager, ArgoCD, CircleCI, and GitHub, I orchestrate streamlined workflows and ensure adherence to standards. Leveraging Kubernetes (EKS), Terraform, and Helm, I facilitate efficient infrastructure provisioning and management, empowering the team to deliver quality solutions rapidly. Additionally, I champion observability tools like Grafana, Prometheus, and Loki for proactive monitoring and troubleshooting. Through strategic guidance and mentorship, I cultivate a collaborative environment where team members thrive and contribute to project success.
 
 ### C&A Modas do Brasil - II 🇧🇷
 
-* Role: DevOps Specialist (Tech Leader).
-* City: Barueri, SP - Brazil
-* Date: 08/2019 - 09/2020
-* Follow-up: Retail
-* Role:
-  * As a DevOps Specialist and Tech Leader, I led the modernization efforts for applications and infrastructure, transforming legacy systems into scalable microservices architectures. Utilizing Docker, OpenShift, and Kubernetes, I embraced containerization to improve portability and scalability, while automation tools like GitLab CI and Puppet streamlined deployment pipelines. Employing ELK stack components for centralized logging and monitoring, including Elasticsearch, Logstash, and Kibana, ensured robust observability. With Terraform and Vagrant, I optimized infrastructure provisioning, orchestrating seamless transitions to cloud environments. Through meticulous planning and execution, I successfully modernized our technology stack, empowering the organization to deliver innovative solutions with agility and reliability.
+* **Job Title**: DevOps Specialist (Tech Leader).
+* **City**: Barueri, SP - Brazil
+* **Date**: 08/2019 - 09/2020
+* **Industry**: Retail
+* **Role**: As a DevOps Specialist and Tech Leader, I led the modernization efforts for applications and infrastructure, transforming legacy systems into scalable microservices architectures. Utilizing Docker, OpenShift, and Kubernetes, I embraced containerization to improve portability and scalability, while automation tools like GitLab CI and Puppet streamlined deployment pipelines. Employing ELK stack components for centralized logging and monitoring, including Elasticsearch, Logstash, and Kibana, ensured robust observability. With Terraform and Vagrant, I optimized infrastructure provisioning, orchestrating seamless transitions to cloud environments. Through meticulous planning and execution, I successfully modernized our technology stack, empowering the organization to deliver innovative solutions with agility and reliability.
 
 ### Dafiti Group (GFG Group) - I 🇧🇷
 
-* Role: Senior / Specialist DevOps Engineer - Tech Leader.
-* City: São Paulo, SP - Brazil
-* Date: 10/2017 - 08/2019
-* Follow-up: e-commerce
-* Role:
-  * In this role, I collaborated closely with development teams to maintain the health and stability of Kubernetes environments, ensuring reliable and scalable application deployments. My focus was on automating infrastructure and operational processes to enhance system performance and reduce manual tasks. As a technical leader, I guided best practices in DevOps and fostered alignment between development and operations.
-* Technologies:
-  * [AWS, CloudWatch, ELK, Filebeat, Git, Grafana, InfluxDB, Kibana, Kubernetes, Memcached, Metricbeat, NGINX, Puppet, Puppet-Bolt, R10k, Redis, Rundeck, Terraform, Vagrant, Zabbix]
+* **Job Title**: Senior / Specialist DevOps Engineer - Tech Leader.
+* **City**: São Paulo, SP - Brazil
+* **Date**: 10/2017 - 08/2019
+* **Industry**: e-commerce/retail
+* **Role**: As a Senior DevOps Engineer and Tech Leader at Dafiti Group, I worked closely with development teams to ensure the stability and scalability of Kubernetes-based environments. I led automation initiatives using tools like Terraform, Puppet, and Rundeck to streamline infrastructure and operational workflows. I also implemented robust monitoring and logging solutions leveraging ELK, CloudWatch, Grafana, and Zabbix, enhancing system visibility and performance. My role emphasized reducing manual effort, improving deployment reliability, and fostering a strong DevOps culture across teams through best practices and technical leadership.
 
 ### C&A Modas do Brasil - I 🇧🇷
 
-* Role: Senior SysAdmin / DevOps Engineer.
-* City: Barueri, SP - Brazil
-* Date: 08/2014 - 10/2017
-* Follow-up: Retail
-* Role:
-  * As a Senior System Administrator, I was responsible for managing and automating the operations of approximately 900 servers across diverse platforms. This role marked my first exposure to DevOps tools and methodologies, which I leveraged to streamline processes, enhance infrastructure reliability, and improve deployment workflows. I developed automation solutions for configuration management, system provisioning, and application deployment.
-* Technologies:
-  * [AIX, Centrify, Device42, GitLab, GitLabCI, JAVA, Jenkins, MCollective, MacOS Server, Netscaler, OpenScap, Oracle, PowerVM, Puppet, Puppet-DB, Puppet-Explorer, Rundeck, SALT, SuSE Linux, SuSE-Manager, VMware, X-Store, r10k]
+* **Job Title**: Senior SysAdmin / DevOps Engineer.
+* **City**: Barueri, SP - Brazil
+* **Date**: 08/2014 - 10/2017
+* **Industry**: Retail
+* **Role**: At C&A, I managed and automated the operations of approximately 900 servers across diverse environments, including AIX, Linux (SuSE), and VMware. This role marked my entry into the DevOps world, where I introduced and implemented tools like Puppet, Rundeck, Jenkins, GitLabCI, and SALT to streamline system provisioning, configuration management, and application deployments. I also worked with tools such as Device42, Centrify, and SuSE Manager to improve infrastructure governance and operational efficiency. My efforts significantly reduced manual tasks, improved system consistency, and laid the foundation for modern DevOps practices within the organization.
 
 ### e-Deploy Integrated Technology and Solutions 🇧🇷
 
-* Role: [Contractor] Senior SysAdmin / Monitoring Specialist
-* City: Barueri, SP - Brazil
-* Date: 08/2013 - 07/2014
-* Follow-up: Technology
-* Technologies:
-  * [Linux, RedHat, Zabbix, Grafana, MySQL, Sonicwall, Apache, JBoss, VMWare, MySQL]
+* **Job Title**: [Contractor] Senior SysAdmin / Monitoring Specialist
+* **City**: Barueri, SP - Brazil
+* **Date**: 08/2013 - 07/2014
+* **Industry**: Technology
+* **Role**: As a Senior SysAdmin and Monitoring Specialist, I played a pivotal role in the implementation of a comprehensive monitoring solution for the C&A Group. This involved deploying and configuring Zabbix, Grafana, and Nagios to monitor over 900 servers across various environments, including AIX, Linux (SuSE), and VMware. I was responsible for designing and implementing monitoring templates, alerting mechanisms, and dashboards to provide real-time insights into system performance and availability. My efforts significantly enhanced the organization's ability to proactively identify and address issues, ensuring optimal system performance and reliability.
 
 ### Grupo Logos – Logistics and Planned Transport 🇧🇷
 
-* Role: Senior SysAdmin
-* City: Barueri, SP - Brazil
-* Date: 01/2012 - 09/2013
-* Follow-up: Logistics and Transport
-* Technologies:
-  * [Active Directory, Apache, Bind9, Fail2Ban, Grafana, GitLab, GitLab CI, MCollective, MySQL, NGINX,Postgrey, Puppet, Puppet-Board, Sonicwal, VMware, Xeams, Zabbix, Zimbra]
+* **Job Title**: Senior SysAdmin
+* **City**: Barueri, SP - Brazil
+* **Date**: 01/2012 - 09/2013
+* **Industry**: Logistics and Transport
+* **Role**: As a Senior System Administrator, I managed and supported critical infrastructure across the organization, ensuring high availability, performance, and security. I automated system provisioning and configuration using Puppet and MCollective, and administered services such as Active Directory, MySQL, Zimbra, and VMware environments. I also implemented and maintained monitoring solutions with Zabbix and Grafana, managed email security with Xeams and Postgrey, and improved perimeter protection with Fail2Ban and SonicWall. My work contributed to a more reliable and scalable IT environment supporting business operations across logistics and transport services.
 
 ### FETAESP - Federation of Agricultural Workers of the State of São Paulo 🇧🇷
 
-* Role: SysAdmin
-* City: Agudos, SP - Brazil
-* Date: Duration: 04/2010 to 03/2011
-* Follow-up: Union Body.
-* Technologies:
-  * [Active Directory, Hyper-v, Terminal Service, Sarg, Squid, Squid-Guard, ThinStation, XP Unlimited]
+* **Job Title**: SysAdmin
+* **City**: Agudos, SP - Brazil
+* **Date**: Duration: 04/2010 to 03/2011
+* **Industry**: Union Body.
+* **Role**: As a SysAdmin, I was responsible for maintaining and supporting the organization's IT infrastructure, focusing on network access control, user management, and virtualized desktop environments. I administered Windows Server with Active Directory and Terminal Services, implemented virtualization using Hyper-V, and deployed secure, cost-effective thin client solutions using ThinStation and XP Unlimited. I also configured internet access policies using Squid, SquidGuard, and SARG for usage reporting and control. My work ensured system stability, improved network performance, and supported day-to-day operations for internal staff.
 
 ### Santa Alice Group 🇧🇷
 
-* Role: [Contractor] SysAdmin
-* City: Presidente Prudente, SP - Brazil
-* Date: 05/2006 to 09/2008
-* Follow-up: Secondary and elementary education institution.
-* Technologies:
-  * [Active Directory, Iptables, Linux, Microsoft, Squid, Squid-Guard, Sarg]
+* **Job Title**: [Contractor] SysAdmin
+* **City**: Presidente Prudente, SP - Brazil
+* **Date**: 05/2006 to 09/2008
+* **Industry**: Secondary and elementary education institution.
+* **Role**: As a SysAdmin at Santa Alice Group, I was responsible for maintaining and optimizing IT infrastructure within the educational environment. I managed Active Directory for user authentication, configured and maintained firewall rules using Iptables, and ensured the reliability of Linux and Microsoft servers. Additionally, I implemented and managed proxy solutions using Squid and Squid-Guard to filter content and monitor web traffic, improving network security and efficiency for the institution.
 
 ### e-Future Informatic 🇧🇷
 
-* Role: Owner
-* City: Presidente Prudente, SP - Brazil
-* Date: 04/2002 to 09/2008
-* Follow-up: IT Maintenance and Support Company.
-* Functions Performed:
-  * Support, Design, Installation and Maintenance on Servers and Network.
+* **Job Title**: Owner  
+* **City**: Presidente Prudente, SP - Brazil  
+* **Date**: 04/2002 - 09/2008
+* **Industry**: IT Maintenance and Support
+* **Functions Performed**:  
+  * Provided support, design, installation, and maintenance services for servers and networks.
 
 ## Specific knowledge 🥷
 
 ### Public Cloud
 
-* Amazon Web Services (AWS):
-  * [ACM, ALB, ASG, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch Logs, Code Deploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, GLACIER, IAM, KMS, LAMBDA, RDS, R53, SNS, SQS, S3, VPC]
-* Azure:
-  * [Virtual Machines, Blob Storage, Kubernetes Service (AKS), SQL Database, Cosmos DB, Service Bus, Data Lake Storage, Functions, App Service, Active Directory (Azure AD)]
-* Google Cloud Platform (GCP):
-  * [Compute Engine, Cloud Storage, Google Kubernetes Engine (GKE), Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Google Cloud IAM (Identity and Access Management)]
+* **Amazon Web Services (AWS)**  
+  * ACM, ALB, ASG, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch Logs, CodeDeploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, Glacier, IAM, KMS, Lambda, RDS, Route 53 (R53), SNS, SQS, S3, VPC  
+
+* **Azure**  
+  * Virtual Machines, Blob Storage, Kubernetes Service (AKS), SQL Database, Cosmos DB, Service Bus, Data Lake Storage, Functions, App Service, Active Directory (Azure AD)  
+
+* **Google Cloud Platform (GCP)**  
+  * Compute Engine, Cloud Storage, Google Kubernetes Engine (GKE), Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Google Cloud IAM
 
 ### The Cloud Native Computing Foundation (CNCF)
 
-* Kubernetes
-  * Application Definition & Image Build
-    * Backstage, Kustomize, Helm, DevSpace and Okteto
-  * Secret Management
-    * Cert Manager, External Secrets, Sealed Secrets, Hashicorp Vault
-  * Continuous Integration & Delivery:
-    * Argo AutoPilot, ArgoCD, Argo Events, Argo Workflows and Argo Rollouts
-  * Observability
-    * Alloy, Kiali, Jaeger, ELK, FluentBit, Promtail, Tempo, OpenTelemetry, AlertManager, Prometheus, Thanos, Mimir, Grafana and Loki
-  * Network Policies
-    * Calico, Cilium
-  * Scheduling & Orchestration
-    * Crossplane
-  * Service Mesh
-    * Istio and Cilium
+* **Kubernetes**  
+  * **Application Definition & Image Build**: Backstage, Kustomize, Helm, DevSpace, Okteto  
+  * **Secret Management**: Cert Manager, External Secrets, Sealed Secrets, HashiCorp Vault  
+  * **Continuous Integration & Delivery**: Argo AutoPilot, ArgoCD, Argo Events, Argo Workflows, Argo Rollouts  
+  * **Observability**: Alloy, Kiali, Jaeger, ELK, FluentBit, Promtail, Tempo, OpenTelemetry, AlertManager, Prometheus, Thanos, Mimir, Grafana, Loki  
+  * **Network Policies**: Calico, Cilium  
+  * **Scheduling & Orchestration**: Crossplane  
+  * **Service Mesh**: Istio, Cilium
 
-### Programing
+### Programming
 
-* Python
-  * Basic
-* Golang
-  * Basic
+* **Bash**: Advanced  
+* **Python**: Basic  
+* **Golang**: Basic
 
 ### Tooling
 
-* APM:
-  * Datadog, New Relic and Instana.
-* Cache:
-  * Redis, MemCached.
-* CI/CD:
-  * ArgoCD, Bamboo, CircleCI, CodeDeploy, GitLab CI, GitHub Actions, Jenkins and Travis.
-* Configuration Management:
-  * Ansible, Chef, Puppet [PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt, Hiera, eYaml] and Salt.
-* Container Orchestration:
-  * Docker, OpenShift, EKS, Kubernetes, Rancher.
-* Data base:
-  * Mysql, PostgreSQL, MariaDB, MongoDB and Oracle.
-* Infrastructure as Code:
-  * Crossplane, CloudFormation, Terraform and Terragrunt
-* Log Management:
-  * Graylog, ELK and Loki.
-* Middleware:
-  * Apache, JBoss, Nginx, Tomcat, Weblogic.
-* Monitoring:
-  * Prometheus, Nagios, Oracle Enterprise Manager (OEM12) and Zabbix.
+* **APM**: Datadog, New Relic, Instana  
+* **Cache**: Redis, Memcached  
+* **CI/CD**: ArgoCD, Bamboo, CircleCI, CodeDeploy, GitLab CI, GitHub Actions, Jenkins, Travis CI  
+* **Configuration Management**: Ansible, Chef, Puppet (PuppetDB, Puppet Explorer, MCollective, Puppet Bolt, Hiera, eYaml), SaltStack  
+* **Container Orchestration**: Docker, OpenShift, EKS, Kubernetes, Rancher  
+* **Databases**: MySQL, PostgreSQL, MariaDB, MongoDB, Oracle  
+* **Infrastructure as Code**: Crossplane, CloudFormation, Terraform, Terragrunt  
+* **Log Management**: Graylog, ELK Stack, Loki  
+* **Middleware**: Apache, JBoss, NGINX, Tomcat, WebLogic  
+* **Monitoring**: Prometheus, Nagios, Oracle Enterprise Manager (OEM12), Zabbix
 
 ### Virtualization
 
