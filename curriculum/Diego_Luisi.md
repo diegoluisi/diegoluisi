@@ -5,7 +5,7 @@
 ## Personal data
 
 * Brazilian, Married.
-* Rua Guilherme Gomes Fernandes, 5A - Amadora/Lisbon - Portugal
+* Rua Rua Padre Rui Valério 8, Apto 4B - Odivelas/Lisbon - Portugal
 * Date of Birth: 12/02/1986
 * 📞 +351 910910296 <!-- * 🐧 LPI000249557 -->
 * 📨 <contato@diegoluisi.eti.br> | 🌐 <https://www.diegoluisi.eti.br>
@@ -81,8 +81,10 @@
 <img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="60" height="60">
+<!-- <img src="https://images.credly.com/size/340x340/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="60" height="60"> -->
 <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="60" height="60">
+<!-- <img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="60" height="60"> -->
 </p>
 
 ## Trainings and Workshops 🌱
@@ -131,105 +133,121 @@
 
 ## Professional Experiences 👜
 
-### Shield Financial Compliance
+### Hashgraph Group 🇨🇭
 
-* Position: DevOps Engineer
-* Lisbon, Lisbon - Portugal 🇵🇹
-* 04/2023 - Current
+* Role: Platform Engineer (Tech Leader)
+* City: Remote
+* Date: 06/2024 - Current
+* Follow-up: BlockChain
+* Role:
+
+### 50Hertz 🇩🇪
+
+* Role: [Contractor] Observability Engineer
+* City: Remote
+* Date: 06/2024 - 06/2025
+* Follow-up: Energy
+* Role:
+
+### Shield Financial Compliance 🇮🇱
+
+* Role: DevOps Engineer
+* City: Lisbon - Portugal 🇵🇹
+* Date: 04/2023 - 06/2024
 * Follow-up: Financial Compliance
 * Role:
   * As a DevOps engineer specializing in Cloud Environments, my role revolves around automating infrastructure with tools like Terraform, Terragrunt, ArgoCD, and Helm. I collaborate with teams to optimize deployment pipelines and architecture scalability. I deploy advanced Kubernetes features like Istio, Keda, and Karpenter for service mesh capabilities and workload optimization. Monitoring with Grafana, Prometheus, Loki, and OpenTelemetry ensures system performance and reliability. Continuous improvement maintains robust, resilient, and scalable environments in AWS and Azure, meeting evolving organizational needs.
 
-### Evolution Gaming
+### Evolution Gaming 🇸🇪
 
-* Position: Site Reliability Engineering (Tech Leader).
-* Lisbon, Lisbon - Portugal 🇵🇹
-* 04/2022 - 04/2023
+* Role: Site Reliability Engineering (Tech Leader)
+* City: Lisbon - Portugal 🇵🇹
+* Date: 04/2022 - 04/2023
 * Follow-up: Gaming
 * Role:
   * As a Site Reliability Engineering (SRE) Tech Leader, I oversee environment management on Google Cloud Platform (GCP), ensuring reliability, scalability, and efficiency. Using automation tools like ArgoCD, Crossplane, and Helm, I orchestrate seamless bootstrap of new clusters and environments, enabling rapid deployment and consistent infrastructure configuration. Prioritizing observability, I implement monitoring solutions such as Prometheus, Loki, and Grafana, enabling proactive issue identification and resolution. Overseeing our internal developer platform, Backstage, I facilitate collaboration and enhance developer productivity. Through strategic leadership and continuous improvement, I optimize GCP environments to meet organizational performance and reliability requirements.
 
-### Dafiti Group (GFG Group) II
+### Dafiti Group (GFG Group) II 🇧🇷
 
-* Position: Site Reliability Engineering/Platform Engineer (Tech Leader).
-* São Paulo, SP - Brazil 🇧🇷
-* 09/2020 - 04/2022
+* Role: [Contractor] Site Reliability Engineering/Platform Engineer (Tech Leader)
+* City: São Paulo, SP - Brazil
+* Date: 09/2020 - 07/2023
 * Follow-up: e-commerce
 * Role:
   * As the Technical Leader of Squad DevXP, I foster a culture of excellence and innovation while driving the adoption of best development practices. With tools like AlertManager, ArgoCD, CircleCI, and GitHub, I orchestrate streamlined workflows and ensure adherence to standards. Leveraging Kubernetes (EKS), Terraform, and Helm, I facilitate efficient infrastructure provisioning and management, empowering the team to deliver quality solutions rapidly. Additionally, I champion observability tools like Grafana, Prometheus, and Loki for proactive monitoring and troubleshooting. Through strategic guidance and mentorship, I cultivate a collaborative environment where team members thrive and contribute to project success.
 
-### C&A Modas do Brasil - II
+### C&A Modas do Brasil - II 🇧🇷
 
-* Position: DevOps Specialist (Tech Leader).
-* Barueri, SP - Brazil 🇧🇷
-* 08/2019 - 09/2020
+* Role: DevOps Specialist (Tech Leader).
+* City: Barueri, SP - Brazil
+* Date: 08/2019 - 09/2020
 * Follow-up: Retail
 * Role:
   * As a DevOps Specialist and Tech Leader, I led the modernization efforts for applications and infrastructure, transforming legacy systems into scalable microservices architectures. Utilizing Docker, OpenShift, and Kubernetes, I embraced containerization to improve portability and scalability, while automation tools like GitLab CI and Puppet streamlined deployment pipelines. Employing ELK stack components for centralized logging and monitoring, including Elasticsearch, Logstash, and Kibana, ensured robust observability. With Terraform and Vagrant, I optimized infrastructure provisioning, orchestrating seamless transitions to cloud environments. Through meticulous planning and execution, I successfully modernized our technology stack, empowering the organization to deliver innovative solutions with agility and reliability.
 
-### Dafiti Group (GFG Group) - I
+### Dafiti Group (GFG Group) - I 🇧🇷
 
-* Position: Senior / Specialist DevOps Engineer - Tech Leader.
-* São Paulo, SP - Brazil 🇧🇷
-* 10/2017 - 08/2019
+* Role: Senior / Specialist DevOps Engineer - Tech Leader.
+* City: São Paulo, SP - Brazil
+* Date: 10/2017 - 08/2019
 * Follow-up: e-commerce
 * Role:
   * In this role, I collaborated closely with development teams to maintain the health and stability of Kubernetes environments, ensuring reliable and scalable application deployments. My focus was on automating infrastructure and operational processes to enhance system performance and reduce manual tasks. As a technical leader, I guided best practices in DevOps and fostered alignment between development and operations.
 * Technologies:
   * [AWS, CloudWatch, ELK, Filebeat, Git, Grafana, InfluxDB, Kibana, Kubernetes, Memcached, Metricbeat, NGINX, Puppet, Puppet-Bolt, R10k, Redis, Rundeck, Terraform, Vagrant, Zabbix]
 
-### C&A Modas do Brasil - I
+### C&A Modas do Brasil - I 🇧🇷
 
-* Position: Senior SysAdmin / DevOps Engineer.
-* Barueri, SP - Brazil 🇧🇷
-* 08/2014 - 10/2017
+* Role: Senior SysAdmin / DevOps Engineer.
+* City: Barueri, SP - Brazil
+* Date: 08/2014 - 10/2017
 * Follow-up: Retail
 * Role:
   * As a Senior System Administrator, I was responsible for managing and automating the operations of approximately 900 servers across diverse platforms. This role marked my first exposure to DevOps tools and methodologies, which I leveraged to streamline processes, enhance infrastructure reliability, and improve deployment workflows. I developed automation solutions for configuration management, system provisioning, and application deployment.
 * Technologies:
   * [AIX, Centrify, Device42, GitLab, GitLabCI, JAVA, Jenkins, MCollective, MacOS Server, Netscaler, OpenScap, Oracle, PowerVM, Puppet, Puppet-DB, Puppet-Explorer, Rundeck, SALT, SuSE Linux, SuSE-Manager, VMware, X-Store, r10k]
 
-### e-Deploy Integrated Technology and Solutions
+### e-Deploy Integrated Technology and Solutions 🇧🇷
 
-* Position: Senior SysAdmin / Monitoring Specialist
-* Barueri, SP - Brazil 🇧🇷
-* 08/2013 - 07/2014
+* Role: [Contractor] Senior SysAdmin / Monitoring Specialist
+* City: Barueri, SP - Brazil
+* Date: 08/2013 - 07/2014
 * Follow-up: Technology
 * Technologies:
   * [Linux, RedHat, Zabbix, Grafana, MySQL, Sonicwall, Apache, JBoss, VMWare, MySQL]
 
-### Grupo Logos – Logistics and Planned Transport
+### Grupo Logos – Logistics and Planned Transport 🇧🇷
 
-* Position: Senior SysAdmin
-* Barueri, SP - Brazil 🇧🇷
-* 01/2012 - 09/2013
+* Role: Senior SysAdmin
+* City: Barueri, SP - Brazil
+* Date: 01/2012 - 09/2013
 * Follow-up: Logistics and Transport
 * Technologies:
   * [Active Directory, Apache, Bind9, Fail2Ban, Grafana, GitLab, GitLab CI, MCollective, MySQL, NGINX,Postgrey, Puppet, Puppet-Board, Sonicwal, VMware, Xeams, Zabbix, Zimbra]
 
-### FETAESP - Federation of Agricultural Workers of the State of São Paulo
+### FETAESP - Federation of Agricultural Workers of the State of São Paulo 🇧🇷
 
-* Position: SysAdmin
-* Agudos, SP - Brazil 🇧🇷
-* Duration: 04/2010 to 03/2011
+* Role: SysAdmin
+* City: Agudos, SP - Brazil
+* Date: Duration: 04/2010 to 03/2011
 * Follow-up: Union Body.
 * Technologies:
   * [Active Directory, Hyper-v, Terminal Service, Sarg, Squid, Squid-Guard, ThinStation, XP Unlimited]
 
-### Santa Alice Group
+### Santa Alice Group 🇧🇷
 
-* Position: SysAdmin
-* Presidente Prudente, SP - Brazil 🇧🇷
-* Duration: 05/2006 to 09/2008
+* Role: [Contractor] SysAdmin
+* City: Presidente Prudente, SP - Brazil
+* Date: 05/2006 to 09/2008
 * Follow-up: Secondary and elementary education institution.
 * Technologies:
   * [Active Directory, Iptables, Linux, Microsoft, Squid, Squid-Guard, Sarg]
 
-### e-Future Informatic
+### e-Future Informatic 🇧🇷
 
-* Position: Owner
-* Presidente Prudente, SP - Brazil 🇧🇷
-* Duration: 04/2002 to 09/2008
+* Role: Owner
+* City: Presidente Prudente, SP - Brazil
+* Date: 04/2002 to 09/2008
 * Follow-up: IT Maintenance and Support Company.
 * Functions Performed:
   * Support, Design, Installation and Maintenance on Servers and Network.
@@ -251,13 +269,11 @@
   * Application Definition & Image Build
     * Backstage, Kustomize, Helm, DevSpace and Okteto
   * Secret Management
-    * Cert Manager, Bitnami Sealed Secrets, Hashicorp Vault
+    * Cert Manager, External Secrets, Sealed Secrets, Hashicorp Vault
   * Continuous Integration & Delivery:
-    * ArgoCD AutoPilot, ArgoCD, Argo Events, Argo Workflows and Argo Rollouts
-  * Logging and Tracing
-    * Kiali, Jaeger, ELK, FluentBit, Promtail, Tempo and OpenTelemetry
-  * Monitoring
-    * Alert Manager, Prometheus, Grafana and Loki
+    * Argo AutoPilot, ArgoCD, Argo Events, Argo Workflows and Argo Rollouts
+  * Observability
+    * Alloy, Kiali, Jaeger, ELK, FluentBit, Promtail, Tempo, OpenTelemetry, AlertManager, Prometheus, Thanos, Mimir, Grafana and Loki
   * Network Policies
     * Calico, Cilium
   * Scheduling & Orchestration
