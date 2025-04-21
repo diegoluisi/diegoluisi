@@ -34,7 +34,6 @@
 * **English**  
   * Reading / Writing: Advanced  
   * Conversation: Advanced  
-
 * **Spanish**  
   * Reading / Writing: Basic  
   * Conversation: Intermediate
