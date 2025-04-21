@@ -7,9 +7,10 @@
 
 - 🚀 Passionate about DevOps culture and automation, I bring 20+ years of experience in IT, evolving from a SysAdmin to an SRE and Platform Engineer. I thrive on building resilient systems and continuously seek to grow through new technologies and practices.
 - 🛠️ Strong advocate of Open Source, with a focus on Linux, CNCF projects, GitOps, and cloud-native tools.
-- 📚 Currently sharpening my skills in AWS, Kubernetes, and Python, with a strong focus on platform engineering tools like Backstage and the Argo suite (CD, Autopilot, Events, Rollouts, and Workflows). I'm also actively studying to achieve the Kubestronaut Gold certification.
-- 🌱 Always learning — especially focused on improving my programming skills.
-- 🎸 Off the clock? You’ll find me enjoying classic rock or hitting the road on my Harley Davidson.
+- 📚 Currently sharpening my skills in AWS, Kubernetes, and Python, with a strong focus on platform engineering tools like Backstage and the Argo suite (CD, Autopilot, Events, Rollouts, and Workflows).
+- 🌱 Lifelong learner — currently focused on improving my programming skills and advancing on the journey toward the CNCF Kubestronaut Gold Certification.
+- 🕰️ Outside of work, I'm a watch enthusiast with a passion for collecting timepieces. I love exploring new places, discovering local cuisine, and enjoying memorable experiences through travel and great food.
+- 💬 Ask me about DevOps, GitOps, Kubernetes, and Open Source.
 
 <br />
 
