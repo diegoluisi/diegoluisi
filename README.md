@@ -3,13 +3,13 @@
 
 ## Hello World.. 👋
 
-### My name is Diego Luisi. I'm SRE! 🤖
+### Hi, I'm Diego Luisi — SRE & Open Source Enthusiast 🤖
 
-- 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, with 20 years of experience as a SysAdmin, currently working as an SRE, always open to learning new technologies and procedures to improve every day more as a professional.
-- 👀 I’m interested in Open Source projects (Linux, CNCF, GitOps and Tools)
-- 📚 I’m currently increasing my skills on AWS, K8S, Python, Backstage and some automations tools like Argo (CD, Autopilot, Events, Rollouts and Workflows).
-- 🌱 Goals: Increase my programming skills.
-- 💞 I love old and good Rock and Roll, on weekends traveling on a Harley Davidson.
+- 🚀 Passionate about DevOps culture and automation, I bring 20+ years of experience in IT, evolving from a SysAdmin to an SRE and Platform Engineer. I thrive on building resilient systems and continuously seek to grow through new technologies and practices.
+- 🛠️ Strong advocate of Open Source, with a focus on Linux, CNCF projects, GitOps, and cloud-native tools.
+- 📚 Currently sharpening my skills in AWS, Kubernetes, and Python, with a strong focus on platform engineering tools like Backstage and the Argo suite (CD, Autopilot, Events, Rollouts, and Workflows). I'm also actively studying to achieve the Kubestronaut Gold certification.
+- 🌱 Always learning — especially focused on improving my programming skills.
+- 🎸 Off the clock? You’ll find me enjoying classic rock or hitting the road on my Harley Davidson.
 
 <br />
 

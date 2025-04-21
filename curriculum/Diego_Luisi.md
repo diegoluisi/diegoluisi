@@ -1,24 +1,26 @@
 # Diego Fernando Luisi
 
-## Contact Information
+## Personal Information 🧑🏻‍💻
+
+### Contact 📞
 
 * Phone: +351 910 910 296
 * Email: <contato@diegoluisi.eti.br>
-* Website: [diegoluisi.eti.br](https://www.diegoluisi.eti.br)
+* Site: [diegoluisi.eti.br](https://diegoluisi.eti.br)
 * LinkedIn: [linkedin.com/in/diegoluisi](https://www.linkedin.com/in/diegoluisi)
 * GitHub: [github.com/diegoluisi](https://github.com/diegoluisi) / [github.com/devxp-tech](https://github.com/devxp-tech)
 * YouTube: [youtube.com/@devxp-tech](https://www.youtube.com/@devxp-tech)
 * Location: Odivelas, Lisbon - Portugal
 
-## Professional Expectations 🚀
+### Professional Expectations 🚀
 
 * Deliver scalable, efficient solutions using agile methodologies to optimize processes, enhance operational performance, reduce costs, and enable rapid growth. I aim to drive innovation that adds significant value, improves competitiveness, and supports long-term business success.
 
-## Summary of qualifications 👨🏼‍💻
+### Summary of Qualifications 👨🏼‍💻
 
-* With over 20 years of experience in IT and a solid background in Open Source solutions, I have spent the last 10+ years focusing on DevOps, Site Reliability Engineering (SRE), and Platform Engineering. As the owner of the GitHub Organization devxp-tech, I lead collaborative projects aimed at fostering innovation and community-driven solutions. I have also served as a Tech Lead, guiding cross-functional teams towards high-performance outcomes. Additionally, my YouTube channel serves as a platform for sharing technical knowledge and providing guidance to the broader community.
+* With 20+ years in IT and a strong foundation in Open Source, I’ve spent the last decade in DevOps, SRE, and Platform Engineering roles. As owner of the devxp-tech GitHub org and a YouTube content creator, I lead community-driven projects and share technical knowledge. I've also acted as a Tech Lead, driving high-performance team outcomes.
 
-## Academic education 📚
+### Academic education 📚
 
 * Nove de Julho University (Uninove)
   * Technology in Computer Networks
@@ -29,7 +31,7 @@
   * President Prudente - SP
   * Period: 2004 to 2007 (incomplete)
 
-## Languages 🌎
+### Languages 🌎
 
 * **English**  
   * Reading / Writing: Advanced  
@@ -37,6 +39,8 @@
 * **Spanish**  
   * Reading / Writing: Basic  
   * Conversation: Intermediate
+
+## Specific knowledge 🥷
 
 ### Certificates and Badges 🏅
 
@@ -124,10 +128,61 @@
 * VMware - Implementing and Managing ESXi and vCenter 5.1 servers – (20 hours)
 * [LX0-101/102] Linux – Preparatory course LX0-101/102 (8 weeks)
 * [ITIL] - V3 Foundation - (18 hours)
-* Zimbra – Collaboration Suite (4 hours)
+<!-- * Zimbra – Collaboration Suite (4 hours)
 * Zabbix – Enterprise Open Source Monitoring Solution (4 hours)
 * NGINX – High Performance Web Servers (3 hours)
-* Mysql – Database Management (3 hours)
+* Mysql – Database Management (3 hours) -->
+
+### Public Cloud
+
+* **Amazon Web Services (AWS)**  
+  * ACM, ALB, ASG, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch Logs, CodeDeploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, Glacier, IAM, KMS, Lambda, RDS, Route 53 (R53), SNS, SQS, S3, VPC  
+* **Azure**  
+  * Virtual Machines, Blob Storage, Kubernetes Service (AKS), SQL Database, Cosmos DB, Service Bus, Data Lake Storage, Functions, App Service, Active Directory (Azure AD)  
+* **Google Cloud Platform (GCP)**  
+  * Compute Engine, Cloud Storage, Google Kubernetes Engine (GKE), Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Google Cloud IAM
+
+### The Cloud Native Computing Foundation (CNCF)
+
+* **Kubernetes**  
+  * **Application Definition & Image Build**: Backstage, Kustomize, Helm, DevSpace, Okteto  
+  * **Secret Management**: Cert Manager, External Secrets, Sealed Secrets, HashiCorp Vault  
+  * **Continuous Integration & Delivery**: Argo AutoPilot, ArgoCD, Argo Events, Argo Workflows, Argo Rollouts  
+  * **Observability**: Alloy, Kiali, Jaeger, ELK, FluentBit, Promtail, Tempo, OpenTelemetry, AlertManager, Prometheus, Thanos, Mimir, Grafana, Loki  
+  * **Network Policies**: Calico, Cilium  
+  * **Scheduling & Orchestration**: Crossplane  
+  * **Service Mesh**: Istio, Cilium
+
+### Programming
+
+* **Bash**: Advanced  
+* **Python**: Basic  
+* **Golang**: Basic
+
+### Tooling
+
+* **APM**: Datadog, New Relic, Instana  
+* **Cache**: Redis, Memcached  
+* **CI/CD**: ArgoCD, Bamboo, CircleCI, CodeDeploy, GitLab CI, GitHub Actions, Jenkins, Travis CI  
+* **Configuration Management**: Ansible, Chef, Puppet (PuppetDB, Puppet Explorer, MCollective, Puppet Bolt, Hiera, eYaml), SaltStack  
+* **Container Orchestration**: Docker, OpenShift, EKS, Kubernetes, Rancher  
+* **Databases**: MySQL, PostgreSQL, MariaDB, MongoDB, Oracle  
+* **Infrastructure as Code**: Crossplane, CloudFormation, Terraform, Terragrunt  
+* **Log Management**: Graylog, ELK Stack, Loki  
+* **Middleware**: Apache, JBoss, NGINX, Tomcat, WebLogic  
+* **Monitoring**: Prometheus, Nagios, Oracle Enterprise Manager (OEM12), Zabbix
+
+### Virtualization
+
+* Hyper-V, IBM PoweVM, KVM, ProxMox and VMWare
+
+### Unified Threat Management (UTM )
+
+* Cisco, Juniper, Netscaler and Sonicwall (CSSA and CSSP Certified)
+
+### Methodologies/Frameworks
+
+* Agile, ITIL, Kanban and Scrum (Fundamentals Certified)
 
 ## Professional Experiences 👜
 
@@ -235,58 +290,3 @@
 * **Industry**: IT Maintenance and Support
 * **Functions Performed**:  
   * Provided support, design, installation, and maintenance services for servers and networks.
-
-## Specific knowledge 🥷
-
-### Public Cloud
-
-* **Amazon Web Services (AWS)**  
-  * ACM, ALB, ASG, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch Logs, CodeDeploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, Glacier, IAM, KMS, Lambda, RDS, Route 53 (R53), SNS, SQS, S3, VPC  
-
-* **Azure**  
-  * Virtual Machines, Blob Storage, Kubernetes Service (AKS), SQL Database, Cosmos DB, Service Bus, Data Lake Storage, Functions, App Service, Active Directory (Azure AD)  
-
-* **Google Cloud Platform (GCP)**  
-  * Compute Engine, Cloud Storage, Google Kubernetes Engine (GKE), Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Google Cloud IAM
-
-### The Cloud Native Computing Foundation (CNCF)
-
-* **Kubernetes**  
-  * **Application Definition & Image Build**: Backstage, Kustomize, Helm, DevSpace, Okteto  
-  * **Secret Management**: Cert Manager, External Secrets, Sealed Secrets, HashiCorp Vault  
-  * **Continuous Integration & Delivery**: Argo AutoPilot, ArgoCD, Argo Events, Argo Workflows, Argo Rollouts  
-  * **Observability**: Alloy, Kiali, Jaeger, ELK, FluentBit, Promtail, Tempo, OpenTelemetry, AlertManager, Prometheus, Thanos, Mimir, Grafana, Loki  
-  * **Network Policies**: Calico, Cilium  
-  * **Scheduling & Orchestration**: Crossplane  
-  * **Service Mesh**: Istio, Cilium
-
-### Programming
-
-* **Bash**: Advanced  
-* **Python**: Basic  
-* **Golang**: Basic
-
-### Tooling
-
-* **APM**: Datadog, New Relic, Instana  
-* **Cache**: Redis, Memcached  
-* **CI/CD**: ArgoCD, Bamboo, CircleCI, CodeDeploy, GitLab CI, GitHub Actions, Jenkins, Travis CI  
-* **Configuration Management**: Ansible, Chef, Puppet (PuppetDB, Puppet Explorer, MCollective, Puppet Bolt, Hiera, eYaml), SaltStack  
-* **Container Orchestration**: Docker, OpenShift, EKS, Kubernetes, Rancher  
-* **Databases**: MySQL, PostgreSQL, MariaDB, MongoDB, Oracle  
-* **Infrastructure as Code**: Crossplane, CloudFormation, Terraform, Terragrunt  
-* **Log Management**: Graylog, ELK Stack, Loki  
-* **Middleware**: Apache, JBoss, NGINX, Tomcat, WebLogic  
-* **Monitoring**: Prometheus, Nagios, Oracle Enterprise Manager (OEM12), Zabbix
-
-### Virtualization
-
-* Hyper-V, IBM PoweVM, KVM, ProxMox and VMWare
-
-### Unified Threat Management (UTM )
-
-* Cisco, Juniper, Netscaler and Sonicwall (CSSA and CSSP Certified)
-
-### Methodologies/Frameworks
-
-* Agile, ITIL, Kanban and Scrum (Fundamentals Certified)
