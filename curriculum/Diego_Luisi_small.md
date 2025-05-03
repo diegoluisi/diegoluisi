@@ -44,6 +44,7 @@
 
 ### Certificates and Badges 🏅
 
+* [CNCF] KCNA: Kubernetes and Cloud Native Associate
 * [CNCF] CKAD: Certified Kubernetes Application Developer
 * [CNCF] PCA: Certified Prometheus Associate
 * [Codefresh] GitOps Enterprise
