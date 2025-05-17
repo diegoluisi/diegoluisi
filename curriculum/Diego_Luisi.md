@@ -40,7 +40,7 @@
   * Reading / Writing: Basic  
   * Conversation: Intermediate
 
-## Specific knowledge 🥷
+## Specific knowledge 🧠
 
 ### Certificates and Badges 🏅
 
@@ -83,7 +83,7 @@
 <img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="60" height="60">
-<!-- <img src="https://images.credly.com/size/340x340/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="60" height="60"> -->
+<img src="https://images.credly.com/size/340x340/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="60" height="60">
@@ -133,7 +133,7 @@
 * NGINX – High Performance Web Servers (3 hours)
 * Mysql – Database Management (3 hours) -->
 
-### Public Cloud
+### Public Cloud ☁️
 
 * **Amazon Web Services (AWS)**  
   * ACM, ALB, ASG, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch Logs, CodeDeploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, Glacier, IAM, KMS, Lambda, RDS, Route 53 (R53), SNS, SQS, S3, VPC  
@@ -142,7 +142,7 @@
 * **Google Cloud Platform (GCP)**  
   * Compute Engine, Cloud Storage, Google Kubernetes Engine (GKE), Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Google Cloud IAM
 
-### The Cloud Native Computing Foundation (CNCF)
+### The Cloud Native Computing Foundation (CNCF) ☸️
 
 * **Kubernetes**  
   * **Application Definition & Image Build**: Backstage, Kustomize, Helm, DevSpace, Okteto  
@@ -186,13 +186,13 @@
 
 ## Professional Experiences 👜
 
-### Hashgraph Group 🇨🇭
+<!-- ### Hashgraph Group 🇨🇭
 
 * **Job Title**: Platform Engineer (Tech Leader)
 * **City**: Remote
 * **Date**: 06/2024 - Current
 * **Industry**: BlockChain
-* **Role**: As a Tech Lead Platform Engineer at Hashgraph Group, I am responsible for designing and implementing secure, scalable AWS-based environments using Infrastructure as Code with Terraform, Crossplane, and Atlantis. I lead CI/CD initiatives with GitHub Actions and ArgoCD to streamline deployments, and manage secrets securely with Vault and External Secrets. I architect observability stacks using Grafana, Loki, Tempo, Mimir, and Alloy, ensuring deep visibility across distributed systems. Additionally, I oversee the implementation of Istio as a service mesh to enhance traffic control, security, and observability across microservices in a blockchain-native infrastructure.
+* **Role**: As a Tech Lead Platform Engineer at Hashgraph Group, I am responsible for designing and implementing secure, scalable AWS-based environments using Infrastructure as Code with Terraform, Crossplane, and Atlantis. I lead CI/CD initiatives with GitHub Actions and ArgoCD to streamline deployments, and manage secrets securely with Vault and External Secrets. I architect observability stacks using Grafana, Loki, Tempo, Mimir, and Alloy, ensuring deep visibility across distributed systems. Additionally, I oversee the implementation of Istio as a service mesh to enhance traffic control, security, and observability across microservices in a blockchain-native infrastructure. -->
 
 ### 50Hertz / Elia Group 🇩🇪
 
@@ -256,7 +256,7 @@
 * **City**: Barueri, SP - Brazil
 * **Date**: 08/2013 - 07/2014
 * **Industry**: Technology
-* **Role**: As a Senior SysAdmin and Monitoring Specialist, I played a pivotal role in the implementation of a comprehensive monitoring solution for the C&A Group. This involved deploying and configuring Zabbix, Grafana, and Nagios to monitor over 900 servers across various environments, including AIX, Linux (SuSE), and VMware. I was responsible for designing and implementing monitoring templates, alerting mechanisms, and dashboards to provide real-time insights into system performance and availability. My efforts significantly enhanced the organization's ability to proactively identify and address issues, ensuring optimal system performance and reliability.
+* **Role**: Implemented robust monitoring solutions using Zabbix, ensuring system reliability, proactive issue detection, and optimized performance across complex IT infrastructures.
 
 ### Grupo Logos – Logistics and Planned Transport 🇧🇷
 
@@ -264,7 +264,7 @@
 * **City**: Barueri, SP - Brazil
 * **Date**: 01/2012 - 09/2013
 * **Industry**: Logistics and Transport
-* **Role**: As a Senior System Administrator, I managed and supported critical infrastructure across the organization, ensuring high availability, performance, and security. I automated system provisioning and configuration using Puppet and MCollective, and administered services such as Active Directory, MySQL, Zimbra, and VMware environments. I also implemented and maintained monitoring solutions with Zabbix and Grafana, managed email security with Xeams and Postgrey, and improved perimeter protection with Fail2Ban and SonicWall. My work contributed to a more reliable and scalable IT environment supporting business operations across logistics and transport services.
+* **Role**: As a Senior System Administrator, I managed and supported critical infrastructure across the organization, ensuring high availability, performance, and security.
 
 ### FETAESP - Federation of Agricultural Workers of the State of São Paulo 🇧🇷
 
@@ -272,7 +272,7 @@
 * **City**: Agudos, SP - Brazil
 * **Date**: Duration: 04/2010 to 03/2011
 * **Industry**: Union Body.
-* **Role**: As a SysAdmin, I was responsible for maintaining and supporting the organization's IT infrastructure, focusing on network access control, user management, and virtualized desktop environments. I administered Windows Server with Active Directory and Terminal Services, implemented virtualization using Hyper-V, and deployed secure, cost-effective thin client solutions using ThinStation and XP Unlimited. I also configured internet access policies using Squid, SquidGuard, and SARG for usage reporting and control. My work ensured system stability, improved network performance, and supported day-to-day operations for internal staff.
+* **Role**: As a SysAdmin, I was responsible for maintaining and supporting the organization's IT infrastructure.
 
 ### Santa Alice Group 🇧🇷
 
@@ -280,7 +280,7 @@
 * **City**: Presidente Prudente, SP - Brazil
 * **Date**: 05/2006 to 09/2008
 * **Industry**: Secondary and elementary education institution.
-* **Role**: As a SysAdmin at Santa Alice Group, I was responsible for maintaining and optimizing IT infrastructure within the educational environment. I managed Active Directory for user authentication, configured and maintained firewall rules using Iptables, and ensured the reliability of Linux and Microsoft servers. Additionally, I implemented and managed proxy solutions using Squid and Squid-Guard to filter content and monitor web traffic, improving network security and efficiency for the institution.
+* **Role**: As a SysAdmin at Santa Alice Group, I was responsible for maintaining and optimizing IT infrastructure within the educational environment.
 
 ### e-Future Informatic 🇧🇷
 
