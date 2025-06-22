@@ -44,6 +44,7 @@
 
 ### Certificates and Badges 🏅
 
+* [CNCF] KCSA: Kubernetes and Cloud Native Security Associate
 * [CNCF] OTCA: OpenTelemetry Cloud Native Associate
 * [CNCF] KCNA: Kubernetes and Cloud Native Associate
 * [CNCF] CKAD: Certified Kubernetes Application Developer
