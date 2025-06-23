@@ -38,7 +38,7 @@
 <img src="https://images.credly.com/size/340x340/images/19eb9d45-751f-45bb-8e05-c654efde6b20/image.png" alt="Fundamentals for Istio Ambient Mesh" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/7a5401a6-01eb-4f48-bbcd-9a227fdff361/image.png" alt="Intermediate for Istio" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/68e1190d-f711-441b-9d55-79d54c04e232/image.png" alt="Expert for Istio" width="120" height="120"/> </a>
-<img src="https://images.credly.com/size/340x340/images/54e795a8-e328-45ed-837e-1c48b57e596e/image.png" alt="Fundamentals for eBPF" width="120" height="120"/> </a>
+<img src="https://images.credly.com/images/54e795a8-e328-45ed-837e-1c48b57e596e/image.png" alt="Fundamentals for eBPF" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png" alt="Fundamentals for Cilium" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/06667f6f-68b0-4d6c-a0b9-a6199a1cf741/image.png" alt="Discovery: Platform Engineer" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/ea17abae-eca7-4117-bd8c-c65c545abcf4/image.png" alt="Discovery: Network Engineer" width="120" height="120"/> </a>
