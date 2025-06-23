@@ -3,16 +3,16 @@
 
 ## Hello World.. 👋
 
-### Hi, I'm Diego Luisi — SRE & Open Source Enthusiast 🤖
+### Hi, I'm Diego Luisi — DevOps / SRE / Platform Engineer | Open Source & GitOps Advocate 🤖
 
-- 🚀 Passionate about DevOps culture and automation, I bring 20+ years of experience in IT, evolving from a SysAdmin to an SRE and Platform Engineer. I thrive on building resilient systems and continuously seek to grow through new technologies and practices.
-- 🛠️ Strong advocate of Open Source, with a focus on Linux, CNCF projects, GitOps, and cloud-native tools.
-- 📚 Currently sharpening my skills in AWS, Kubernetes, and Python, with a strong focus on platform engineering tools like Backstage and the Argo suite (CD, Autopilot, Events, Rollouts, and Workflows).
-- 🌱 Lifelong learner — currently focused on improving my programming skills and advancing on the journey toward the CNCF Kubestronaut Gold Certification.
-- 🕰️ Outside of work, I'm a watch enthusiast with a passion for collecting timepieces. I love exploring new places, discovering local cuisine, and enjoying memorable experiences through travel and great food.
-- 💬 Ask me about DevOps, GitOps, Kubernetes, and Open Source.
-
-<br />
+- 🚀 With 20+ years in IT, I've evolved from a Linux SysAdmin to a modern DevOps, SRE, and Platform Engineer — passionate about automation, infrastructure as code, and building reliable, scalable platforms.
+- 🏗️ Strong believer in GitOps and platform engineering — I work extensively with ArgoCD (including Autopilot, Events, Rollouts, Workflows) and Backstage to empower developer self-service and streamline operations.
+- 🏅 Certified in Kubernetes (CKA, CKAD, KCNA, KCSA), Terraform, Vault, AWS (3x), Prometheus (PCA), and OpenTelemetry (OTCA).
+- ☁️ Focused on cloud-native ecosystems, especially around Kubernetes, observability, and cross-account infrastructure management using tools like Crossplane and OpenTelemetry Collector.
+- 🛠️ Passionate about Open Source and DevEx, with hands-on contributions to building scalable internal platforms.
+- 🌱 Lifelong learner — currently sharpening my programming skills in Python and pursuing CNCF Kubestronaut Gold.
+- ⏱️ Outside tech: I’m a watch enthusiast and love discovering local cuisine, traveling, and enjoying meaningful experiences.
+- 💬 Let’s connect! I’m always happy to chat about DevOps, GitOps, Kubernetes, Platform Engineering, or Open Source.
 
 ### How to reach me 📫
 
@@ -122,6 +122,6 @@
 
 [website]: https://www.diegoluisi.eti.br
 [twitter]: https://twitter.com/diegoluisi
-[youtube]: https://youtube.com/diegoluisi
+[youtube]: https://youtube.com/devxp-tech
 [instagram]: https://instagram.com/diegoluisi
 [linkedin]: https://linkedin.com/in/diegoluisi
