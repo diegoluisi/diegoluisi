@@ -50,7 +50,7 @@
 <img src="https://images.credly.com/size/340x340/images/f31796ba-b73c-4b5c-bd9a-4bfe2508de9e/image.png" alt="Cilium Egress Gateway" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/5db2624a-b21d-42d4-8e77-02db1f0af9a1/image.png" alt="Hubble Flow Visibility" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/39cfc979-51f6-4da7-869f-9721cdcbf39b/image.png" alt="Cilium Advanced Gateway API Use Cases" width="120" height="120"/> </a>
-<img src="https://images.credly.com/size/340x340/images/182670a8-b6e2-401d-a898-a2233ba55272/image.png" alt="Golden Signals with Hubble and Grafana" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/110x110/images/b032dfda-f989-4639-ba0a-a430de2ec58c/tempfile20250605-58-cmcpw.png" alt="Golden Signals with Hubble and Grafana" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/13222796-2aa7-4d17-b2c4-6f2c58e76387/image.png" alt="Isovalent Lab Champion (10 labs)" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="120" height="120"/> <a>
 <img src="https://images.credly.com/size/340x340/images/e4c38805-e2fd-469c-83fc-8dab303be440/blob" alt="Kubernetes Fundamentals"width="120"height="120"/> <a>
