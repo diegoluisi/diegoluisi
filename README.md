@@ -48,7 +48,7 @@
 <img src="https://images.credly.com/size/110x110/images/97452400-58b1-4982-aba2-29bec73e487c/tempfile20250605-69-udkrvg.png" alt="Cilium Ingress Controller" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/110x110/images/c8229ec6-54c3-420f-8453-12a0e0596c8c/tempfile20250605-57-c5zt7d.png" alt="Cilium Gateway Api" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/110x110/images/b649d3b3-29a4-469d-9e28-880df410586a/tempfile20250605-58-qhbtb8.png" alt="Cilium Egress Gateway" width="120" height="120"/> </a>
-<img src="Hubble Flow Visibility" alt="Hubble Flow Visibility" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/110x110/images/73b9049a-1555-4687-8b35-31f3d6e4b0a0/tempfile20250605-71-wqikcw.png" alt="Hubble Flow Visibility" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/110x110/images/747f2360-8ef8-4bb0-bb91-af09c5d721c2/tempfile20250605-79-30kzgy.png" alt="Cilium Advanced Gateway API Use Cases" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/110x110/images/b032dfda-f989-4639-ba0a-a430de2ec58c/tempfile20250605-58-cmcpw.png" alt="Golden Signals with Hubble and Grafana" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/13222796-2aa7-4d17-b2c4-6f2c58e76387/image.png" alt="Isovalent Lab Champion (10 labs)" width="120" height="120"/> </a>
