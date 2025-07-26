@@ -41,13 +41,13 @@
 <img src="https://images.credly.com/size/340x340/images/54e795a8-e328-45ed-837e-1c48b57e596e/image.png" alt="Fundamentals for eBPF" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png" alt="Fundamentals for Cilium" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/110x110/images/ebc5f2cc-1702-4ea0-8d1a-5c6558e6e269/tempfile20250605-65-7h2iy0.png" alt="Discovery: Platform Engineer" width="120" height="120"/> </a>
-<img src="https://images.credly.com/size/340x340/images/ea17abae-eca7-4117-bd8c-c65c545abcf4/image.png" alt="Discovery: Network Engineer" width="120" height="120"/> </a>
-<img src="https://images.credly.com/size/340x340/images/2824612e-3f3a-4ee0-a7a7-382cba9702d9/image.png" alt="Discovery: SecOps Engineer" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/110x110/images/b20b945c-9d60-4b42-bd37-cdc5e93712d3/tempfile20250605-79-qazpfz.png" alt="Discovery: Network Engineer" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/110x110/images/d54799eb-d613-4113-affa-e89770b53689/tempfile20250605-59-ip94pl.png" alt="Discovery: SecOps Engineer" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png" alt="Cilium Getting Started" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/110x110/images/1e91188a-506d-4042-8baf-c7db03341e02/tempfile20250605-74-4ma8k6.png" alt="Tetragon Getting Started" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/110x110/images/97452400-58b1-4982-aba2-29bec73e487c/tempfile20250605-69-udkrvg.png" alt="Cilium Ingress Controller" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/110x110/images/c8229ec6-54c3-420f-8453-12a0e0596c8c/tempfile20250605-57-c5zt7d.png" alt="Cilium Gateway Api" width="120" height="120"/> </a>
-<img src="https://images.credly.com/size/340x340/images/f31796ba-b73c-4b5c-bd9a-4bfe2508de9e/image.png" alt="Cilium Egress Gateway" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/110x110/images/b649d3b3-29a4-469d-9e28-880df410586a/tempfile20250605-58-qhbtb8.png" alt="Cilium Egress Gateway" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/5db2624a-b21d-42d4-8e77-02db1f0af9a1/image.png" alt="Hubble Flow Visibility" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/39cfc979-51f6-4da7-869f-9721cdcbf39b/image.png" alt="Cilium Advanced Gateway API Use Cases" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/110x110/images/b032dfda-f989-4639-ba0a-a430de2ec58c/tempfile20250605-58-cmcpw.png" alt="Golden Signals with Hubble and Grafana" width="120" height="120"/> </a>
