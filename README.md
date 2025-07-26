@@ -45,7 +45,7 @@
 <img src="https://images.credly.com/size/340x340/images/2824612e-3f3a-4ee0-a7a7-382cba9702d9/image.png" alt="Discovery: SecOps Engineer" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png" alt="Cilium Getting Started" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/36cb8a56-369f-4c47-a797-da62c52c30c6/image.png" alt="Tetragon Getting Started" width="120" height="120"/> </a>
-<img src="https://images.credly.com/size/340x340/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png" alt="Cilium Ingress Controller" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/110x110/images/97452400-58b1-4982-aba2-29bec73e487c/tempfile20250605-69-udkrvg.png" alt="Cilium Ingress Controller" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/110x110/images/c8229ec6-54c3-420f-8453-12a0e0596c8c/tempfile20250605-57-c5zt7d.png" alt="Cilium Gateway Api" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/f31796ba-b73c-4b5c-bd9a-4bfe2508de9e/image.png" alt="Cilium Egress Gateway" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/5db2624a-b21d-42d4-8e77-02db1f0af9a1/image.png" alt="Hubble Flow Visibility" width="120" height="120"/> </a>
