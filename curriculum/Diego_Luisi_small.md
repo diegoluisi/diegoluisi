@@ -44,6 +44,8 @@
 
 ### Certificates and Badges 🏅
 
+* [CNCF] Kubestronaut
+* [CNCF] CKS: Certified Kubernetes Security Specialist
 * [CNCF] KCSA: Kubernetes and Cloud Native Security Associate
 * [CNCF] OTCA: OpenTelemetry Cloud Native Associate
 * [CNCF] KCNA: Kubernetes and Cloud Native Associate
