@@ -7,7 +7,7 @@
 
 - 🚀 With 20+ years in IT, I've evolved from a Linux SysAdmin to a modern DevOps, SRE, and Platform Engineer — passionate about automation, infrastructure as code, and building reliable, scalable platforms.
 - 🏗️ Strong believer in GitOps and platform engineering — I work extensively with ArgoCD (including Autopilot, Events, Rollouts, Workflows) and Backstage to empower developer self-service and streamline operations.
-- 🏅 Certified in Kubernetes (CKA, CKAD, CKS, KCNA, KCSA), Terraform, Vault, AWS (3x), Prometheus (PCA), and OpenTelemetry (OTCA).
+- 🏅 Certified: ☸️ Kubernetes Kubestronaut (CKA, CKAD, CKS, KCNA, KCSA) | 🛠️ HashiCorp (Terraform, Vault) | 🏗️ GitOps (CAPA) | 🧠 DevEx (CBA) | 🔭 Observability (PCA, OTCA) | ☁️ AWS
 - ☁️ Focused on cloud-native ecosystems, especially around Kubernetes, observability, and cross-account infrastructure management using tools like Crossplane and OpenTelemetry Collector.
 - 🛠️ Passionate about Open Source and DevEx, with hands-on contributions to building scalable internal platforms.
 - 🌱 Lifelong learner — currently sharpening my programming skills in Python and pursuing CNCF Kubestronaut Gold.
