@@ -68,6 +68,7 @@
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="120" height="120">
+<img src="https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="120" height="120">
