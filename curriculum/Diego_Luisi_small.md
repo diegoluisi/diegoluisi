@@ -44,6 +44,7 @@
 
 ### Certificates and Badges 🏅
 
+* [CNCF] CBA: Certified Backstage Associate
 * [CNCF] Kubestronaut
 * [CNCF] CKS: Certified Kubernetes Security Specialist
 * [CNCF] KCSA: Kubernetes and Cloud Native Security Associate
