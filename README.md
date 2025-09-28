@@ -31,7 +31,7 @@
 <p align="left">
 <img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Knowledge: Cloud Essentials" width="120" height="120"/> <a>
 <img src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" alt="Amazon EKS" width="120" height="120"/> <a>
-<img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="Well-Architected Proficient" width="120" height="120"/> <a>
+<img src="https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="Well-Architected Proficient" width="120" height="120"/> <a>
 <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="120" height="120"/> <a>
 <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/d5bf51f3-18cd-4a7a-8031-e2e365ebb0ba/blob" alt="HashiCorp Certified: Vault Associate (002)" width="120" height="120">
