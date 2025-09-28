@@ -45,29 +45,29 @@
 ### Certificates and Badges 🏅
 
 <p align="left">
-<img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Knowledge: Cloud Essentials" width="60" height="60"/> <a>
-<img src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" alt="Amazon EKS" width="60" height="60"/> <a>
-<img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="Well-Architected Proficient" width="60" height="60"/> <a>
-<img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="60" height="60"/> <a>
-<img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="60" height="60">
-<img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" alt="HashiCorp Vault Certification" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Knowledge: Cloud Essentials" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" alt="Amazon EKS" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="Well-Architected Proficient" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="60" height="60"> </a>
+<img src="https://images.credly.com/size/340x340/images/d5bf51f3-18cd-4a7a-8031-e2e365ebb0ba/blob" alt="HashiCorp Certified: Vault Associate (002)" width="60" height="60"> </a>
 <img src="https://images.credly.com/size/340x340/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" alt="Fundamentals for Istio by Solo.io" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/19eb9d45-751f-45bb-8e05-c654efde6b20/image.png" alt="Fundamentals for Istio Ambient Mesh" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/7a5401a6-01eb-4f48-bbcd-9a227fdff361/image.png" alt="Intermediate for Istio" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/68e1190d-f711-441b-9d55-79d54c04e232/image.png" alt="Expert for Istio" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/54e795a8-e328-45ed-837e-1c48b57e596e/image.png" alt="Fundamentals for eBPF" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png" alt="Fundamentals for Cilium" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/06667f6f-68b0-4d6c-a0b9-a6199a1cf741/image.png" alt="Discovery: Platform Engineer" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/ea17abae-eca7-4117-bd8c-c65c545abcf4/image.png" alt="Discovery: Network Engineer" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/2824612e-3f3a-4ee0-a7a7-382cba9702d9/image.png" alt="Discovery: SecOps Engineer" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png" alt="Cilium Getting Started" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/36cb8a56-369f-4c47-a797-da62c52c30c6/image.png" alt="Tetragon Getting Started" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png" alt="Cilium Ingress Controller" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png" alt="Cilium Gateway Api" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/f31796ba-b73c-4b5c-bd9a-4bfe2508de9e/image.png" alt="Cilium Egress Gateway" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/5db2624a-b21d-42d4-8e77-02db1f0af9a1/image.png" alt="Hubble Flow Visibility" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/39cfc979-51f6-4da7-869f-9721cdcbf39b/image.png" alt="Cilium Advanced Gateway API Use Cases" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/182670a8-b6e2-401d-a898-a2233ba55272/image.png" alt="Golden Signals with Hubble and Grafana" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/ebc5f2cc-1702-4ea0-8d1a-5c6558e6e269/tempfile20250605-65-7h2iy0.png" alt="Discovery: Platform Engineer" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/b20b945c-9d60-4b42-bd37-cdc5e93712d3/tempfile20250605-79-qazpfz.png" alt="Discovery: Network Engineer" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/d54799eb-d613-4113-affa-e89770b53689/tempfile20250605-59-ip94pl.png" alt="Discovery: SecOps Engineer" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/d74820be-3dba-40b9-a254-a8e7381bf63d/tempfile20250605-64-wqikcw.png" alt="Cilium Getting Started" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/1e91188a-506d-4042-8baf-c7db03341e02/tempfile20250605-74-4ma8k6.png" alt="Tetragon Getting Started" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/97452400-58b1-4982-aba2-29bec73e487c/tempfile20250605-69-udkrvg.png" alt="Cilium Ingress Controller" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/c8229ec6-54c3-420f-8453-12a0e0596c8c/tempfile20250605-57-c5zt7d.png" alt="Cilium Gateway Api" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/b649d3b3-29a4-469d-9e28-880df410586a/tempfile20250605-58-qhbtb8.png" alt="Cilium Egress Gateway" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/73b9049a-1555-4687-8b35-31f3d6e4b0a0/tempfile20250605-71-wqikcw.png" alt="Hubble Flow Visibility" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/747f2360-8ef8-4bb0-bb91-af09c5d721c2/tempfile20250605-79-30kzgy.png" alt="Cilium Advanced Gateway API Use Cases" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/b032dfda-f989-4639-ba0a-a430de2ec58c/tempfile20250605-58-cmcpw.png" alt="Golden Signals with Hubble and Grafana" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/13222796-2aa7-4d17-b2c4-6f2c58e76387/image.png" alt="Isovalent Lab Champion (10 labs)" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="60" height="60"/> <a>
 <img src="https://images.credly.com/size/340x340/images/e4c38805-e2fd-469c-83fc-8dab303be440/blob" alt="Kubernetes Fundamentals"width="60"height="60"/> <a>
@@ -82,15 +82,15 @@
 <img src="https://images.credly.com/size/340x340/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="60" height="60"/> </a>  
 <img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="60" height="60">
-<img src="https://images.credly.com/size/340x340/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="60" height="60">
-<img src="https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="60" height="60">
-<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60">
-<img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="60" height="60">
-<img src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="60" height="60">
-<img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="60" height="60">
-<img src="https://images.credly.com/size/340x340/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" width="60" height="60">
-<img src="https://images.credly.com/size/340x340/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="60" height="60"> </a>
+<img src="https://images.credly.com/size/340x340/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="60" height="60"> </a>
+<img src="https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="60" height="60"> </a>
+<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60"> </a>
+<img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="60" height="60"> </a>
+<img src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="60" height="60"> </a>
+<img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="60" height="60"> </a>
+<img src="https://images.credly.com/size/340x340/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" width="60" height="60"> </a>
+<img src="https://images.credly.com/size/340x340/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="60" height="60"> </a>
 </p>
 
 ## Trainings and Workshops 🌱
@@ -146,35 +146,11 @@
 * **Google Cloud Platform (GCP)**  
   * Compute Engine, Cloud Storage, Google Kubernetes Engine (GKE), Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Google Cloud IAM
 
-### The Cloud Native Computing Foundation (CNCF) ☸️
-
-* **Kubernetes**  
-  * **Application Definition & Image Build**: Backstage, Kustomize, Helm, DevSpace, Okteto  
-  * **Secret Management**: Cert Manager, External Secrets, Sealed Secrets, HashiCorp Vault  
-  * **Continuous Integration & Delivery**: Argo AutoPilot, ArgoCD, Argo Events, Argo Workflows, Argo Rollouts  
-  * **Observability**: Alloy, Kiali, Jaeger, ELK, FluentBit, Promtail, Tempo, OpenTelemetry, AlertManager, Prometheus, Thanos, Mimir, Grafana, Loki  
-  * **Network Policies**: Calico, Cilium  
-  * **Scheduling & Orchestration**: Crossplane  
-  * **Service Mesh**: Istio, Cilium
-
 ### Programming
 
 * **Bash**: Advanced  
 * **Python**: Basic  
 * **Golang**: Basic
-
-### Tooling
-
-* **APM**: Datadog, New Relic, Instana  
-* **Cache**: Redis, Memcached  
-* **CI/CD**: ArgoCD, Bamboo, CircleCI, CodeDeploy, GitLab CI, GitHub Actions, Jenkins, Travis CI  
-* **Configuration Management**: Ansible, Chef, Puppet (PuppetDB, Puppet Explorer, MCollective, Puppet Bolt, Hiera, eYaml), SaltStack  
-* **Container Orchestration**: Docker, OpenShift, EKS, Kubernetes, Rancher  
-* **Databases**: MySQL, PostgreSQL, MariaDB, MongoDB, Oracle  
-* **Infrastructure as Code**: Crossplane, CloudFormation, Terraform, Terragrunt  
-* **Log Management**: Graylog, ELK Stack, Loki  
-* **Middleware**: Apache, JBoss, NGINX, Tomcat, WebLogic  
-* **Monitoring**: Prometheus, Nagios, Oracle Enterprise Manager (OEM12), Zabbix
 
 ### Virtualization
 
@@ -202,7 +178,7 @@
 
 * **Job Title**: [Contractor] SRE/Observability Engineer
 * **City**: Remote
-* **Date**: 06/2024 - 06/2025
+* **Date**: 06/2024 - Current
 * **Industry**: Energy
 * **Role**: As an SRE Observability Engineer at 50Hertz, I led the design and implementation of a multi-tenant observability stack using Kubernetes, Grafana, Tempo, Mimir, Loki, and OpenTelemetry. I defined architecture standards, automated deployment pipelines, and enabled scalable, centralized monitoring for multiple teams, improving visibility, reliability, and troubleshooting efficiency across environments.
 
@@ -212,7 +188,7 @@
 * **City**: Lisbon - Portugal 🇵🇹
 * **Date**: 04/2023 - 06/2024
 * **Industry**: Financial Compliance
-* **Role**: As a DevOps engineer specializing in Cloud Environments, my role revolves around automating infrastructure with tools like Terraform, Terragrunt, ArgoCD, and Helm. I collaborate with teams to optimize deployment pipelines and architecture scalability. I deploy advanced Kubernetes features like Istio, Keda, and Karpenter for service mesh capabilities and workload optimization. Monitoring with Grafana, Prometheus, Loki, and OpenTelemetry ensures system performance and reliability. Continuous improvement maintains robust, resilient, and scalable environments in AWS and Azure, meeting evolving organizational needs.
+* **Role**: As a DevOps engineer specializing in Cloud Environments, I focus on automating infrastructure and developer workflows using tools like Terraform, Terragrunt, ArgoCD, Helm, and Backstage. I collaborate with teams to optimize deployment pipelines, streamline developer experiences, and ensure architecture scalability. I deploy advanced Kubernetes features such as Istio, Keda, and Karpenter for service mesh capabilities and workload optimization. Monitoring and observability with Grafana, Prometheus, Loki, and OpenTelemetry ensure system performance and reliability. Through continuous improvement, I maintain robust, resilient, and scalable environments in AWS and Azure, meeting evolving organizational needs.
 
 ### Evolution Gaming 🇸🇪
 
@@ -228,7 +204,7 @@
 * **City**: São Paulo, SP - Brazil
 * **Date**: 09/2020 - 07/2023
 * **Industry**: e-commerce
-* **Role**: As the Technical Leader of Squad DevXP, I foster a culture of excellence and innovation while driving the adoption of best development practices. With tools like AlertManager, ArgoCD, CircleCI, and GitHub, I orchestrate streamlined workflows and ensure adherence to standards. Leveraging Kubernetes (EKS), Terraform, and Helm, I facilitate efficient infrastructure provisioning and management, empowering the team to deliver quality solutions rapidly. Additionally, I champion observability tools like Grafana, Prometheus, and Loki for proactive monitoring and troubleshooting. Through strategic guidance and mentorship, I cultivate a collaborative environment where team members thrive and contribute to project success.
+* **Role**: As the Technical Leader of Squad DevXP, I foster a culture of excellence and innovation while driving the adoption of best development practices. With tools like AlertManager, ArgoCD, CircleCI, GitHub, and Backstage, I orchestrate streamlined workflows, maintain consistent developer experiences, and ensure adherence to standards. Leveraging Kubernetes (EKS), Terraform, and Helm, I facilitate efficient infrastructure provisioning and management, empowering the team to deliver quality solutions rapidly. Additionally, I champion observability tools like Grafana, Prometheus, and Loki for proactive monitoring and troubleshooting. Through strategic guidance and mentorship, I cultivate a collaborative environment where team members thrive and contribute to project success.
 
 ### C&A Modas do Brasil - II 🇧🇷
 

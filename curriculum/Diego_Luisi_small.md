@@ -145,35 +145,11 @@
 * **Google Cloud Platform (GCP)**  
   * Compute Engine, Cloud Storage, Google Kubernetes Engine (GKE), Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Google Cloud IAM
 
-### The Cloud Native Computing Foundation (CNCF)
-
-* **Kubernetes**  
-  * **Application Definition & Image Build**: Backstage, Kustomize, Helm, DevSpace, Okteto  
-  * **Secret Management**: Cert Manager, External Secrets, Sealed Secrets, HashiCorp Vault  
-  * **Continuous Integration & Delivery**: Argo AutoPilot, ArgoCD, Argo Events, Argo Workflows, Argo Rollouts  
-  * **Observability**: Alloy, Kiali, Jaeger, ELK, FluentBit, Promtail, Tempo, OpenTelemetry, AlertManager, Prometheus, Thanos, Mimir, Grafana, Loki  
-  * **Network Policies**: Calico, Cilium  
-  * **Scheduling & Orchestration**: Crossplane  
-  * **Service Mesh**: Istio, Cilium
-
 ### Programming
 
 * **Bash**: Advanced  
 * **Python**: Basic  
 * **Golang**: Basic
-
-### Tooling
-
-* **APM**: Datadog, New Relic, Instana  
-* **Cache**: Redis, Memcached  
-* **CI/CD**: ArgoCD, Bamboo, CircleCI, CodeDeploy, GitLab CI, GitHub Actions, Jenkins, Travis CI  
-* **Configuration Management**: Ansible, Chef, Puppet (PuppetDB, Puppet Explorer, MCollective, Puppet Bolt, Hiera, eYaml), SaltStack  
-* **Container Orchestration**: Docker, OpenShift, EKS, Kubernetes, Rancher  
-* **Databases**: MySQL, PostgreSQL, MariaDB, MongoDB, Oracle  
-* **Infrastructure as Code**: Crossplane, CloudFormation, Terraform, Terragrunt  
-* **Log Management**: Graylog, ELK Stack, Loki  
-* **Middleware**: Apache, JBoss, NGINX, Tomcat, WebLogic  
-* **Monitoring**: Prometheus, Nagios, Oracle Enterprise Manager (OEM12), Zabbix
 
 ### Virtualization
 
@@ -197,13 +173,13 @@
 * **Industry**: BlockChain
 * **Role**: As a Tech Lead Platform Engineer at Hashgraph Group, I am responsible for designing and implementing secure, scalable AWS-based environments using Infrastructure as Code with Terraform, Crossplane, and Atlantis. I lead CI/CD initiatives with GitHub Actions and ArgoCD to streamline deployments, and manage secrets securely with Vault and External Secrets. I architect observability stacks using Grafana, Loki, Tempo, Mimir, and Alloy, ensuring deep visibility across distributed systems. Additionally, I oversee the implementation of Istio as a service mesh to enhance traffic control, security, and observability across microservices in a blockchain-native infrastructure.
 
-### 50Hertz / Elia Group 🇩🇪
+<!-- ### 50Hertz / Elia Group 🇩🇪
 
 * **Job Title**: [Contractor] SRE/Observability Engineer
 * **City**: Remote
 * **Date**: 06/2024 - 06/2025
 * **Industry**: Energy
-* **Role**: As an SRE Observability Engineer at 50Hertz, I led the design and implementation of a multi-tenant observability stack using Kubernetes, Grafana, Tempo, Mimir, Loki, and OpenTelemetry. I defined architecture standards, automated deployment pipelines, and enabled scalable, centralized monitoring for multiple teams, improving visibility, reliability, and troubleshooting efficiency across environments.
+* **Role**: As an SRE Observability Engineer at 50Hertz, I led the design and implementation of a multi-tenant observability stack using Kubernetes, Grafana, Tempo, Mimir, Loki, and OpenTelemetry. I defined architecture standards, automated deployment pipelines, and enabled scalable, centralized monitoring for multiple teams, improving visibility, reliability, and troubleshooting efficiency across environments. -->
 
 ### Shield Financial Compliance 🇮🇱
 
