@@ -4,8 +4,8 @@
 
 ### Contact 📞
 
-* Phone: +351 910 910 296
-* Email: <contato@diegoluisi.eti.br>
+<!-- * Phone: +351 910 910 296 -->
+* Email: <diego.luisi@devxp-tech.io>
 * Site: [diegoluisi.eti.br](https://diegoluisi.eti.br)
 * LinkedIn: [linkedin.com/in/diegoluisi](https://www.linkedin.com/in/diegoluisi)
 * GitHub: [github.com/diegoluisi](https://github.com/diegoluisi) / [github.com/devxp-tech](https://github.com/devxp-tech)
@@ -45,10 +45,10 @@
 ### Certificates and Badges 🏅
 
 <p align="left">
-<img src="https://images.credly.com/size/340x340/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Knowledge: Cloud Essentials" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" alt="Amazon EKS" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Cloud Quest: Cloud Practitioner" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/110x110/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob" alt="Amazon EKS" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="Well-Architected Proficient" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="60" height="60"> </a>
 <img src="https://images.credly.com/size/340x340/images/d5bf51f3-18cd-4a7a-8031-e2e365ebb0ba/blob" alt="HashiCorp Certified: Vault Associate (002)" width="60" height="60"> </a>
 <img src="https://images.credly.com/size/340x340/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" alt="Fundamentals for Istio by Solo.io" width="60" height="60"/> </a>
@@ -82,9 +82,11 @@
 <img src="https://images.credly.com/size/340x340/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="60" height="60"/> </a>  
 <img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/> </a>
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA: Certified GitOps Associate" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="60" height="60"> </a>
+<img src="https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="60" height="60"> </a>
 <img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="60" height="60"> </a>
 <img src="https://images.credly.com/size/340x340/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="60" height="60"> </a>
-<img src="https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="60" height="60"> </a>
 <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60"> </a>
 <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="60" height="60"> </a>
 <img src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="60" height="60"> </a>
@@ -166,21 +168,26 @@
 
 ## Professional Experiences 👜
 
-<!-- ### Hashgraph Group 🇨🇭
+### Hashgraph Group 🇨🇭
 
-* **Job Title**: Platform Engineer (Tech Leader)
+* **Job Title**: Platform Engineer (Tech Leader) / Core Engineering (Manager).
 * **City**: Remote
 * **Date**: 06/2024 - Current
-* **Industry**: BlockChain
-* **Role**: As a Tech Lead Platform Engineer at Hashgraph Group, I am responsible for designing and implementing secure, scalable AWS-based environments using Infrastructure as Code with Terraform, Crossplane, and Atlantis. I lead CI/CD initiatives with GitHub Actions and ArgoCD to streamline deployments, and manage secrets securely with Vault and External Secrets. I architect observability stacks using Grafana, Loki, Tempo, Mimir, and Alloy, ensuring deep visibility across distributed systems. Additionally, I oversee the implementation of Istio as a service mesh to enhance traffic control, security, and observability across microservices in a blockchain-native infrastructure. -->
+* **Industry**: Web3/BlockChain
+* **Role**:
+  * As a manager, I organized and led a cross-functional team of seven engineers across Platform, DevOps, and SRE, aligning priorities, establishing clear ownership, and driving delivery of mission-critical infrastructure initiatives.
+  * As a Tech Lead Platform Engineer at Hashgraph Group, I design and architect the company’s cloud platform using AWS as the core provider. I structured a centralized management account integrated with multiple environments through Transit Gateways and VPNs to on-premises datacenters, ensuring secure, scalable, and standardized connectivity across the organization.
+  * I implemented a CNCF-aligned ecosystem on Kubernetes using Istio for service mesh, Kyverno for governance, Trivy and Harbor for container security, and a full observability stack with Grafana, Loki, Tempo, Mimir, OpenTelemetry, Alloy, and Alertmanager.
+  * For GitOps, I led the adoption of Argo Workflows and ArgoCD in a Hub and Spoke architecture to manage applications, platform components, and infrastructure through declarative workflows. We manage both Amazon EKS clusters and self-provisioned Kubernetes clusters automated with Ansible, ensuring consistent configuration, reliability, and operational best practices across heterogeneous environments. Infrastructure provisioning is automated using Crossplane, Helm charts, and Kustomize to manage cloud and Kubernetes resources.
+  * I also manage CI/CD initiatives using GitHub Actions, optimize deployment pipelines, and ensure secure secret management with Vault and External Secrets. Additionally, I oversaw the implementation of Backstage as our Internal Developer Platform to streamline developer experience and enable self-service workflows across teams.
 
-### 50Hertz / Elia Group 🇩🇪
+<!-- ### 50Hertz / Elia Group 🇩🇪
 
 * **Job Title**: [Contractor] SRE/Observability Engineer
 * **City**: Remote
 * **Date**: 06/2024 - Current
 * **Industry**: Energy
-* **Role**: As an SRE Observability Engineer at 50Hertz, I led the design and implementation of a multi-tenant observability stack using Kubernetes, Grafana, Tempo, Mimir, Loki, and OpenTelemetry. I defined architecture standards, automated deployment pipelines, and enabled scalable, centralized monitoring for multiple teams, improving visibility, reliability, and troubleshooting efficiency across environments.
+* **Role**: As an SRE Observability Engineer at 50Hertz, I led the design and implementation of a multi-tenant observability stack using Kubernetes, Grafana, Tempo, Mimir, Loki, and OpenTelemetry. I defined architecture standards, automated deployment pipelines, and enabled scalable, centralized monitoring for multiple teams, improving visibility, reliability, and troubleshooting efficiency across environments. -->
 
 ### Shield Financial Compliance 🇮🇱
 
@@ -192,7 +199,7 @@
 
 ### Evolution Gaming 🇸🇪
 
-* **Job Title**: Site Reliability Engineering (Tech Leader)
+* **Job Title**: Site Reliability Engineering (Tech Leader).
 * **City**: Lisbon - Portugal 🇵🇹
 * **Date**: 04/2022 - 04/2023
 * **Industry**: Gaming
@@ -200,7 +207,7 @@
 
 ### Dafiti Group (GFG Group) II 🇧🇷
 
-* **Job Title**: [Contractor] Site Reliability Engineering/Platform Engineer (Tech Leader)
+* **Job Title**: [Contractor] Site Reliability Engineering/Platform Engineer (Tech Leader).
 * **City**: São Paulo, SP - Brazil
 * **Date**: 09/2020 - 07/2023
 * **Industry**: e-commerce
@@ -216,7 +223,7 @@
 
 ### Dafiti Group (GFG Group) - I 🇧🇷
 
-* **Job Title**: Senior / Specialist DevOps Engineer - Tech Leader.
+* **Job Title**: Senior / Specialist DevOps Engineer (Tech Leader).
 * **City**: São Paulo, SP - Brazil
 * **Date**: 10/2017 - 08/2019
 * **Industry**: e-commerce/retail
