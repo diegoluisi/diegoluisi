@@ -1,279 +1,211 @@
 # Diego Fernando Luisi
 
-## Personal Information 🧑🏻‍💻
+## Contact
 
-### Contact 📞
+- Email: <diego.luisi@devxp-tech.io>
+- Website: [diegoluisi.eti.br](https://diegoluisi.eti.br)
+- LinkedIn: [linkedin.com/in/diegoluisi](https://www.linkedin.com/in/diegoluisi)
+- GitHub: [github.com/diegoluisi](https://github.com/diegoluisi) | [github.com/devxp-tech](https://github.com/devxp-tech)
+- YouTube: [youtube.com/@devxp-tech](https://www.youtube.com/@devxp-tech)
+- Location: Lisbon, Portugal
 
-<!-- * Phone: +351 910 910 296 -->
-* Email: <diego.luisi@devxp-tech.io>
-* Site: [diegoluisi.eti.br](https://diegoluisi.eti.br)
-* LinkedIn: [linkedin.com/in/diegoluisi](https://www.linkedin.com/in/diegoluisi)
-* GitHub: [github.com/diegoluisi](https://github.com/diegoluisi) / [github.com/devxp-tech](https://github.com/devxp-tech)
-* YouTube: [youtube.com/@devxp-tech](https://www.youtube.com/@devxp-tech)
-* Location: Odivelas, Lisbon - Portugal
+## Profile
 
-### Professional Expectations 🚀
+Senior DevOps, Platform, and SRE Engineer with 20+ years in IT and 10+ years leading cloud-native transformation across fintech, gaming, retail, e-commerce, and Web3. Kubestronaut holding the full Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA), with a proven track record designing and operating secure multi-cloud platforms (AWS, Azure, GCP) using Kubernetes, GitOps, and Infrastructure as Code (Terraform, Crossplane). Hands-on technical leader passionate about the CNCF landscape, focused on scalable developer platforms, production-grade observability, and automation-first operating models that improve delivery speed, reliability, and security.
 
-* Deliver scalable, efficient solutions using agile methodologies to optimize processes, enhance operational performance, reduce costs, and enable rapid growth. I aim to drive innovation that adds significant value, improves competitiveness, and supports long-term business success.
+## Certifications and Badges
 
-### Summary of Qualifications 👨🏼‍💻
-
-* With 20+ years in IT and a strong foundation in Open Source, I’ve spent the last decade in DevOps, SRE, and Platform Engineering roles. As owner of the devxp-tech GitHub org and a YouTube content creator, I lead community-driven projects and share technical knowledge. I've also acted as a Tech Lead, driving high-performance team outcomes.
-
-### Academic education 📚
-
-* Nove de Julho University (Uninove)
-  * Technology in Computer Networks
-  * Sao Paulo-SP
-  * Period: 2017
-* University of West Paulista (Unoeste)
-  * Information systems
-  * President Prudente - SP
-  * Period: 2004 to 2007 (incomplete)
-
-### Languages 🌎
-
-* **English**  
-  * Reading / Writing: Advanced  
-  * Conversation: Advanced  
-* **Spanish**  
-  * Reading / Writing: Basic  
-  * Conversation: Intermediate
-
-## Specific knowledge 🧠
-
-### Certificates and Badges 🏅
-
+<!-- markdownlint-disable MD033 -->
 <p align="left">
-<img src="https://images.credly.com/size/340x340/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Cloud Quest: Cloud Practitioner" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/110x110/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob" alt="Amazon EKS" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="Well-Architected Proficient" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="60" height="60"> </a>
-<img src="https://images.credly.com/size/340x340/images/d5bf51f3-18cd-4a7a-8031-e2e365ebb0ba/blob" alt="HashiCorp Certified: Vault Associate (002)" width="60" height="60"> </a>
-<img src="https://images.credly.com/size/340x340/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" alt="Fundamentals for Istio by Solo.io" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/19eb9d45-751f-45bb-8e05-c654efde6b20/image.png" alt="Fundamentals for Istio Ambient Mesh" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/7a5401a6-01eb-4f48-bbcd-9a227fdff361/image.png" alt="Intermediate for Istio" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/68e1190d-f711-441b-9d55-79d54c04e232/image.png" alt="Expert for Istio" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/54e795a8-e328-45ed-837e-1c48b57e596e/image.png" alt="Fundamentals for eBPF" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png" alt="Fundamentals for Cilium" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/ebc5f2cc-1702-4ea0-8d1a-5c6558e6e269/tempfile20250605-65-7h2iy0.png" alt="Discovery: Platform Engineer" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/b20b945c-9d60-4b42-bd37-cdc5e93712d3/tempfile20250605-79-qazpfz.png" alt="Discovery: Network Engineer" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/d54799eb-d613-4113-affa-e89770b53689/tempfile20250605-59-ip94pl.png" alt="Discovery: SecOps Engineer" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/d74820be-3dba-40b9-a254-a8e7381bf63d/tempfile20250605-64-wqikcw.png" alt="Cilium Getting Started" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/1e91188a-506d-4042-8baf-c7db03341e02/tempfile20250605-74-4ma8k6.png" alt="Tetragon Getting Started" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/97452400-58b1-4982-aba2-29bec73e487c/tempfile20250605-69-udkrvg.png" alt="Cilium Ingress Controller" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/c8229ec6-54c3-420f-8453-12a0e0596c8c/tempfile20250605-57-c5zt7d.png" alt="Cilium Gateway Api" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/b649d3b3-29a4-469d-9e28-880df410586a/tempfile20250605-58-qhbtb8.png" alt="Cilium Egress Gateway" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/73b9049a-1555-4687-8b35-31f3d6e4b0a0/tempfile20250605-71-wqikcw.png" alt="Hubble Flow Visibility" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/747f2360-8ef8-4bb0-bb91-af09c5d721c2/tempfile20250605-79-30kzgy.png" alt="Cilium Advanced Gateway API Use Cases" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/b032dfda-f989-4639-ba0a-a430de2ec58c/tempfile20250605-58-cmcpw.png" alt="Golden Signals with Hubble and Grafana" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/13222796-2aa7-4d17-b2c4-6f2c58e76387/image.png" alt="Isovalent Lab Champion (10 labs)" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="60" height="60"/> <a>
-<img src="https://images.credly.com/size/340x340/images/e4c38805-e2fd-469c-83fc-8dab303be440/blob" alt="Kubernetes Fundamentals"width="60"height="60"/> <a>
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" alt="GitOps at Scale" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/5c67fbf1-d62b-4f7f-93c9-e7258414c862/blob" alt="GitOps Enterprise" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" alt="LFS169: Introduction to GitOps" width="60" height="60"/> </a>  
-<img src="https://images.credly.com/size/340x340/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="60" height="60"/> </a>  
-<img src="https://images.credly.com/size/340x340/images/6166f9b5-2213-45f5-b7de-ba0e58048d23/blob" alt="LFS144: Introduction to Istio" width="60" height="60"/> </a>  
-<img src="https://images.credly.com/size/340x340/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" alt="LFS158: Introduction to Kubernetes" width="60" height="60"/> </a>  
-<img src="https://images.credly.com/size/340x340/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="60" height="60"/> </a>  
-<img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/> </a>
-<img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="60" height="60"/> </a>
+<img src="https://images.credly.com/size/340x340/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Cloud Quest: Cloud Practitioner" width="60" height="60"/>
+<img src="https://images.credly.com/size/110x110/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob" alt="Amazon EKS" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="Well-Architected Proficient" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/d5bf51f3-18cd-4a7a-8031-e2e365ebb0ba/blob" alt="HashiCorp Certified: Vault Associate (002)" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" alt="Fundamentals for Istio by Solo.io" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/19eb9d45-751f-45bb-8e05-c654efde6b20/image.png" alt="Fundamentals for Istio Ambient Mesh" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/7a5401a6-01eb-4f48-bbcd-9a227fdff361/image.png" alt="Intermediate for Istio" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/68e1190d-f711-441b-9d55-79d54c04e232/image.png" alt="Expert for Istio" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/54e795a8-e328-45ed-837e-1c48b57e596e/image.png" alt="Fundamentals for eBPF" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/4e928562-e06c-4a8b-b569-9f6911a8f6a9/image.png" alt="Fundamentals for Cilium" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/ebc5f2cc-1702-4ea0-8d1a-5c6558e6e269/tempfile20250605-65-7h2iy0.png" alt="Discovery: Platform Engineer" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/b20b945c-9d60-4b42-bd37-cdc5e93712d3/tempfile20250605-79-qazpfz.png" alt="Discovery: Network Engineer" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/d54799eb-d613-4113-affa-e89770b53689/tempfile20250605-59-ip94pl.png" alt="Discovery: SecOps Engineer" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/d74820be-3dba-40b9-a254-a8e7381bf63d/tempfile20250605-64-wqikcw.png" alt="Cilium Getting Started" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/1e91188a-506d-4042-8baf-c7db03341e02/tempfile20250605-74-4ma8k6.png" alt="Tetragon Getting Started" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/97452400-58b1-4982-aba2-29bec73e487c/tempfile20250605-69-udkrvg.png" alt="Cilium Ingress Controller" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/c8229ec6-54c3-420f-8453-12a0e0596c8c/tempfile20250605-57-c5zt7d.png" alt="Cilium Gateway Api" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/b649d3b3-29a4-469d-9e28-880df410586a/tempfile20250605-58-qhbtb8.png" alt="Cilium Egress Gateway" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/73b9049a-1555-4687-8b35-31f3d6e4b0a0/tempfile20250605-71-wqikcw.png" alt="Hubble Flow Visibility" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/747f2360-8ef8-4bb0-bb91-af09c5d721c2/tempfile20250605-79-30kzgy.png" alt="Cilium Advanced Gateway API Use Cases" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/b032dfda-f989-4639-ba0a-a430de2ec58c/tempfile20250605-58-cmcpw.png" alt="Golden Signals with Hubble and Grafana" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/13222796-2aa7-4d17-b2c4-6f2c58e76387/image.png" alt="Isovalent Lab Champion (10 labs)" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/e4c38805-e2fd-469c-83fc-8dab303be440/blob" alt="Kubernetes Fundamentals" width="60" height="60"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob" alt="GitOps Fundamentals" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/89046afe-b82b-4dc1-9c20-384ea505fd01/blob" alt="GitOps at Scale" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/7d2c6621-0b7f-46e6-a56b-f69143812011/blob" alt="GitOps Enterprise" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" alt="LFS169: Introduction to GitOps" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/6166f9b5-2213-45f5-b7de-ba0e58048d23/blob" alt="LFS144: Introduction to Istio" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" alt="LFS158: Introduction to Kubernetes" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" alt="LFEL1014: Scaling Cloud Native Applications with KEDA" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA: Certified GitOps Associate" width="60" height="60">
-<img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="60" height="60"> </a>
-<img src="https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="60" height="60"> </a>
-<img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="60" height="60"> </a>
-<img src="https://images.credly.com/size/340x340/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="60" height="60"> </a>
-<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60"> </a>
-<img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="60" height="60"> </a>
-<img src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="60" height="60"> </a>
-<img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="60" height="60"> </a>
-<img src="https://images.credly.com/size/340x340/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" width="60" height="60"> </a>
-<img src="https://images.credly.com/size/340x340/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="60" height="60"> </a>
+<img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="60" height="60">
 </p>
+<!-- markdownlint-enable MD033 -->
 
-## Trainings and Workshops 🌱
+## Core Skills
 
-* [GCP] Google Cloud Fundamentals: Core Infrastructure
-* [AWS] AWS Well-Architected Foundations
-* [DataDog] Progressive Delivery in Kubernetes
-* [DataDog] Monitoring the Kubernetes Platform
-* [DataDog] Introduction to Monitoring Kubernetes
-* [LFS169] Introduction to GitOps
-* [Akuity] Introduction to Continuous Delivery and GitOps using Argo CD
-* [Udemy] Certified Kubernetes Administrator (CKA)
-* [AWS] Getting Started with DevOps on AWS
-* [AWS] Amazon EKS - (40 Hours)
-* [AWS] Cloud Practitioner Essentials
-* [LFS162x] Introduction to DevOps and Site Reliability Engineering
-* [solo.io] Fundamentals for eBPF
-* [solo.io] Fundamentals for Cilium
-* [codefresh] GitOps at Scale
-* [solo.io] Operationalizing Istio [Expert]
-* [solo.io] Deploy Istio for Production [Essentials]
-* [solo.io] Get Started with Istio [Foundation]
-* [codefresh] GitOps Fundamentals
-* [AWS] Developing on AWS (AWS SDK, IAM, S3, DynamoDB, SNS, SQS, Lambda, Cognito)
-* [DO180] Introduction to Containers, Kubernetes, and Red Hat OpenShift
-* [526] DevOps Master (24 hours)
-* [4435] JBoss AS 7 Administration with High Performance and Productivity
-* [525] Agile infrastructure with Devops practices (Ansible, AWS, Docker, GitLab, Jenkins, Puppet and Rundeck)
-* [SUSE-SOC201] OpenStack Administration with SUSE (40 Hours)
-* [AIX-AN30] Power Systems for AIX PowerVM (40 Hours)
-* [SMGR210] SuSE Manager 3 Administration (24 Hours)
-* [CNS-220] Citrix Netscaler Essential CNS-220 – (24 Hours)
-* [Instruct] Puppet Fundamentals - (24 Hours)
-* [Instruct] Puppet Practitioner – (24 Hours)
-* [Instruct] Puppet Introduction – (8 Hours)
-* [AIX-AN140BR] AIX Jump Start – (40 Hours)
-* [SUSE3126] SuSE Linux Enterprise server 12 (40 Hours)
-* SonicWALL – Network Security Basic Administrator (40 hours)
-* VMware - Implementing and Managing ESXi and vCenter 5.1 servers – (20 hours)
-* [LX0-101/102] Linux – Preparatory course LX0-101/102 (8 weeks)
-* [ITIL] - V3 Foundation - (18 hours)
-<!-- * Zimbra – Collaboration Suite (4 hours)
-* Zabbix – Enterprise Open Source Monitoring Solution (4 hours)
-* NGINX – High Performance Web Servers (3 hours)
-* Mysql – Database Management (3 hours) -->
+- Platform engineering: Kubernetes platform operations (EKS/GKE/self-managed), internal developer platforms (Backstage), platform automation and reliability engineering.
+- Cloud-native stack: GitOps (Argo CD/Workflows), IaC (Terraform/Terragrunt/Crossplane), observability (Prometheus/Grafana/Loki/Tempo/Mimir/OpenTelemetry), security and CI/CD (Kyverno/Trivy/Vault/GitHub Actions/GitLab CI/CircleCI/Ansible).
 
-### Public Cloud ☁️
+## Selected Training and Workshops
 
-* **Amazon Web Services (AWS)**  
-  * ACM, ALB, ASG, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch Logs, CodeDeploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, Glacier, IAM, KMS, Lambda, RDS, Route 53 (R53), SNS, SQS, S3, VPC  
-* **Azure**  
-  * Virtual Machines, Blob Storage, Kubernetes Service (AKS), SQL Database, Cosmos DB, Service Bus, Data Lake Storage, Functions, App Service, Active Directory (Azure AD)  
-* **Google Cloud Platform (GCP)**  
-  * Compute Engine, Cloud Storage, Google Kubernetes Engine (GKE), Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Google Cloud IAM
+- [AWS] Amazon EKS (40h)
+- [AWS] AWS Well-Architected Foundations
+- [AWS] Developing on AWS (SDK, IAM, S3, DynamoDB, SNS, SQS, Lambda, Cognito)
+- [LFS162x] Introduction to DevOps and Site Reliability Engineering
+- [LFS169] Introduction to GitOps
+- [Akuity] Introduction to Continuous Delivery and GitOps using Argo CD
+- [DataDog] Monitoring the Kubernetes Platform
+- [DataDog] Progressive Delivery in Kubernetes
+- [solo.io] Fundamentals for eBPF
+- [solo.io] Fundamentals for Cilium
+- [solo.io] Deploy Istio for Production (Essentials)
+- [codefresh] GitOps Fundamentals
+- [codefresh] GitOps at Scale
+- [DO180] Introduction to Containers, Kubernetes, and Red Hat OpenShift
+- [ITIL] v3 Foundation
 
-### Programming
+## Professional Experience
 
-* **Bash**: Advanced  
-* **Python**: Basic  
-* **Golang**: Basic
+### Hashgraph Group (Remote)
 
-### Virtualization
+**Platform Engineer (Tech Lead) / Core Engineering Manager**  
+**Dates:** 06/2024 - Present  
+**Industry:** Web3 / Blockchain
 
-* Hyper-V, IBM PoweVM, KVM, ProxMox and VMWare
+- Designed and implemented a multi-environment AWS platform (VPC, Transit Gateway, IAM, EKS, Route 53, CloudWatch) with centralized governance and secure connectivity through VPN integrations.
+- Standardized EKS and self-managed Kubernetes operations using Terraform, Crossplane, Helm, and Argo CD with reusable platform blueprints.
+- Implemented Backstage, GitHub Actions, Atlantis, Vault, and External Secrets, plus observability with Grafana, Loki, Tempo, Mimir, and OpenTelemetry.
 
-### Unified Threat Management (UTM )
+### Shield Financial Compliance (Lisbon, Portugal)
 
-* Cisco, Juniper, Netscaler and Sonicwall (CSSA and CSSP Certified)
+**DevOps Engineer**  
+**Dates:** 04/2023 - 06/2024  
+**Industry:** Financial Compliance
 
-### Methodologies/Frameworks
+- Automated cloud infrastructure and developer workflows using Terraform, Terragrunt, Argo CD, Helm, Vault, and AWS services.
+- Implemented Kubernetes platform patterns in AWS and Azure with Istio service mesh, KEDA, and Karpenter for workload efficiency and scaling.
+- Improved observability and incident response with Prometheus, Grafana, Loki, while increasing CI/CD reliability.
 
-* Agile, ITIL, Kanban and Scrum (Fundamentals Certified)
+### Evolution Gaming (Lisbon, Portugal)
 
-## Professional Experiences 👜
+**SRE Tech Lead**  
+**Dates:** 04/2022 - 04/2023  
+**Industry:** Gaming
 
-### Hashgraph Group 🇨🇭
+- Improved reliability and scalability for GCP-based environments (GKE, IAM, networking, and managed services).
+- Automated environment bootstrap and lifecycle management with Argo CD, Crossplane, and Helm.
+- Implemented observability standards with Thanos, Prometheus, Grafana, Loki, and supported Backstage adoption to strengthen developer workflows.
 
-* **Job Title**: Platform Engineer (Tech Leader) / Core Engineering (Manager).
-* **City**: Remote
-* **Date**: 06/2024 - Current
-* **Industry**: Web3/BlockChain
-* **Role**:
-  * As a manager, I organized and led a cross-functional team of seven engineers across Platform, DevOps, and SRE, aligning priorities, establishing clear ownership, and driving delivery of mission-critical infrastructure initiatives.
-  * As a Tech Lead Platform Engineer at Hashgraph Group, I design and architect the company’s cloud platform using AWS as the core provider. I structured a centralized management account integrated with multiple environments through Transit Gateways and VPNs to on-premises datacenters, ensuring secure, scalable, and standardized connectivity across the organization.
-  * I implemented a CNCF-aligned ecosystem on Kubernetes using Istio for service mesh, Kyverno for governance, Trivy and Harbor for container security, and a full observability stack with Grafana, Loki, Tempo, Mimir, OpenTelemetry, Alloy, and Alertmanager.
-  * For GitOps, I led the adoption of Argo Workflows and ArgoCD in a Hub and Spoke architecture to manage applications, platform components, and infrastructure through declarative workflows. We manage both Amazon EKS clusters and self-provisioned Kubernetes clusters automated with Ansible, ensuring consistent configuration, reliability, and operational best practices across heterogeneous environments. Infrastructure provisioning is automated using Crossplane, Helm charts, and Kustomize to manage cloud and Kubernetes resources.
-  * I also manage CI/CD initiatives using GitHub Actions, optimize deployment pipelines, and ensure secure secret management with Vault and External Secrets. Additionally, I oversaw the implementation of Backstage as our Internal Developer Platform to streamline developer experience and enable self-service workflows across teams.
+### Dafiti Group (GFG Group) II (Sao Paulo, Brazil)
 
-<!-- ### 50Hertz / Elia Group 🇩🇪
+**Contractor - SRE / Platform Engineer (Tech Lead)**  
+**Dates:** 09/2020 - 07/2023  
+**Industry:** E-commerce
 
-* **Job Title**: [Contractor] SRE/Observability Engineer
-* **City**: Remote
-* **Date**: 06/2024 - Current
-* **Industry**: Energy
-* **Role**: As an SRE Observability Engineer at 50Hertz, I led the design and implementation of a multi-tenant observability stack using Kubernetes, Grafana, Tempo, Mimir, Loki, and OpenTelemetry. I defined architecture standards, automated deployment pipelines, and enabled scalable, centralized monitoring for multiple teams, improving visibility, reliability, and troubleshooting efficiency across environments. -->
+- Improved engineering standards and platform adoption through DevXP initiatives with GitHub, CircleCI, and Argo CD.
+- Standardized Kubernetes (EKS) infrastructure and delivery workflows using Terraform, Helm, and policy-aligned deployment patterns.
+- Expanded observability with Prometheus, Grafana, Loki, and Alertmanager to improve troubleshooting and delivery quality.
 
-### Shield Financial Compliance 🇮🇱
+### C&A Modas do Brasil II (Barueri, Brazil)
 
-* **Job Title**: DevOps Engineer
-* **City**: Lisbon - Portugal 🇵🇹
-* **Date**: 04/2023 - 06/2024
-* **Industry**: Financial Compliance
-* **Role**: As a DevOps engineer specializing in Cloud Environments, I focus on automating infrastructure and developer workflows using tools like Terraform, Terragrunt, ArgoCD, Helm, and Backstage. I collaborate with teams to optimize deployment pipelines, streamline developer experiences, and ensure architecture scalability. I deploy advanced Kubernetes features such as Istio, Keda, and Karpenter for service mesh capabilities and workload optimization. Monitoring and observability with Grafana, Prometheus, Loki, and OpenTelemetry ensure system performance and reliability. Through continuous improvement, I maintain robust, resilient, and scalable environments in AWS and Azure, meeting evolving organizational needs.
+**DevOps Specialist (Tech Lead)**  
+**Dates:** 08/2019 - 09/2020  
+**Industry:** Retail
 
-### Evolution Gaming 🇸🇪
+- Modernized legacy environments toward containerized microservices with Docker, OpenShift, and Kubernetes.
+- Automated delivery workflows using GitLab CI, Puppet, Terraform, and Vagrant, reducing manual deployment effort and improving consistency.
+- Improved logging and monitoring foundations with Elasticsearch, Logstash, and Kibana (ELK) to increase operational visibility.
 
-* **Job Title**: Site Reliability Engineering (Tech Leader).
-* **City**: Lisbon - Portugal 🇵🇹
-* **Date**: 04/2022 - 04/2023
-* **Industry**: Gaming
-* **Role**: As a Site Reliability Engineering (SRE) Tech Leader, I oversee environment management on Google Cloud Platform (GCP), ensuring reliability, scalability, and efficiency. Using automation tools like ArgoCD, Crossplane, and Helm, I orchestrate seamless bootstrap of new clusters and environments, enabling rapid deployment and consistent infrastructure configuration. Prioritizing observability, I implement monitoring solutions such as Prometheus, Loki, and Grafana, enabling proactive issue identification and resolution. Overseeing our internal developer platform, Backstage, I facilitate collaboration and enhance developer productivity. Through strategic leadership and continuous improvement, I optimize GCP environments to meet organizational performance and reliability requirements.
+### Dafiti Group (GFG Group) I (Sao Paulo, Brazil)
 
-### Dafiti Group (GFG Group) II 🇧🇷
+**Senior / Specialist DevOps Engineer (Tech Lead)**  
+**Dates:** 10/2017 - 08/2019  
+**Industry:** E-commerce / Retail
 
-* **Job Title**: [Contractor] Site Reliability Engineering/Platform Engineer (Tech Leader).
-* **City**: São Paulo, SP - Brazil
-* **Date**: 09/2020 - 07/2023
-* **Industry**: e-commerce
-* **Role**: As the Technical Leader of Squad DevXP, I foster a culture of excellence and innovation while driving the adoption of best development practices. With tools like AlertManager, ArgoCD, CircleCI, GitHub, and Backstage, I orchestrate streamlined workflows, maintain consistent developer experiences, and ensure adherence to standards. Leveraging Kubernetes (EKS), Terraform, and Helm, I facilitate efficient infrastructure provisioning and management, empowering the team to deliver quality solutions rapidly. Additionally, I champion observability tools like Grafana, Prometheus, and Loki for proactive monitoring and troubleshooting. Through strategic guidance and mentorship, I cultivate a collaborative environment where team members thrive and contribute to project success.
+- Improved stability and scalability of Kubernetes-centric environments across product teams.
+- Automated infrastructure and operations using Terraform, Puppet, and Rundeck to reduce manual work and speed up delivery.
+- Enhanced observability with ELK, CloudWatch, Grafana, and Zabbix to improve incident detection and operational visibility.
 
-### C&A Modas do Brasil - II 🇧🇷
+### C&A Modas do Brasil I (Barueri, Brazil)
 
-* **Job Title**: DevOps Specialist (Tech Leader).
-* **City**: Barueri, SP - Brazil
-* **Date**: 08/2019 - 09/2020
-* **Industry**: Retail
-* **Role**: As a DevOps Specialist and Tech Leader, I led the modernization efforts for applications and infrastructure, transforming legacy systems into scalable microservices architectures. Utilizing Docker, OpenShift, and Kubernetes, I embraced containerization to improve portability and scalability, while automation tools like GitLab CI and Puppet streamlined deployment pipelines. Employing ELK stack components for centralized logging and monitoring, including Elasticsearch, Logstash, and Kibana, ensured robust observability. With Terraform and Vagrant, I optimized infrastructure provisioning, orchestrating seamless transitions to cloud environments. Through meticulous planning and execution, I successfully modernized our technology stack, empowering the organization to deliver innovative solutions with agility and reliability.
+**Senior SysAdmin / DevOps Engineer**  
+**Dates:** 08/2014 - 10/2017  
+**Industry:** Retail
 
-### Dafiti Group (GFG Group) - I 🇧🇷
+- Managed and automated operations for approximately 900 servers across AIX, Linux (SUSE), and VMware.
+- Introduced DevOps practices and tooling including Puppet, Rundeck, Jenkins, GitLab CI, and Salt for configuration and deployment automation.
+- Increased infrastructure governance and operational consistency with Device42, Centrify, and SUSE Manager.
 
-* **Job Title**: Senior / Specialist DevOps Engineer (Tech Leader).
-* **City**: São Paulo, SP - Brazil
-* **Date**: 10/2017 - 08/2019
-* **Industry**: e-commerce/retail
-* **Role**: As a Senior DevOps Engineer and Tech Leader at Dafiti Group, I worked closely with development teams to ensure the stability and scalability of Kubernetes-based environments. I led automation initiatives using tools like Terraform, Puppet, and Rundeck to streamline infrastructure and operational workflows. I also implemented robust monitoring and logging solutions leveraging ELK, CloudWatch, Grafana, and Zabbix, enhancing system visibility and performance. My role emphasized reducing manual effort, improving deployment reliability, and fostering a strong DevOps culture across teams through best practices and technical leadership.
+### Earlier Experience
 
-### C&A Modas do Brasil - I 🇧🇷
+- e-Deploy Integrated Technology and Solutions (2013-2014), Contractor Senior SysAdmin / Monitoring Specialist: implemented Zabbix, Nagios, and Grafana monitoring to improve availability and proactive alerting.
+- Grupo Logos (2012-2013), Senior SysAdmin: managed critical infrastructure operations with Puppet, MCollective, Zabbix, VMware, MySQL, and Active Directory.
+- FETAESP (2010-2011), SysAdmin: maintained core infrastructure with Windows Server/Active Directory, Hyper-V, Squid, SquidGuard, and SARG.
+- Santa Alice Group (2006-2008), Contractor SysAdmin: maintained and optimized IT infrastructure in an educational environment.
+- e-Future Informatic (2002-2008), Owner: delivered server and network design, installation, support, and maintenance services.
 
-* **Job Title**: Senior SysAdmin / DevOps Engineer.
-* **City**: Barueri, SP - Brazil
-* **Date**: 08/2014 - 10/2017
-* **Industry**: Retail
-* **Role**: At C&A, I managed and automated the operations of approximately 900 servers across diverse environments, including AIX, Linux (SuSE), and VMware. This role marked my entry into the DevOps world, where I introduced and implemented tools like Puppet, Rundeck, Jenkins, GitLabCI, and SALT to streamline system provisioning, configuration management, and application deployments. I also worked with tools such as Device42, Centrify, and SuSE Manager to improve infrastructure governance and operational efficiency. My efforts significantly reduced manual tasks, improved system consistency, and laid the foundation for modern DevOps practices within the organization.
+## Public Cloud
 
-### e-Deploy Integrated Technology and Solutions 🇧🇷
+AWS: ACM, ALB, ASG, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch Logs, CodeDeploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, Glacier, IAM, KMS, Lambda, RDS, Route 53, SNS, SQS, S3, VPC. Azure: Virtual Machines, Blob Storage, AKS, SQL Database, Cosmos DB, Service Bus, Data Lake Storage, Functions, App Service, Azure AD. GCP: Compute Engine, Cloud Storage, GKE, Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Cloud IAM.
 
-* **Job Title**: [Contractor] Senior SysAdmin / Monitoring Specialist
-* **City**: Barueri, SP - Brazil
-* **Date**: 08/2013 - 07/2014
-* **Industry**: Technology
-* **Role**: Implemented robust monitoring solutions using Zabbix, ensuring system reliability, proactive issue detection, and optimized performance across complex IT infrastructures.
+## Programming
 
-### Grupo Logos – Logistics and Planned Transport 🇧🇷
+| Language | Basic | Intermediate | Advanced |
+| -------- | ----- | ------------ | -------- |
+| Bash     |       |              | X        |
+| Python   | X     |              |          |
+| Golang   | X     |              |          |
 
-* **Job Title**: Senior SysAdmin
-* **City**: Barueri, SP - Brazil
-* **Date**: 01/2012 - 09/2013
-* **Industry**: Logistics and Transport
-* **Role**: As a Senior System Administrator, I managed and supported critical infrastructure across the organization, ensuring high availability, performance, and security.
+## Virtualization
 
-### FETAESP - Federation of Agricultural Workers of the State of São Paulo 🇧🇷
+Hyper-V, IBM PowerVM, KVM, Proxmox, VMware.
 
-* **Job Title**: SysAdmin
-* **City**: Agudos, SP - Brazil
-* **Date**: Duration: 04/2010 to 03/2011
-* **Industry**: Union Body.
-* **Role**: As a SysAdmin, I was responsible for maintaining and supporting the organization's IT infrastructure.
+## Unified Threat Management
 
-### Santa Alice Group 🇧🇷
+Cisco, Juniper, NetScaler, SonicWall (CSSA, CSSP).
 
-* **Job Title**: [Contractor] SysAdmin
-* **City**: Presidente Prudente, SP - Brazil
-* **Date**: 05/2006 to 09/2008
-* **Industry**: Secondary and elementary education institution.
-* **Role**: As a SysAdmin at Santa Alice Group, I was responsible for maintaining and optimizing IT infrastructure within the educational environment.
+## Methodologies
 
-### e-Future Informatic 🇧🇷
+Agile, ITIL, Kanban, Scrum.
 
-* **Job Title**: Owner  
-* **City**: Presidente Prudente, SP - Brazil  
-* **Date**: 04/2002 - 09/2008
-* **Industry**: IT Maintenance and Support
-* **Functions Performed**:  
-  * Provided support, design, installation, and maintenance services for servers and networks.
+## Education
+
+| Field    | University of West Paulista (Unoeste) | Nove de Julho University (Uninove) |
+| -------- | ------------------------------------- | ---------------------------------- |
+| Program  | Information Systems (incomplete)      | Technology in Computer Networks    |
+| Location | Presidente Prudente, Brazil           | Sao Paulo, Brazil                  |
+| Period   | 2004 - 2007                           | Completion: 2017                   |
+
+## Languages
+
+| Language | Basic | Intermediate | Advanced |
+| -------- | ----- | ------------ | -------- |
+| English  |       |              | X        |
+| Spanish  |       | X            |          |

@@ -18,7 +18,7 @@
 
 ### Summary of Qualifications 👨🏼‍💻
 
-* With 20+ years in IT and a strong foundation in Open Source, I’ve spent the last decade in DevOps, SRE, and Platform Engineering roles. As owner of the devxp-tech GitHub org and a YouTube content creator, I lead community-driven projects and share technical knowledge. I've also acted as a Tech Lead, driving high-performance team outcomes.
+* Senior DevOps, SRE, and Platform Engineer with 20+ years in IT and a decade focused on cloud-native platforms. Kubestronaut holding the full Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA), with proven experience leading multi-cloud initiatives (AWS, Azure, GCP), Kubernetes operations, GitOps, and Infrastructure as Code to improve reliability, security, and delivery speed. Strong technical leadership background as Tech Lead, with deep hands-on expertise in platform engineering, observability, and a strong passion for the CNCF landscape.
 
 ### Academic education 📚
 
@@ -172,12 +172,13 @@
 * **Date**: 06/2024 - Current
 * **Industry**: BlockChain
 * **Role**: As a Tech Lead Platform Engineer at Hashgraph Group, I am responsible for designing and implementing secure, scalable AWS-based environments using Infrastructure as Code with Terraform, Crossplane, and Atlantis. I lead CI/CD initiatives with GitHub Actions and ArgoCD to streamline deployments, and manage secrets securely with Vault and External Secrets. I architect observability stacks using Grafana, Loki, Tempo, Mimir, and Alloy, ensuring deep visibility across distributed systems. Additionally, I oversee the implementation of Istio as a service mesh to enhance traffic control, security, and observability across microservices in a blockchain-native infrastructure.
+* **Tools/Technologies**: AWS (EKS, VPC, Transit Gateway, IAM, Route 53, CloudWatch), Terraform, Crossplane, Helm, Argo CD, GitHub Actions, Atlantis, Vault, External Secrets, Istio, OpenTelemetry, Grafana, Loki, Tempo, Mimir, Alloy, Backstage.
 
 <!-- ### 50Hertz / Elia Group 🇩🇪
 
 * **Job Title**: [Contractor] SRE/Observability Engineer
 * **City**: Remote
-* **Date**: 06/2024 - 06/2025
+* **Date**: 06/2024 - 06/2026
 * **Industry**: Energy
 * **Role**: As an SRE Observability Engineer at 50Hertz, I led the design and implementation of a multi-tenant observability stack using Kubernetes, Grafana, Tempo, Mimir, Loki, and OpenTelemetry. I defined architecture standards, automated deployment pipelines, and enabled scalable, centralized monitoring for multiple teams, improving visibility, reliability, and troubleshooting efficiency across environments. -->
 
@@ -188,6 +189,7 @@
 * **Date**: 04/2023 - 06/2024
 * **Industry**: Financial Compliance
 * **Role**: As a DevOps engineer specializing in Cloud Environments, my role revolves around automating infrastructure with tools like Terraform, Terragrunt, ArgoCD, and Helm. I collaborate with teams to optimize deployment pipelines and architecture scalability. I deploy advanced Kubernetes features like Istio, Keda, and Karpenter for service mesh capabilities and workload optimization. Monitoring with Grafana, Prometheus, Loki, and OpenTelemetry ensures system performance and reliability. Continuous improvement maintains robust, resilient, and scalable environments in AWS and Azure, meeting evolving organizational needs.
+* **Tools/Technologies**: AWS, Azure, Kubernetes, Terraform, Terragrunt, Argo CD, Helm, Vault, Istio, KEDA, Karpenter, Prometheus, Grafana, Loki, OpenTelemetry, CI/CD pipelines.
 
 ### Evolution Gaming 🇸🇪
 
@@ -196,6 +198,7 @@
 * **Date**: 04/2022 - 04/2023
 * **Industry**: Gaming
 * **Role**: As a Site Reliability Engineering (SRE) Tech Leader, I oversee environment management on Google Cloud Platform (GCP), ensuring reliability, scalability, and efficiency. Using automation tools like ArgoCD, Crossplane, and Helm, I orchestrate seamless bootstrap of new clusters and environments, enabling rapid deployment and consistent infrastructure configuration. Prioritizing observability, I implement monitoring solutions such as Prometheus, Loki, and Grafana, enabling proactive issue identification and resolution. Overseeing our internal developer platform, Backstage, I facilitate collaboration and enhance developer productivity. Through strategic leadership and continuous improvement, I optimize GCP environments to meet organizational performance and reliability requirements.
+* **Tools/Technologies**: GCP (GKE, IAM, networking), Argo CD, Crossplane, Helm, Prometheus, Grafana, Loki, Backstage, Kubernetes platform automation.
 
 ### Dafiti Group (GFG Group) II 🇧🇷
 
@@ -204,6 +207,7 @@
 * **Date**: 09/2020 - 07/2023
 * **Industry**: e-commerce
 * **Role**: As the Technical Leader of Squad DevXP, I foster a culture of excellence and innovation while driving the adoption of best development practices. With tools like AlertManager, ArgoCD, CircleCI, and GitHub, I orchestrate streamlined workflows and ensure adherence to standards. Leveraging Kubernetes (EKS), Terraform, and Helm, I facilitate efficient infrastructure provisioning and management, empowering the team to deliver quality solutions rapidly. Additionally, I champion observability tools like Grafana, Prometheus, and Loki for proactive monitoring and troubleshooting. Through strategic guidance and mentorship, I cultivate a collaborative environment where team members thrive and contribute to project success.
+* **Tools/Technologies**: AWS EKS, Kubernetes, Terraform, Helm, Argo CD, CircleCI, GitHub, Alertmanager, Prometheus, Grafana, Loki, DevXP enablement practices.
 
 ### C&A Modas do Brasil - II 🇧🇷
 
@@ -212,6 +216,7 @@
 * **Date**: 08/2019 - 09/2020
 * **Industry**: Retail
 * **Role**: As a DevOps Specialist and Tech Leader, I led the modernization efforts for applications and infrastructure, transforming legacy systems into scalable microservices architectures. Utilizing Docker, OpenShift, and Kubernetes, I embraced containerization to improve portability and scalability, while automation tools like GitLab CI and Puppet streamlined deployment pipelines. Employing ELK stack components for centralized logging and monitoring, including Elasticsearch, Logstash, and Kibana, ensured robust observability. With Terraform and Vagrant, I optimized infrastructure provisioning, orchestrating seamless transitions to cloud environments. Through meticulous planning and execution, I successfully modernized our technology stack, empowering the organization to deliver innovative solutions with agility and reliability.
+* **Tools/Technologies**: Docker, OpenShift, Kubernetes, GitLab CI, Puppet, Terraform, Vagrant, Elasticsearch, Logstash, Kibana, cloud migration and modernization patterns.
 
 ### Dafiti Group (GFG Group) - I 🇧🇷
 
@@ -220,6 +225,7 @@
 * **Date**: 10/2017 - 08/2019
 * **Industry**: e-commerce/retail
 * **Role**: As a Senior DevOps Engineer and Tech Leader at Dafiti Group, I worked closely with development teams to ensure the stability and scalability of Kubernetes-based environments. I led automation initiatives using tools like Terraform, Puppet, and Rundeck to streamline infrastructure and operational workflows. I also implemented robust monitoring and logging solutions leveraging ELK, CloudWatch, Grafana, and Zabbix, enhancing system visibility and performance. My role emphasized reducing manual effort, improving deployment reliability, and fostering a strong DevOps culture across teams through best practices and technical leadership.
+* **Tools/Technologies**: Kubernetes, Terraform, Puppet, Rundeck, ELK, AWS CloudWatch, Grafana, Zabbix, CI/CD automation and SRE practices.
 
 ### C&A Modas do Brasil - I 🇧🇷
 
@@ -228,6 +234,7 @@
 * **Date**: 08/2014 - 10/2017
 * **Industry**: Retail
 * **Role**: At C&A, I managed and automated the operations of approximately 900 servers across diverse environments, including AIX, Linux (SuSE), and VMware. This role marked my entry into the DevOps world, where I introduced and implemented tools like Puppet, Rundeck, Jenkins, GitLabCI, and SALT to streamline system provisioning, configuration management, and application deployments. I also worked with tools such as Device42, Centrify, and SuSE Manager to improve infrastructure governance and operational efficiency. My efforts significantly reduced manual tasks, improved system consistency, and laid the foundation for modern DevOps practices within the organization.
+* **Tools/Technologies**: AIX, Linux (SUSE), VMware, Puppet, Rundeck, Jenkins, GitLab CI, Salt, Device42, Centrify, SUSE Manager.
 
 ### e-Deploy Integrated Technology and Solutions 🇧🇷
 
@@ -236,6 +243,7 @@
 * **Date**: 08/2013 - 07/2014
 * **Industry**: Technology
 * **Role**: As a Senior SysAdmin and Monitoring Specialist, I played a pivotal role in the implementation of a comprehensive monitoring solution for the C&A Group. This involved deploying and configuring Zabbix, Grafana, and Nagios to monitor over 900 servers across various environments, including AIX, Linux (SuSE), and VMware. I was responsible for designing and implementing monitoring templates, alerting mechanisms, and dashboards to provide real-time insights into system performance and availability. My efforts significantly enhanced the organization's ability to proactively identify and address issues, ensuring optimal system performance and reliability.
+* **Tools/Technologies**: Zabbix, Grafana, Nagios, AIX, Linux (SUSE), VMware, monitoring templates, alerting design, operational dashboards.
 
 ### Grupo Logos – Logistics and Planned Transport 🇧🇷
 
@@ -244,6 +252,7 @@
 * **Date**: 01/2012 - 09/2013
 * **Industry**: Logistics and Transport
 * **Role**: As a Senior System Administrator, I managed and supported critical infrastructure across the organization, ensuring high availability, performance, and security. I automated system provisioning and configuration using Puppet and MCollective, and administered services such as Active Directory, MySQL, Zimbra, and VMware environments. I also implemented and maintained monitoring solutions with Zabbix and Grafana, managed email security with Xeams and Postgrey, and improved perimeter protection with Fail2Ban and SonicWall. My work contributed to a more reliable and scalable IT environment supporting business operations across logistics and transport services.
+* **Tools/Technologies**: Puppet, MCollective, Active Directory, MySQL, Zimbra, VMware, Zabbix, Grafana, Xeams, Postgrey, Fail2Ban, SonicWall.
 
 ### FETAESP - Federation of Agricultural Workers of the State of São Paulo 🇧🇷
 
@@ -252,6 +261,7 @@
 * **Date**: Duration: 04/2010 to 03/2011
 * **Industry**: Union Body.
 * **Role**: As a SysAdmin, I was responsible for maintaining and supporting the organization's IT infrastructure, focusing on network access control, user management, and virtualized desktop environments. I administered Windows Server with Active Directory and Terminal Services, implemented virtualization using Hyper-V, and deployed secure, cost-effective thin client solutions using ThinStation and XP Unlimited. I also configured internet access policies using Squid, SquidGuard, and SARG for usage reporting and control. My work ensured system stability, improved network performance, and supported day-to-day operations for internal staff.
+* **Tools/Technologies**: Windows Server, Active Directory, Terminal Services, Hyper-V, ThinStation, XP Unlimited, Squid, SquidGuard, SARG.
 
 ### Santa Alice Group 🇧🇷
 
@@ -260,6 +270,7 @@
 * **Date**: 05/2006 to 09/2008
 * **Industry**: Secondary and elementary education institution.
 * **Role**: As a SysAdmin at Santa Alice Group, I was responsible for maintaining and optimizing IT infrastructure within the educational environment. I managed Active Directory for user authentication, configured and maintained firewall rules using Iptables, and ensured the reliability of Linux and Microsoft servers. Additionally, I implemented and managed proxy solutions using Squid and Squid-Guard to filter content and monitor web traffic, improving network security and efficiency for the institution.
+* **Tools/Technologies**: Active Directory, Linux Server, Microsoft Server, iptables, Squid, SquidGuard, proxy and firewall management.
 
 ### e-Future Informatic 🇧🇷
 
@@ -269,3 +280,4 @@
 * **Industry**: IT Maintenance and Support
 * **Functions Performed**:  
   * Provided support, design, installation, and maintenance services for servers and networks.
+* **Tools/Technologies**: Windows/Linux servers, LAN/WAN networking, switching, routing, backup, endpoint support, preventive maintenance.
