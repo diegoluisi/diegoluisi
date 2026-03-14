@@ -56,9 +56,9 @@
 <img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="120" height="120"/> <a>
 <img src="https://images.credly.com/size/340x340/images/e4c38805-e2fd-469c-83fc-8dab303be440/blob" alt="Kubernetes Fundamentals"width="120"height="120"/> <a>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="120" height="120"/> </a>
-<img src="https://images.credly.com/size/340x340/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="120" height="120"/> </a>
-<img src="https://images.credly.com/size/340x340/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" alt="GitOps at Scale" width="120" height="120"/> </a>
-<img src="https://images.credly.com/size/340x340/images/5c67fbf1-d62b-4f7f-93c9-e7258414c862/blob" alt="GitOps Enterprise" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob" alt="GitOps Fundamentals" width="120" height="120"/>
+<img src="https://images.credly.com/size/340x340/images/89046afe-b82b-4dc1-9c20-384ea505fd01/blob" alt="GitOps at Scale" width="120" height="120"/>
+<img src="https://images.credly.com/size/340x340/images/7d2c6621-0b7f-46e6-a56b-f69143812011/blob" alt="GitOps Enterprise" width="120" height="120"/>
 <img src="https://images.credly.com/size/340x340/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" alt="LFS169: Introduction to GitOps" width="120" height="120"/> </a>  
 <img src="https://images.credly.com/size/340x340/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="120" height="120"/> </a>  
 <img src="https://images.credly.com/size/340x340/images/6166f9b5-2213-45f5-b7de-ba0e58048d23/blob" alt="LFS144: Introduction to Istio" width="120" height="120"/> </a>  
