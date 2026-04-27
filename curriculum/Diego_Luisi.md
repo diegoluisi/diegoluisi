@@ -57,6 +57,7 @@ Senior DevOps, Platform, and SRE Engineer with 20+ years in IT and 10+ years lea
 <img src="https://images.credly.com/size/340x340/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA: Certified GitOps Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png" alt="CCA: Cilium Certified Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png" alt="KCA: Kyverno Certified Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="60" height="60">
