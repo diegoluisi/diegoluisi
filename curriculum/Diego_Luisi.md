@@ -23,6 +23,8 @@ Senior DevOps, Platform, and SRE Engineer with 20+ years in IT and 10+ years lea
 <img src="https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/d5bf51f3-18cd-4a7a-8031-e2e365ebb0ba/blob" alt="HashiCorp Certified: Vault Associate (002)" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" alt="OPSWAT Introduction to Critical Infrastructure Protection (ICIP)
+" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" alt="Fundamentals for Istio by Solo.io" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/19eb9d45-751f-45bb-8e05-c654efde6b20/image.png" alt="Fundamentals for Istio Ambient Mesh" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/7a5401a6-01eb-4f48-bbcd-9a227fdff361/image.png" alt="Intermediate for Istio" width="60" height="60"/>
@@ -39,7 +41,7 @@ Senior DevOps, Platform, and SRE Engineer with 20+ years in IT and 10+ years lea
 <img src="https://images.credly.com/size/340x340/images/b649d3b3-29a4-469d-9e28-880df410586a/tempfile20250605-58-qhbtb8.png" alt="Cilium Egress Gateway" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/73b9049a-1555-4687-8b35-31f3d6e4b0a0/tempfile20250605-71-wqikcw.png" alt="Hubble Flow Visibility" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/747f2360-8ef8-4bb0-bb91-af09c5d721c2/tempfile20250605-79-30kzgy.png" alt="Cilium Advanced Gateway API Use Cases" width="60" height="60"/>
-<img src="https://images.credly.com/size/340x340/images/b032dfda-f989-4639-ba0a-a430de2ec58c/tempfile20250605-58-cmcpw.png" alt="Golden Signals with Hubble and Grafana" width="60" height="60"/>
+<img src="https://images.credly.com/size/340x340/images/6d25f471-7bb4-4be5-ad1b-45e52d1200b0/tempfile20260507-65-yfxiv2.png" alt="Golden Signals with Hubble and Grafana" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/13222796-2aa7-4d17-b2c4-6f2c58e76387/image.png" alt="Isovalent Lab Champion (10 labs)" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/e4c38805-e2fd-469c-83fc-8dab303be440/blob" alt="Kubernetes Fundamentals" width="60" height="60"/>
