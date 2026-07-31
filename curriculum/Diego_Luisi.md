@@ -155,9 +155,9 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### Dafiti Group (GFG Group) I (Sao Paulo, Brazil)
 
-**Senior / Specialist DevOps Engineer (Tech Lead)**  
-**Dates:** 10/2017 - 08/2019  
-**Industry:** E-commerce / Retail
+**Role**: Senior / Specialist DevOps Engineer (Tech Lead)  
+**Period**: 10/2017 - 08/2019  
+**Industry**: E-commerce / Retail
 
 - Improved stability and scalability of Kubernetes-centric environments across product teams.
 - Automated infrastructure and operations using Terraform, Puppet, and Rundeck to reduce manual work and speed up delivery.
@@ -165,9 +165,9 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### C&A Modas do Brasil I (Barueri, Brazil)
 
-**Senior SysAdmin / DevOps Engineer**  
-**Dates:** 08/2014 - 10/2017  
-**Industry:** Retail
+**Role**: Senior SysAdmin / DevOps Engineer  
+**Period**: 08/2014 - 10/2017  
+**Industry**: Retail
 
 - Managed and automated operations for approximately 900 servers across AIX, Linux (SUSE), and VMware.
 - Introduced DevOps practices and tooling including Puppet, Rundeck, Jenkins, GitLab CI, and Salt for configuration and deployment automation.
