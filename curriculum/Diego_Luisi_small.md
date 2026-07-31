@@ -11,10 +11,11 @@
 
 ## Profile
 
-Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-native infrastructure. I design and operate Kubernetes platforms across AWS, GCP, and Azure, using Terraform, Crossplane, Argo CD, and Helm to make environments easier to provision, manage, and support. My recent work includes building developer self-service with Backstage and implementing observability platforms with OpenTelemetry, Prometheus, Grafana, Loki, Tempo, and Mimir. I am a hands-on technical lead who enjoys solving platform problems, setting engineering standards, and helping teams adopt better ways of working. I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA) and have earned Kubestronaut status.
+Platform Engineer with 20+ years in IT, built on a strong background in Linux systems administration and the last 10 years focused on cloud-native infrastructure. I design and operate Kubernetes platforms across AWS, GCP, and Azure, using Terraform, Crossplane, Argo CD, and Helm to make environments easier to provision, manage, and support. My recent work includes building developer self-service with Backstage and implementing observability platforms with OpenTelemetry, Prometheus, Grafana, Loki, Tempo, and Mimir. I am a hands-on technical lead who is comfortable working from the Linux operating system and network layers through to Kubernetes and the developer platform. I also set engineering standards, mentor teams, and hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA) with Kubestronaut status.
 
 ## Core Skills
 
+- **Linux systems engineering:** 20+ years administering and troubleshooting production Linux environments, including server provisioning, shell automation, networking, access control, monitoring, virtualization, and operational support.
 - **Kubernetes platforms:** Architecture, provisioning, upgrades, scaling, security, and operations across Amazon EKS, Google GKE, Azure AKS, OpenShift, and self-managed Kubernetes; workload optimization with Karpenter and KEDA.
 - **Platform engineering and developer experience:** Internal developer platforms, reusable platform blueprints, golden paths, and developer self-service using Backstage, Crossplane, Helm, and Kubernetes operators.
 - **GitOps and infrastructure automation:** Argo CD, Terraform, Terragrunt, Crossplane, Atlantis, Helm, Ansible, GitHub Actions, GitLab CI, and CircleCI.
@@ -93,7 +94,7 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 **Period:** Aug 2014 - Oct 2017<br>
 **Industry:** Retail
 
-- Managed and automated operations for approximately 900 servers across AIX, Linux, and VMware.
+- Managed, troubleshot, and automated operations for approximately 900 servers across AIX, Linux (SUSE), and VMware.
 - Introduced Puppet, Rundeck, Jenkins, GitLab CI, and Salt for configuration and deployment automation.
 - Improved infrastructure governance and consistency with Device42, Centrify, and SUSE Manager.
 
@@ -118,7 +119,7 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 ## Additional Skills
 
 - **Cloud:** AWS (advanced); Azure and GCP (intermediate)
-- **Programming:** Bash (advanced); working knowledge of Python and Go
+- **Linux and automation:** 20+ years of Linux systems administration; advanced Bash; working knowledge of Python and Go
 - **Virtualization:** Hyper-V, IBM PowerVM, KVM, Proxmox, and VMware
 - **Languages:** English (advanced); Spanish (intermediate)
 

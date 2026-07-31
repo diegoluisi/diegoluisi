@@ -11,14 +11,15 @@
 
 ## Profile
 
-Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-native infrastructure.
+Platform Engineer with 20+ years in IT, built on a strong background in Linux systems administration and the last 10 years focused on cloud-native infrastructure.
 I design and operate Kubernetes platforms across AWS, GCP, and Azure, using Terraform, Crossplane, Argo CD, and Helm to make environments easier to provision, manage, and support.
 My recent work includes building developer self-service with Backstage and implementing observability platforms with OpenTelemetry, Prometheus, Grafana, Loki, Tempo, and Mimir.
-I am a hands-on technical lead who enjoys solving platform problems, setting engineering standards, and helping teams adopt better ways of working.
+I am a hands-on technical lead who is comfortable working from the Linux operating system and network layers through to Kubernetes and the developer platform.
 I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA) and have earned Kubestronaut status.
 
 ## Core Skills
 
+- **Linux systems engineering:** 20+ years administering and troubleshooting production Linux environments, including server provisioning, shell automation, networking, access control, monitoring, virtualization, and operational support.
 - **Kubernetes platforms:** Architecture, provisioning, upgrades, scaling, security, and operations across Amazon EKS, Google GKE, Azure AKS, OpenShift, and self-managed Kubernetes; workload optimization with Karpenter and KEDA.
 - **Platform engineering and developer experience:** Internal developer platforms, reusable platform blueprints, golden paths, and developer self-service using Backstage, Crossplane, Helm, and Kubernetes operators.
 - **GitOps and infrastructure automation:** Argo CD, Terraform, Terragrunt, Crossplane, Atlantis, Helm, Ansible, GitHub Actions, GitLab CI, and CircleCI.
@@ -111,7 +112,7 @@ I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, a
 **Period:** Jun 2024 - Present<br>
 **Industry:** Web3 / Blockchain
 
-- Manage six engineers while remaining the hands-on technical lead, providing technical direction, mentoring the team, and leading interviews for engineering hires.
+- Manage seven engineers while remaining the hands-on technical lead, providing technical direction, mentoring the team, and leading interviews for engineering hires.
 - Own the platform roadmap and engineering standards, aligning infrastructure priorities with product and operational needs.
 - Designed and implemented a hybrid, multi-environment platform spanning AWS and on-premises infrastructure, covering networking, IAM, EKS, DNS, monitoring, centralized governance, and secure connectivity through VPN integrations.
 - Standardized EKS and self-managed Kubernetes lifecycle management through reusable Terraform, Crossplane, Helm, and Argo CD blueprints, improving consistency across environments and reducing manual operations.
@@ -174,7 +175,7 @@ I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, a
 **Period:** Aug 2014 - Oct 2017<br>
 **Industry:** Retail
 
-- Managed and automated operations for approximately 900 servers across AIX, Linux (SUSE), and VMware.
+- Managed, troubleshot, and automated operations for approximately 900 servers across AIX, Linux (SUSE), and VMware.
 - Introduced DevOps practices and tooling including Puppet, Rundeck, Jenkins, GitLab CI, and Salt for configuration and deployment automation.
 - Increased infrastructure governance and operational consistency with Device42, Centrify, and SUSE Manager.
 
@@ -182,11 +183,11 @@ I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, a
 
 | Company                                      | Role                                                 | Period      | Industry                      | Contribution                                                                                           |
 | -------------------------------------------- | ---------------------------------------------------- | ----------- | ----------------------------- | ------------------------------------------------------------------------------------------------------ |
-| e-Deploy Integrated Technology and Solutions | Senior SysAdmin / Monitoring Specialist (Contractor) | 2013 - 2014 | IT Services                   | Implemented Zabbix, Nagios, and Grafana monitoring to improve availability and proactive alerting.     |
-| Grupo Logos                                  | Senior SysAdmin                                      | 2012 - 2013 | IT Services                   | Managed infrastructure with Puppet, MCollective, Zabbix, VMware, MySQL, and Active Directory.          |
+| e-Deploy Integrated Technology and Solutions | Senior SysAdmin / Monitoring Specialist (Contractor) | 2013 - 2014 | IT Services                   | Monitored AIX, Linux, and VMware environments with Zabbix, Nagios, and Grafana.                         |
+| Grupo Logos                                  | Senior SysAdmin                                      | 2012 - 2013 | IT Services                   | Managed and automated Linux infrastructure with Puppet, MCollective, Zabbix, VMware, and MySQL.        |
 | FETAESP                                      | SysAdmin                                             | 2010 - 2011 | Nonprofit / Trade Association | Maintained infrastructure with Windows Server, Active Directory, Hyper-V, Squid, SquidGuard, and SARG. |
-| Santa Alice Group                            | SysAdmin (Contractor)                                | 2006 - 2008 | Education                     | Maintained and optimized IT infrastructure in an educational environment.                              |
-| e-Future Informatic                          | Owner                                                | 2002 - 2008 | IT Services                   | Delivered server and network design, installation, support, and maintenance services.                  |
+| Santa Alice Group                            | SysAdmin (Contractor)                                | 2006 - 2008 | Education                     | Maintained Linux and Microsoft servers, firewalls, Active Directory, and proxy services.               |
+| e-Future Informatic                          | Owner                                                | 2002 - 2008 | IT Services                   | Delivered Linux and Windows server, network design, installation, support, and maintenance services.  |
 
 ## Public Cloud
 
