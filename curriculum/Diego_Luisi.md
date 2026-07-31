@@ -11,7 +11,15 @@
 
 ## Profile
 
-Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-native infrastructure. I design and operate Kubernetes platforms across AWS, GCP, and Azure, using Terraform, Crossplane, Argo CD, and Helm to make environments easier to provision, manage, and support. My recent work includes building developer self-service with Backstage and implementing observability platforms with OpenTelemetry, Prometheus, Grafana, Loki, Tempo, and Mimir. I am a hands-on technical lead who enjoys solving platform problems, setting engineering standards, and helping teams adopt better ways of working. I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA) and have earned Kubestronaut status.
+Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-native infrastructure.
+
+I design and operate Kubernetes platforms across AWS, GCP, and Azure, using Terraform, Crossplane, Argo CD, and Helm to make environments easier to provision, manage, and support.
+
+My recent work includes building developer self-service with Backstage and implementing observability platforms with OpenTelemetry, Prometheus, Grafana, Loki, Tempo, and Mimir.
+
+I am a hands-on technical lead who enjoys solving platform problems, setting engineering standards, and helping teams adopt better ways of working.
+
+I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA) and have earned Kubestronaut status.
 
 ## Core Skills
 
@@ -109,7 +117,7 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 - Manage six engineers while remaining the hands-on technical lead, providing technical direction, mentoring the team, and leading interviews for engineering hires.
 - Own the platform roadmap and engineering standards, aligning infrastructure priorities with product and operational needs.
-- Designed and implemented a multi-environment AWS platform covering networking, IAM, EKS, DNS, monitoring, centralized governance, and secure connectivity through VPN integrations.
+- Designed and implemented a hybrid, multi-environment platform spanning AWS and on-premises infrastructure, covering networking, IAM, EKS, DNS, monitoring, centralized governance, and secure connectivity through VPN integrations.
 - Standardized EKS and self-managed Kubernetes lifecycle management through reusable Terraform, Crossplane, Helm, and Argo CD blueprints, improving consistency across environments and reducing manual operations.
 - Introduced developer self-service and automated delivery workflows with Backstage, GitHub Actions, and Atlantis, supported by Vault and External Secrets for secrets management.
 - Established centralized metrics, logs, and distributed tracing with OpenTelemetry, Grafana, Mimir, Loki, and Tempo to improve platform visibility and incident investigation.
@@ -120,8 +128,8 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 **Period:** Apr 2023 - Jun 2024<br>
 **Industry:** Financial Compliance
 
-- Automated cloud infrastructure and developer workflows using Terraform, Terragrunt, Argo CD, Helm, Vault, and AWS services.
-- Implemented Kubernetes platform patterns in AWS and Azure with Istio service mesh, KEDA, and Karpenter for workload efficiency and scaling.
+- Automated infrastructure and developer workflows across AWS, Azure, and on-premises environments using Terraform, Terragrunt, Argo CD, Helm, and Vault.
+- Implemented Kubernetes platform patterns across cloud and on-premises environments, using Istio, KEDA, and Karpenter for traffic management, workload efficiency, and scaling.
 - Improved observability and incident response with Prometheus, Grafana, Loki, while increasing CI/CD reliability.
 
 ### Evolution Gaming (Lisbon, Portugal)
