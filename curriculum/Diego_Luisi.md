@@ -107,7 +107,7 @@ I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, a
 
 ### Hashgraph Group (Remote)
 
-**Role:** Core Engineering Manager / Platform Engineering Tech Lead<br>
+**Role:** Core Engineering Manager / Platform Engineering (Tech Lead)<br>
 **Period:** Jun 2024 - Present<br>
 **Industry:** Web3 / Blockchain
 
