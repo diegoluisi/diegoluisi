@@ -184,31 +184,13 @@ I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, a
 
 ### Earlier Experience
 
-- **e-Deploy Integrated Technology and Solutions**<br>
-  **Role:** Senior SysAdmin / Monitoring Specialist (Contractor)<br>
-  **Period:** 2013 - 2014<br>
-  **Industry:** IT Services<br>
-  Implemented Zabbix, Nagios, and Grafana monitoring to improve availability and proactive alerting.
-- **Grupo Logos**<br>
-  **Role:** Senior SysAdmin<br>
-  **Period:** 2012 - 2013<br>
-  **Industry:** IT Services<br>
-  Managed critical infrastructure operations with Puppet, MCollective, Zabbix, VMware, MySQL, and Active Directory.
-- **FETAESP**<br>
-  **Role:** SysAdmin<br>
-  **Period:** 2010 - 2011<br>
-  **Industry:** Nonprofit / Trade Association<br>
-  Maintained core infrastructure with Windows Server/Active Directory, Hyper-V, Squid, SquidGuard, and SARG.
-- **Santa Alice Group**<br>
-  **Role:** SysAdmin (Contractor)<br>
-  **Period:** 2006 - 2008<br>
-  **Industry:** Education<br>
-  Maintained and optimized IT infrastructure in an educational environment.
-- **e-Future Informatic**<br>
-  **Role:** Owner<br>
-  **Period:** 2002 - 2008<br>
-  **Industry:** IT Services<br>
-  Delivered server and network design, installation, support, and maintenance services.
+| Company                                      | Role                                                 | Period      | Industry                      | Contribution                                                                                               |
+| -------------------------------------------- | ---------------------------------------------------- | ----------- | ----------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| e-Deploy Integrated Technology and Solutions | Senior SysAdmin / Monitoring Specialist (Contractor) | 2013 - 2014 | IT Services                   | Implemented Zabbix, Nagios, and Grafana monitoring to improve availability and proactive alerting.         |
+| Grupo Logos                                  | Senior SysAdmin                                      | 2012 - 2013 | IT Services                   | Managed infrastructure with Puppet, MCollective, Zabbix, VMware, MySQL, and Active Directory.               |
+| FETAESP                                      | SysAdmin                                             | 2010 - 2011 | Nonprofit / Trade Association | Maintained infrastructure with Windows Server, Active Directory, Hyper-V, Squid, SquidGuard, and SARG.      |
+| Santa Alice Group                            | SysAdmin (Contractor)                                | 2006 - 2008 | Education                     | Maintained and optimized IT infrastructure in an educational environment.                                  |
+| e-Future Informatic                          | Owner                                                | 2002 - 2008 | IT Services                   | Delivered server and network design, installation, support, and maintenance services.                      |
 
 ## Public Cloud
 
