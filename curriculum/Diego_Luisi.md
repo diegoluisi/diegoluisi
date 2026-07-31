@@ -103,7 +103,9 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### Hashgraph Group (Remote)
 
-**Role:** Core Engineering Manager / Platform Engineering Tech Lead | **Period:** Jun 2024 - Present | **Industry:** Web3 / Blockchain
+**Role:** Core Engineering Manager / Platform Engineering Tech Lead<br>
+**Period:** Jun 2024 - Present<br>
+**Industry:** Web3 / Blockchain
 
 - Manage six engineers while remaining the hands-on technical lead, providing technical direction, mentoring the team, and leading interviews for engineering hires.
 - Own the platform roadmap and engineering standards, aligning infrastructure priorities with product and operational needs.
@@ -114,7 +116,9 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### Shield Financial Compliance (Lisbon, Portugal)
 
-**Role:** DevOps Engineer (Independent Contractor) | **Period:** Apr 2023 - Jun 2024 | **Industry:** Financial Compliance
+**Role:** DevOps Engineer (Independent Contractor)<br>
+**Period:** Apr 2023 - Jun 2024<br>
+**Industry:** Financial Compliance
 
 - Automated cloud infrastructure and developer workflows using Terraform, Terragrunt, Argo CD, Helm, Vault, and AWS services.
 - Implemented Kubernetes platform patterns in AWS and Azure with Istio service mesh, KEDA, and Karpenter for workload efficiency and scaling.
@@ -122,7 +126,9 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### Evolution Gaming (Lisbon, Portugal)
 
-**Role:** SRE Tech Lead | **Period:** Apr 2022 - Apr 2023 | **Industry:** Gaming
+**Role:** SRE Tech Lead<br>
+**Period:** Apr 2022 - Apr 2023<br>
+**Industry:** Gaming
 
 - Improved reliability and scalability for GCP-based environments (GKE, IAM, networking, and managed services).
 - Automated environment bootstrap and lifecycle management with Argo CD, Crossplane, and Helm.
@@ -130,7 +136,9 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### Dafiti Group (GFG Group) II (Sao Paulo, Brazil)
 
-**Role:** SRE / Platform Engineer (Part-Time Contractor) | **Period:** Sep 2020 - Jul 2023 | **Industry:** E-commerce
+**Role:** SRE / Platform Engineer (Part-Time Contractor)<br>
+**Period:** Sep 2020 - Jul 2023<br>
+**Industry:** E-commerce
 
 - Improved engineering standards and platform adoption through DevXP initiatives with GitHub, CircleCI, and Argo CD.
 - Standardized Kubernetes (EKS) infrastructure and delivery workflows using Terraform, Helm, and policy-aligned deployment patterns.
@@ -138,7 +146,9 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### C&A Modas do Brasil II (Barueri, Brazil)
 
-**Role:** DevOps Specialist (Tech Lead) | **Period:** Aug 2019 - Sep 2020 | **Industry:** Retail
+**Role:** DevOps Specialist (Tech Lead)<br>
+**Period:** Aug 2019 - Sep 2020<br>
+**Industry:** Retail
 
 - Modernized legacy environments toward containerized microservices with Docker, OpenShift, and Kubernetes.
 - Automated delivery workflows using GitLab CI, Puppet, Terraform, and Vagrant, reducing manual deployment effort and improving consistency.
@@ -146,7 +156,9 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### Dafiti Group (GFG Group) I (Sao Paulo, Brazil)
 
-**Role:** Senior / Specialist DevOps Engineer (Tech Lead) | **Period:** Oct 2017 - Aug 2019 | **Industry:** E-commerce / Retail
+**Role:** Senior / Specialist DevOps Engineer (Tech Lead)<br>
+**Period:** Oct 2017 - Aug 2019<br>
+**Industry:** E-commerce / Retail
 
 - Improved stability and scalability of Kubernetes-centric environments across product teams.
 - Automated infrastructure and operations using Terraform, Puppet, and Rundeck to reduce manual work and speed up delivery.
@@ -154,7 +166,9 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### C&A Modas do Brasil I (Barueri, Brazil)
 
-**Role:** Senior SysAdmin / DevOps Engineer | **Period:** Aug 2014 - Oct 2017 | **Industry:** Retail
+**Role:** Senior SysAdmin / DevOps Engineer<br>
+**Period:** Aug 2014 - Oct 2017<br>
+**Industry:** Retail
 
 - Managed and automated operations for approximately 900 servers across AIX, Linux (SUSE), and VMware.
 - Introduced DevOps practices and tooling including Puppet, Rundeck, Jenkins, GitLab CI, and Salt for configuration and deployment automation.
@@ -162,11 +176,31 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### Earlier Experience
 
-- **e-Deploy Integrated Technology and Solutions** — **Role:** Senior SysAdmin / Monitoring Specialist (Contractor) | **Period:** 2013 - 2014 | **Industry:** IT Services. Implemented Zabbix, Nagios, and Grafana monitoring to improve availability and proactive alerting.
-- **Grupo Logos** — **Role:** Senior SysAdmin | **Period:** 2012 - 2013 | **Industry:** IT Services. Managed critical infrastructure operations with Puppet, MCollective, Zabbix, VMware, MySQL, and Active Directory.
-- **FETAESP** — **Role:** SysAdmin | **Period:** 2010 - 2011 | **Industry:** Nonprofit / Trade Association. Maintained core infrastructure with Windows Server/Active Directory, Hyper-V, Squid, SquidGuard, and SARG.
-- **Santa Alice Group** — **Role:** SysAdmin (Contractor) | **Period:** 2006 - 2008 | **Industry:** Education. Maintained and optimized IT infrastructure in an educational environment.
-- **e-Future Informatic** — **Role:** Owner | **Period:** 2002 - 2008 | **Industry:** IT Services. Delivered server and network design, installation, support, and maintenance services.
+- **e-Deploy Integrated Technology and Solutions**<br>
+  **Role:** Senior SysAdmin / Monitoring Specialist (Contractor)<br>
+  **Period:** 2013 - 2014<br>
+  **Industry:** IT Services<br>
+  Implemented Zabbix, Nagios, and Grafana monitoring to improve availability and proactive alerting.
+- **Grupo Logos**<br>
+  **Role:** Senior SysAdmin<br>
+  **Period:** 2012 - 2013<br>
+  **Industry:** IT Services<br>
+  Managed critical infrastructure operations with Puppet, MCollective, Zabbix, VMware, MySQL, and Active Directory.
+- **FETAESP**<br>
+  **Role:** SysAdmin<br>
+  **Period:** 2010 - 2011<br>
+  **Industry:** Nonprofit / Trade Association<br>
+  Maintained core infrastructure with Windows Server/Active Directory, Hyper-V, Squid, SquidGuard, and SARG.
+- **Santa Alice Group**<br>
+  **Role:** SysAdmin (Contractor)<br>
+  **Period:** 2006 - 2008<br>
+  **Industry:** Education<br>
+  Maintained and optimized IT infrastructure in an educational environment.
+- **e-Future Informatic**<br>
+  **Role:** Owner<br>
+  **Period:** 2002 - 2008<br>
+  **Industry:** IT Services<br>
+  Delivered server and network design, installation, support, and maintenance services.
 
 ## Public Cloud
 
