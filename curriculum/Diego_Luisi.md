@@ -154,7 +154,7 @@ I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, a
 
 ### C&A Modas do Brasil II (Barueri, Brazil)
 
-**Role:** DevOps Specialist (Tech Lead)<br>
+**Role:** DevOps Specialist/Tech Lead (Independent Contractor)<br>
 **Period:** Aug 2019 - Sep 2020<br>
 **Industry:** Retail
 
@@ -184,13 +184,13 @@ I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, a
 
 ### Earlier Experience
 
-| Company                                      | Role                                                 | Period      | Industry                      | Contribution                                                                                               |
-| -------------------------------------------- | ---------------------------------------------------- | ----------- | ----------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| e-Deploy Integrated Technology and Solutions | Senior SysAdmin / Monitoring Specialist (Contractor) | 2013 - 2014 | IT Services                   | Implemented Zabbix, Nagios, and Grafana monitoring to improve availability and proactive alerting.         |
-| Grupo Logos                                  | Senior SysAdmin                                      | 2012 - 2013 | IT Services                   | Managed infrastructure with Puppet, MCollective, Zabbix, VMware, MySQL, and Active Directory.               |
-| FETAESP                                      | SysAdmin                                             | 2010 - 2011 | Nonprofit / Trade Association | Maintained infrastructure with Windows Server, Active Directory, Hyper-V, Squid, SquidGuard, and SARG.      |
-| Santa Alice Group                            | SysAdmin (Contractor)                                | 2006 - 2008 | Education                     | Maintained and optimized IT infrastructure in an educational environment.                                  |
-| e-Future Informatic                          | Owner                                                | 2002 - 2008 | IT Services                   | Delivered server and network design, installation, support, and maintenance services.                      |
+| Company                                      | Role                                                 | Period      | Industry                      | Contribution                                                                                           |
+| -------------------------------------------- | ---------------------------------------------------- | ----------- | ----------------------------- | ------------------------------------------------------------------------------------------------------ |
+| e-Deploy Integrated Technology and Solutions | Senior SysAdmin / Monitoring Specialist (Contractor) | 2013 - 2014 | IT Services                   | Implemented Zabbix, Nagios, and Grafana monitoring to improve availability and proactive alerting.     |
+| Grupo Logos                                  | Senior SysAdmin                                      | 2012 - 2013 | IT Services                   | Managed infrastructure with Puppet, MCollective, Zabbix, VMware, MySQL, and Active Directory.          |
+| FETAESP                                      | SysAdmin                                             | 2010 - 2011 | Nonprofit / Trade Association | Maintained infrastructure with Windows Server, Active Directory, Hyper-V, Squid, SquidGuard, and SARG. |
+| Santa Alice Group                            | SysAdmin (Contractor)                                | 2006 - 2008 | Education                     | Maintained and optimized IT infrastructure in an educational environment.                              |
+| e-Future Informatic                          | Owner                                                | 2002 - 2008 | IT Services                   | Delivered server and network design, installation, support, and maintenance services.                  |
 
 ## Public Cloud
 
