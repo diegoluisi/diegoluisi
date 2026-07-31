@@ -13,6 +13,11 @@
 
 Senior DevOps, Platform, and SRE Engineer with 20+ years in IT and 10+ years leading cloud-native transformation across fintech, gaming, retail, e-commerce, and Web3. Kubestronaut holding the full Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA), with a proven track record designing and operating secure multi-cloud platforms (AWS, Azure, GCP) using Kubernetes, GitOps, and Infrastructure as Code (Terraform, Crossplane). Hands-on technical leader passionate about the CNCF landscape, focused on scalable developer platforms, production-grade observability, and automation-first operating models that improve delivery speed, reliability, and security.
 
+## Core Skills
+
+- Platform engineering: Kubernetes platform operations (EKS/GKE/self-managed), internal developer platforms (Backstage), platform automation and reliability engineering.
+- Cloud-native stack: GitOps (Argo CD/Workflows), IaC (Terraform/Terragrunt/Crossplane), observability (Prometheus/Grafana/Loki/Tempo/Mimir/OpenTelemetry), security and CI/CD (Kyverno/Trivy/Vault/GitHub Actions/GitLab CI/CircleCI/Ansible).
+
 ## Certifications and Badges
 
 <!-- markdownlint-disable MD033 -->
@@ -71,11 +76,6 @@ Senior DevOps, Platform, and SRE Engineer with 20+ years in IT and 10+ years lea
 <img src="https://images.credly.com/size/340x340/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="60" height="60">
 </p>
 <!-- markdownlint-enable MD033 -->
-
-## Core Skills
-
-- Platform engineering: Kubernetes platform operations (EKS/GKE/self-managed), internal developer platforms (Backstage), platform automation and reliability engineering.
-- Cloud-native stack: GitOps (Argo CD/Workflows), IaC (Terraform/Terragrunt/Crossplane), observability (Prometheus/Grafana/Loki/Tempo/Mimir/OpenTelemetry), security and CI/CD (Kyverno/Trivy/Vault/GitHub Actions/GitLab CI/CircleCI/Ansible).
 
 ## Selected Training and Workshops
 
