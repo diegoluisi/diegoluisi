@@ -177,7 +177,17 @@ Senior DevOps, Platform, and SRE Engineer with 20+ years in IT and 10+ years lea
 
 ## Public Cloud
 
-AWS: ACM, ALB, ASG, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch Logs, CodeDeploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, Glacier, IAM, KMS, Lambda, RDS, Route 53, SNS, SQS, S3, VPC. Azure: Virtual Machines, Blob Storage, AKS, SQL Database, Cosmos DB, Service Bus, Data Lake Storage, Functions, App Service, Azure AD. GCP: Compute Engine, Cloud Storage, GKE, Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Cloud IAM.
+AWS:
+
+- ACM, ALB, ASG, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch Logs, CodeDeploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, Glacier, IAM, KMS, Lambda, RDS, Route 53, SNS, SQS, S3, VPC.
+
+Azure:
+
+- Virtual Machines, Blob Storage, AKS, SQL Database, Cosmos DB, Service Bus, Data Lake Storage, Functions, App Service, Azure AD.
+
+GCP:
+
+- Compute Engine, Cloud Storage, GKE, Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Cloud IAM.
 
 ## Programming
 
