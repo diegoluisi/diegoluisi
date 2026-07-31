@@ -189,15 +189,7 @@ GCP:
 
 - Compute Engine, Cloud Storage, GKE, Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Cloud IAM.
 
-## Programming
-
-| Language | Basic | Intermediate | Advanced |
-| -------- | ----- | ------------ | -------- |
-| Bash     |       |              | X        |
-| Python   | X     |              |          |
-| Golang   | X     |              |          |
-
-## Virtualization
+<!-- ## Virtualization
 
 Hyper-V, IBM PowerVM, KVM, Proxmox, VMware.
 
@@ -207,7 +199,15 @@ Cisco, Juniper, NetScaler, SonicWall (CSSA, CSSP).
 
 ## Methodologies
 
-Agile, ITIL, Kanban, Scrum.
+Agile, ITIL, Kanban, Scrum. -->
+
+## Programming
+
+| Language | Basic | Intermediate | Advanced |
+| -------- | ----- | ------------ | -------- |
+| Bash     |       |              | X        |
+| Python   | X     |              |          |
+| Golang   | X     |              |          |
 
 ## Education
 
