@@ -104,7 +104,7 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 ### Hashgraph Group (Remote)
 
 **Role**: Core Engineering Manager / Platform Engineering Tech Lead
-**Dates**: Jun 2024 - Present 
+**Period**: Jun 2024 - Present 
 **Industry**: Web3 / Blockchain
 
 - Manage six engineers while remaining the hands-on technical lead, providing technical direction, mentoring the team, and leading interviews for engineering hires.
@@ -117,7 +117,7 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 ### Shield Financial Compliance (Lisbon, Portugal)
 
 **Role**: DevOps Engineer (Independent Contractor)
-**Dates**: Apr 2023 - Jun 2024
+**Period**: Apr 2023 - Jun 2024
 **Industry**: Financial Compliance
 
 - Automated cloud infrastructure and developer workflows using Terraform, Terragrunt, Argo CD, Helm, Vault, and AWS services.
@@ -127,7 +127,7 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 ### Evolution Gaming (Lisbon, Portugal)
 
 **Role**: SRE Tech Lead  
-**Dates**: 04/2022 - 04/2023  
+**Period**: 04/2022 - 04/2023  
 **Industry**: Gaming
 
 - Improved reliability and scalability for GCP-based environments (GKE, IAM, networking, and managed services).
@@ -136,7 +136,7 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### Dafiti Group (GFG Group) II (Sao Paulo, Brazil)
 
-**Role**: SRE / Platform Engineer (Part-Time Contractor) **Dates**: Sep 2020 - Jul 2023 
+**Role**: SRE / Platform Engineer (Part-Time Contractor) **Period**: Sep 2020 - Jul 2023 
 **Industry**: E-commerce
 
 - Improved engineering standards and platform adoption through DevXP initiatives with GitHub, CircleCI, and Argo CD.
@@ -146,7 +146,7 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 ### C&A Modas do Brasil II (Barueri, Brazil)
 
 **Role**: DevOps Specialist (Tech Lead)  
-**Dates**: 08/2019 - 09/2020  
+**Period**: 08/2019 - 09/2020  
 **Industry**: Retail
 
 - Modernized legacy environments toward containerized microservices with Docker, OpenShift, and Kubernetes.
