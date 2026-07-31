@@ -11,7 +11,7 @@
 
 ## Profile
 
-Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-native infrastructure. I design and operate Kubernetes platforms across AWS, GCP, and Azure, using Terraform, Crossplane, Argo CD, and Helm to make environments easier to provision, manage, and support. My recent work includes building developer self-service with Backstage and implementing observability platforms with OpenTelemetry, Prometheus, Grafana, Loki, Tempo, and Mimir. I am a hands-on technical lead who enjoys solving platform problems, setting engineering standards, and helping teams adopt better ways of working. I also hold the complete Kubernetes certification track—CKA, CKAD, CKS, KCNA, and KCSA—and have earned Kubestronaut status.
+Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-native infrastructure. I design and operate Kubernetes platforms across AWS, GCP, and Azure, using Terraform, Crossplane, Argo CD, and Helm to make environments easier to provision, manage, and support. My recent work includes building developer self-service with Backstage and implementing observability platforms with OpenTelemetry, Prometheus, Grafana, Loki, Tempo, and Mimir. I am a hands-on technical lead who enjoys solving platform problems, setting engineering standards, and helping teams adopt better ways of working. I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA) and have earned Kubestronaut status.
 
 ## Core Skills
 
