@@ -11,12 +11,16 @@
 
 ## Profile
 
-Senior DevOps, Platform, and SRE Engineer with 20+ years in IT and 10+ years leading cloud-native transformation across fintech, gaming, retail, e-commerce, and Web3. Kubestronaut holding the full Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA), with a proven track record designing and operating secure multi-cloud platforms (AWS, Azure, GCP) using Kubernetes, GitOps, and Infrastructure as Code (Terraform, Crossplane). Hands-on technical leader passionate about the CNCF landscape, focused on scalable developer platforms, production-grade observability, and automation-first operating models that improve delivery speed, reliability, and security.
+Senior Platform Engineer and hands-on technical leader with 20+ years in IT and 10+ years designing, automating, and operating cloud-native platforms across fintech, gaming, retail, e-commerce, and Web3. Deep expertise in production Kubernetes environments—including EKS, GKE, OpenShift, and self-managed clusters—with a strong track record building secure, scalable platforms using GitOps, Terraform, Crossplane, Argo CD, and Helm. Experienced in enabling developer self-service with Backstage, establishing production-grade observability with OpenTelemetry and the Grafana stack, and improving platform reliability, security, and delivery efficiency. Kubestronaut certified across the complete Kubernetes track (CKA, CKAD, CKS, KCNA, and KCSA), with extensive experience leading platform initiatives and mentoring engineering teams across AWS, Azure, and GCP.
 
 ## Core Skills
 
-- Platform engineering: Kubernetes platform operations (EKS/GKE/self-managed), internal developer platforms (Backstage), platform automation and reliability engineering.
-- Cloud-native stack: GitOps (Argo CD/Workflows), IaC (Terraform/Terragrunt/Crossplane), observability (Prometheus/Grafana/Loki/Tempo/Mimir/OpenTelemetry), security and CI/CD (Kyverno/Trivy/Vault/GitHub Actions/GitLab CI/CircleCI/Ansible).
+- **Kubernetes platforms:** Architecture, provisioning, upgrades, scaling, security, and operations across Amazon EKS, Google GKE, Azure AKS, OpenShift, and self-managed Kubernetes; workload optimization with Karpenter and KEDA.
+- **Platform engineering and developer experience:** Internal developer platforms, reusable platform blueprints, golden paths, and developer self-service using Backstage, Crossplane, Helm, and Kubernetes operators.
+- **GitOps and infrastructure automation:** Argo CD, Terraform, Terragrunt, Crossplane, Atlantis, Helm, Ansible, GitHub Actions, GitLab CI, and CircleCI.
+- **Observability and reliability:** OpenTelemetry, Prometheus, Grafana, Loki, Tempo, Mimir, Thanos, and Alertmanager for metrics, logs, traces, alerting, troubleshooting, and incident response.
+- **Cloud-native security and networking:** Istio, Cilium, Kyverno, Trivy, HashiCorp Vault, External Secrets, IAM, secrets management, policy enforcement, and secure service-to-service communication.
+- **Technical leadership:** Platform architecture, engineering standards, technical roadmaps, mentoring, cross-team collaboration, and adoption of cloud-native operating practices.
 
 ## Certifications and Badges
 
