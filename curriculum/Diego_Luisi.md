@@ -81,7 +81,7 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 </p>
 <!-- markdownlint-enable MD033 -->
 
-## Selected Training and Workshops
+<!-- ## Selected Training and Workshops
 
 - [AWS] Amazon EKS (40h)
 - [AWS] AWS Well-Architected Foundations
@@ -97,19 +97,20 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 - [codefresh] GitOps Fundamentals
 - [codefresh] GitOps at Scale
 - [DO180] Introduction to Containers, Kubernetes, and Red Hat OpenShift
-- [ITIL] v3 Foundation
+- [ITIL] v3 Foundation -->
 
 ## Professional Experience
 
 ### Hashgraph Group (Remote)
 
-**Platform Engineer (Tech Lead) / Core Engineering Manager**  
-**Dates:** 06/2024 - Present  
-**Industry:** Web3 / Blockchain
+**Core Engineering Manager / Platform Engineering Tech Lead** | Jun 2024 - Present | Web3 / Blockchain
 
-- Designed and implemented a multi-environment AWS platform (VPC, Transit Gateway, IAM, EKS, Route 53, CloudWatch) with centralized governance and secure connectivity through VPN integrations.
-- Standardized EKS and self-managed Kubernetes operations using Terraform, Crossplane, Helm, and Argo CD with reusable platform blueprints.
-- Implemented Backstage, GitHub Actions, Atlantis, Vault, and External Secrets, plus observability with Grafana, Loki, Tempo, Mimir, and OpenTelemetry.
+- Manage six engineers while remaining the hands-on technical lead, providing technical direction, mentoring the team, and leading interviews for engineering hires.
+- Own the platform roadmap and engineering standards, aligning infrastructure priorities with product and operational needs.
+- Designed and implemented a multi-environment AWS platform covering networking, IAM, EKS, DNS, monitoring, centralized governance, and secure connectivity through VPN integrations.
+- Standardized EKS and self-managed Kubernetes lifecycle management through reusable Terraform, Crossplane, Helm, and Argo CD blueprints, improving consistency across environments and reducing manual operations.
+- Introduced developer self-service and automated delivery workflows with Backstage, GitHub Actions, and Atlantis, supported by Vault and External Secrets for secrets management.
+- Established centralized metrics, logs, and distributed tracing with OpenTelemetry, Grafana, Mimir, Loki, and Tempo to improve platform visibility and incident investigation.
 
 ### Shield Financial Compliance (Lisbon, Portugal)
 
