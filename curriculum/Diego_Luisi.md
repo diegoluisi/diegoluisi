@@ -177,11 +177,11 @@ Senior DevOps, Platform, and SRE Engineer with 20+ years in IT and 10+ years lea
 
 ## Public Cloud
 
-| Language | Basic | Intermediate | Advanced |
-| -------- | ----- | ------------ | -------- |
-| AWS      |       |              | X        |
-| Azure    |       | X            |          |
-| GCP      |       | X            |          |
+| Provide | Basic | Intermediate | Advanced |
+| ------- | ----- | ------------ | -------- |
+| AWS     |       |              | X        |
+| Azure   |       | X            |          |
+| GCP     |       | X            |          |
 
 <!-- AWS:
 
