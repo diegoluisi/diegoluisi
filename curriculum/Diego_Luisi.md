@@ -103,7 +103,10 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### Hashgraph Group (Remote)
 
-**Core Engineering Manager / Platform Engineering Tech Lead** | Jun 2024 - Present | Web3 / Blockchain
+**Core Engineering Manager / Platform Engineering Tech Lead**
+
+Dates: Jun 2024 - Present 
+Industry: Web3 / Blockchain
 
 - Manage six engineers while remaining the hands-on technical lead, providing technical direction, mentoring the team, and leading interviews for engineering hires.
 - Own the platform roadmap and engineering standards, aligning infrastructure priorities with product and operational needs.
@@ -114,9 +117,7 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### Shield Financial Compliance (Lisbon, Portugal)
 
-**DevOps Engineer**  
-**Dates:** 04/2023 - 06/2024  
-**Industry:** Financial Compliance
+**Independent Contractor — DevOps Engineer** | Apr 2023 - Jun 2024 | Financial Compliance
 
 - Automated cloud infrastructure and developer workflows using Terraform, Terragrunt, Argo CD, Helm, Vault, and AWS services.
 - Implemented Kubernetes platform patterns in AWS and Azure with Istio service mesh, KEDA, and Karpenter for workload efficiency and scaling.
@@ -134,9 +135,7 @@ Platform Engineer with 20+ years in IT, including the last 10 focused on cloud-n
 
 ### Dafiti Group (GFG Group) II (Sao Paulo, Brazil)
 
-**Contractor - SRE / Platform Engineer (Tech Lead)**  
-**Dates:** 09/2020 - 07/2023  
-**Industry:** E-commerce
+**Part-Time Contractor — SRE / Platform Engineer (Tech Lead)** | Sep 2020 - Jul 2023 | E-commerce
 
 - Improved engineering standards and platform adoption through DevXP initiatives with GitHub, CircleCI, and Argo CD.
 - Standardized Kubernetes (EKS) infrastructure and delivery workflows using Terraform, Helm, and policy-aligned deployment patterns.
