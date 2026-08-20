@@ -8,7 +8,7 @@
 - LinkedIn: https://www.linkedin.com/in/diegoluisi
 - GitHub: [github.com/diegoluisi](https://github.com/diegoluisi) | [github.com/devxp-tech](https://github.com/devxp-tech)
 - YouTube: [youtube.com/@devxp-tech](https://www.youtube.com/@devxp-tech)
-- Location and work authorization: Based in Lisbon, Portugal · Eligible to work in Portugal/EU
+- Location: Lisbon, Portugal
 
 ## Profile
 
