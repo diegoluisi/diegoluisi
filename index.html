@@ -1,0 +1,49 @@
+---
+layout: default
+title: Diego Luisi — Lead Platform Engineer
+description: Lead Platform Engineer building reliable Kubernetes platforms, internal developer platforms, GitOps workflows, and cloud-native observability.
+---
+
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero__content">
+    <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Based in Lisbon · Available across Portugal/EU</p>
+    <h1 id="hero-title">I build platforms that let<br><span>engineers move with confidence.</span></h1>
+    <p class="hero__lede">Lead Platform Engineer with 20+ years in IT, turning complex cloud infrastructure into reliable Kubernetes platforms, paved roads, and developer self-service.</p>
+    <div class="hero__actions">
+      <a class="button button--primary" href="#professional-experience">Explore my experience <span aria-hidden="true">↓</span></a>
+      <button class="button button--secondary" type="button" data-print>Save as PDF</button>
+    </div>
+    <dl class="hero__stats" aria-label="Career highlights">
+      <div><dt>20+</dt><dd>Years in IT</dd></div>
+      <div><dt>10+</dt><dd>Years cloud-native</dd></div>
+      <div><dt>7</dt><dd>Engineers led</dd></div>
+      <div><dt>5/5</dt><dd>Kubernetes track</dd></div>
+    </dl>
+  </div>
+  <div class="hero__visual" aria-label="Portrait of Diego Luisi">
+    <div class="portrait-frame">
+      <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Diego Luisi" width="520" height="620">
+      <div class="portrait-card portrait-card--top"><span>Kubestronaut</span><strong>Cloud native, end to end</strong></div>
+      <div class="portrait-card portrait-card--bottom"><span>Current focus</span><strong>Platform engineering</strong></div>
+    </div>
+  </div>
+</section>
+
+<section class="toolbelt" aria-label="Core technology areas">
+  <p>Building with</p>
+  <ul>
+    <li>Kubernetes</li><li>AWS</li><li>Terraform</li><li>Crossplane</li><li>Argo CD</li><li>Backstage</li><li>OpenTelemetry</li>
+  </ul>
+</section>
+
+<section class="resume-section" aria-label="Curriculum vitae">
+  <div class="section-intro">
+    <p class="eyebrow">Career &amp; capabilities</p>
+    <h2>Deep infrastructure roots.<br>Modern platform thinking.</h2>
+    <p>From Linux and networking to multi-cloud Kubernetes and internal developer platforms, I work across the whole platform stack.</p>
+  </div>
+  <article class="resume-document">
+    {% capture curriculum %}{% include_relative curriculum/Diego_Luisi.md %}{% endcapture %}
+    {{ curriculum | markdownify }}
+  </article>
+</section>

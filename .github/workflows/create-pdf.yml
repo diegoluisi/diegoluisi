@@ -43,7 +43,6 @@ jobs:
               --from=gfm \
               --to=html5 \
               --standalone \
-              --metadata title="Diego Fernando Luisi - Curriculum Vitae" \
               --css="../../curriculum/pdf.css" \
               --output="${html_file}"
 
