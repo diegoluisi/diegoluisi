@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=diegoluisi.eti.br&style=for-the-badge&url=http%3A%2F%2Fwww.diegoluisi.eti.br)](http://www.diegoluisi.eti.br)
+[![Website](https://img.shields.io/website?label=diegoluisi.eti.br&style=for-the-badge&url=[http%3A%2F%2Fwww.diegoluisi.eti.br](https://diegoluisi.github.io/diegoluisi/))](https://diegoluisi.github.io/diegoluisi/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/diegoluisi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdiegoluisi&screen_name=devxp_tech)
 
 
