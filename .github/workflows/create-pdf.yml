@@ -34,7 +34,7 @@ jobs:
 
           mkdir -p build/pdf build/html
 
-          for source_file in curriculum/Diego_Luisi.md curriculum/Diego_Luisi_small.md; do
+          for source_file in curriculum/Diego_Luisi.md curriculum/Diego_Luisi_ATS.md; do
             document_name="$(basename "${source_file}" .md)"
             html_file="build/html/${document_name}.html"
             pdf_file="build/pdf/${document_name}.pdf"
