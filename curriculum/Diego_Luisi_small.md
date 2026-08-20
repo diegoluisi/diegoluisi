@@ -2,7 +2,7 @@
 
 ## Contact
 
-- Phone: +351910910296
+- Phone: +351 910910296
 - Email: diego.luisi@devxp-tech.io
 - Website: [diegoluisi.eti.br](https://diegoluisi.eti.br)
 - LinkedIn: https://www.linkedin.com/in/diegoluisi
@@ -26,7 +26,7 @@ Platform Engineering Team Lead with 20+ years in IT, including 10 years focused 
 
 ## Selected Certifications
 
-- Kubernetes Kubestronaut: Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD), Certified Kubernetes Security Specialist (CKS), Kubernetes and Cloud Native Associate (KCNA), and Kubernetes and Cloud Native Security Associate (KCSA)
+- Kubestronaut: Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD), Certified Kubernetes Security Specialist (CKS), Kubernetes and Cloud Native Associate (KCNA), and Kubernetes and Cloud Native Security Associate (KCSA)
 - HashiCorp Certified: Terraform Associate and Vault Associate
 - CNCF ecosystem: Backstage (CBA), Cilium (CCA), Kyverno (KCA), Prometheus (PCA), OpenTelemetry (OTCA), GitOps (CGOA), and Argo (CAPA)
 - Codefresh: GitOps Enterprise

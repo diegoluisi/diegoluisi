@@ -2,7 +2,7 @@
 
 ## Contact
 
-- Phone: +351910910296
+- Phone: +351 910910296
 - Email: diego.luisi@devxp-tech.io
 - Website: [diegoluisi.eti.br](https://diegoluisi.eti.br)
 - LinkedIn: https://www.linkedin.com/in/diegoluisi
