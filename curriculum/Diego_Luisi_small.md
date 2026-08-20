@@ -2,13 +2,13 @@
 
 ## Contact
 
-- Phone: +351 910 910 296
-- Email: <diego.luisi@devxp-tech.io>
+- Phone: +351910910296
+- Email: diego.luisi@devxp-tech.io
 - Website: [diegoluisi.eti.br](https://diegoluisi.eti.br)
-- LinkedIn: [linkedin.com/in/diegoluisi](https://www.linkedin.com/in/diegoluisi)
+- LinkedIn: https://www.linkedin.com/in/diegoluisi
 - GitHub: [github.com/diegoluisi](https://github.com/diegoluisi) | [github.com/devxp-tech](https://github.com/devxp-tech)
 - YouTube: [youtube.com/@devxp-tech](https://www.youtube.com/@devxp-tech)
-- Location: Lisbon, Portugal
+- Location and work authorization: Based in Lisbon, Portugal · Eligible to work in Portugal/EU
 
 ## Profile
 
@@ -26,9 +26,9 @@ Platform Engineering Team Lead with 20+ years in IT, including 10 years focused 
 
 ## Selected Certifications
 
-- Kubestronaut: CKA, CKAD, CKS, KCNA, and KCSA
+- Kubernetes Kubestronaut: Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD), Certified Kubernetes Security Specialist (CKS), Kubernetes and Cloud Native Associate (KCNA), and Kubernetes and Cloud Native Security Associate (KCSA)
 - HashiCorp Certified: Terraform Associate and Vault Associate
-- CNCF ecosystem: CBA, CCA, KCA, PCA, OTCA, CGOA, and CAPA
+- CNCF ecosystem: Backstage (CBA), Cilium (CCA), Kyverno (KCA), Prometheus (PCA), OpenTelemetry (OTCA), GitOps (CGOA), and Argo (CAPA)
 - Codefresh: GitOps Enterprise
 - ITIL v3 Foundation
 

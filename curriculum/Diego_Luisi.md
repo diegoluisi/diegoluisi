@@ -2,13 +2,13 @@
 
 ## Contact
 
-- Phone: +351 910 910 296
-- Email: <diego.luisi@devxp-tech.io>
+- Phone: +351910910296
+- Email: diego.luisi@devxp-tech.io
 - Website: [diegoluisi.eti.br](https://diegoluisi.eti.br)
-- LinkedIn: [linkedin.com/in/diegoluisi](https://www.linkedin.com/in/diegoluisi)
+- LinkedIn: https://www.linkedin.com/in/diegoluisi
 - GitHub: [github.com/diegoluisi](https://github.com/diegoluisi) | [github.com/devxp-tech](https://github.com/devxp-tech)
 - YouTube: [youtube.com/@devxp-tech](https://www.youtube.com/@devxp-tech)
-- Location: Lisbon, Portugal
+- Location and work authorization: Based in Lisbon, Portugal · Eligible to work in Portugal/EU
 
 ## Profile
 
