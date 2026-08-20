@@ -12,7 +12,7 @@
 
 ## Profile
 
-Platform Engineering Team Lead with 20+ years in IT, including 10 years focused on cloud-native infrastructure, DevOps, and Site Reliability Engineering (SRE). I design and operate internal developer platforms (IDPs) and Kubernetes environments across AWS, GCP, Azure, and on-premises infrastructure. My work combines Infrastructure as Code (IaC), GitOps, CI/CD, developer self-service, observability, security, incident response, and platform reliability. I remain hands-on from Linux operating systems and networking through Kubernetes and developer platforms, while setting engineering standards, leading technical roadmaps, and mentoring teams. I hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA) and have earned Kubestronaut status.
+Lead Platform Engineer with 20+ years in IT, including 10 years focused on cloud-native infrastructure, DevOps, and Site Reliability Engineering (SRE). I design and operate internal developer platforms (IDPs) and Kubernetes environments across AWS, GCP, Azure, and on-premises infrastructure. My work combines Infrastructure as Code (IaC), GitOps, CI/CD, developer self-service, observability, security, incident response, and platform reliability. I remain hands-on from Linux operating systems and networking through Kubernetes and developer platforms, while setting engineering standards, leading technical roadmaps, and mentoring teams. I hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA) and have earned Kubestronaut status.
 
 ## Core Skills
 
@@ -105,16 +105,16 @@ Platform Engineering Team Lead with 20+ years in IT, including 10 years focused 
 
 ### Hashgraph Group (Remote)
 
-**Role:** Platform Engineering (Team Lead)<br>
+**Role:** Lead Platform Engineer<br>
 **Period:** Jun 2024 - Present<br>
 **Industry:** Web3 / Blockchain
 
 - Manage seven engineers while remaining the hands-on technical lead, providing technical direction, mentoring the team, and leading interviews for engineering hires.
 - Own the platform roadmap and engineering standards, aligning infrastructure priorities with product and operational needs.
-- Designed and implemented a hybrid, multi-environment platform spanning AWS and on-premises infrastructure, covering networking, IAM, EKS, DNS, monitoring, centralized governance, and secure VPN connectivity.
+- Designed and implemented a hybrid, multi-environment platform spanning AWS and on-premises infrastructure, including Amazon EKS, EC2, VPC, Route 53, IAM, KMS, RDS, S3, ECR, CloudWatch, centralized governance, and secure VPN connectivity.
 - Standardized EKS and self-managed Kubernetes lifecycle management through reusable Terraform, Crossplane, Helm, and Argo CD blueprints, improving consistency and reducing manual operations.
 - Introduced developer self-service and automated delivery with Backstage, GitHub Actions, and Atlantis, supported by Vault and External Secrets.
-- Established centralized metrics, logs, and tracing with OpenTelemetry, Grafana, Mimir, Loki, and Tempo to improve platform visibility and incident investigation.
+- Established centralized metrics, logs, and distributed tracing with OpenTelemetry, Grafana, Mimir, Loki, and Tempo, strengthening incident detection, root-cause analysis, and platform reliability.
 
 ### Shield Financial Compliance (Lisbon, Portugal)
 
@@ -122,9 +122,9 @@ Platform Engineering Team Lead with 20+ years in IT, including 10 years focused 
 **Period:** Apr 2023 - Jun 2024<br>
 **Industry:** Financial Compliance
 
-- Automated infrastructure and developer workflows across AWS, Azure, and on-premises environments using Terraform, Terragrunt, Argo CD, Helm, and Vault.
-- Implemented Kubernetes platform patterns across cloud and on-premises environments, using Istio, KEDA, and Karpenter for traffic management, workload efficiency, and scaling.
-- Improved observability and incident response with Prometheus, Grafana, Loki, and OpenTelemetry while strengthening CI/CD reliability.
+- Automated infrastructure and developer workflows across AWS, Azure, and on-premises environments using Terraform, Terragrunt, Argo CD, Helm, and Vault, including Azure AKS, Microsoft Entra ID (Azure AD), Azure Monitor, and Key Vault.
+- Implemented Kubernetes platform patterns across cloud and on-premises environments using Istio, KEDA, and Karpenter to support traffic resilience, workload efficiency, capacity scaling, and service availability.
+- Improved monitoring, alerting, incident response, and root-cause analysis with Prometheus, Grafana, Loki, OpenTelemetry, and Azure Monitor while strengthening CI/CD reliability.
 
 ### Evolution Gaming (Lisbon, Portugal)
 
@@ -132,9 +132,9 @@ Platform Engineering Team Lead with 20+ years in IT, including 10 years focused 
 **Period:** Apr 2022 - Apr 2023<br>
 **Industry:** Gaming
 
-- Led technical direction for SRE practices across GCP and GKE environments, improving platform reliability and scalability.
+- Led technical direction for SRE practices across GCP environments using Google Kubernetes Engine (GKE), Cloud IAM, VPC, Cloud SQL, and Cloud Monitoring, improving platform reliability and scalability.
 - Automated cluster and environment bootstrap with Crossplane, Argo CD, and Helm, creating a repeatable approach to provisioning and lifecycle management.
-- Defined observability patterns with Thanos, Prometheus, Grafana, and Loki, and supported Backstage adoption to standardize developer workflows.
+- Defined metrics, logging, alerting, and incident-investigation patterns with Cloud Monitoring, Thanos, Prometheus, Grafana, and Loki, and supported Backstage adoption to standardize developer workflows.
 
 ### Dafiti Group (GFG Group) II (São Paulo, Brazil)
 
@@ -144,7 +144,7 @@ Platform Engineering Team Lead with 20+ years in IT, including 10 years focused 
 
 - Served as technical lead for the DevXP initiative, guiding platform standards and cloud-native practices across product teams.
 - Standardized EKS infrastructure and GitOps delivery using Terraform, Helm, Argo CD, GitHub, and CircleCI.
-- Expanded shared observability with Prometheus, Grafana, Loki, and Alertmanager while mentoring engineers in Kubernetes and platform practices.
+- Expanded shared metrics, logging, and alerting with Prometheus, Grafana, Loki, and Alertmanager to strengthen incident detection and troubleshooting while mentoring engineers in Kubernetes and platform practices.
 
 ### C&A Modas do Brasil II (Barueri, Brazil)
 

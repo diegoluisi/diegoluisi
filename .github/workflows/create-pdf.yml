@@ -1,12 +1,69 @@
-name: Build LaTeX document
-on: [push]
+name: Build curriculum PDFs
+
+on:
+  push:
+    paths:
+      - "curriculum/**"
+  pull_request:
+    paths:
+      - "curriculum/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
 jobs:
-  build_latex:
+  build-pdfs:
+    name: Generate PDF artifact
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
-      - name: Set up Git repository
-        uses: actions/checkout@v2
-      - name: Compile LaTeX document
-        uses: xu-cheng/latex-action@v2
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install document converter
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes pandoc
+
+      - name: Generate PDFs
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p build/pdf build/html
+
+          for source_file in curriculum/Diego_Luisi.md curriculum/Diego_Luisi_small.md; do
+            document_name="$(basename "${source_file}" .md)"
+            html_file="build/html/${document_name}.html"
+            pdf_file="build/pdf/${document_name}.pdf"
+
+            pandoc "${source_file}" \
+              --from=gfm \
+              --to=html5 \
+              --standalone \
+              --metadata title="Diego Fernando Luisi - Curriculum Vitae" \
+              --css="../../curriculum/pdf.css" \
+              --output="${html_file}"
+
+            google-chrome \
+              --headless \
+              --no-sandbox \
+              --disable-gpu \
+              --allow-file-access-from-files \
+              --no-pdf-header-footer \
+              --virtual-time-budget=10000 \
+              --print-to-pdf="${pdf_file}" \
+              "file://${GITHUB_WORKSPACE}/${html_file}"
+
+            test -s "${pdf_file}"
+          done
+
+      - name: Upload curriculum PDFs
+        uses: actions/upload-artifact@v4
         with:
-          root_file: curriculum/Diego_Luisi_BR.md
+          name: diego-luisi-curriculum-pdfs
+          path: build/pdf/*.pdf
+          if-no-files-found: error
+          retention-days: 30
