@@ -100,9 +100,9 @@ main { overflow: hidden; }
 .hero__stats dt { font-size: 1.55rem; font-weight: 900; letter-spacing: -.04em; }
 .hero__stats dd { color: var(--muted); font-size: .68rem; margin: 0; text-transform: uppercase; }
 .hero__visual { width: 100%; }
-.portrait-frame { background: var(--surface-alt); border: 1px solid var(--line); border-radius: 180px 180px var(--radius) var(--radius); box-shadow: var(--shadow); margin: 0 auto; max-width: 430px; min-height: 540px; overflow: visible; position: relative; }
+.portrait-frame { background: var(--surface-alt); border: 1px solid var(--line); border-radius: 180px 180px var(--radius) var(--radius); box-shadow: var(--shadow); margin: 0 auto; max-width: 400px; min-height: 600px; overflow: visible; position: relative; }
 .portrait-frame::after { border: 1px solid var(--accent); border-radius: inherit; content: ""; inset: 14px -14px -14px 14px; opacity: .45; pointer-events: none; position: absolute; z-index: -1; }
-.portrait-frame > img { border-radius: inherit; display: block; height: 540px; object-fit: cover; object-position: center top; width: 100%; }
+.portrait-frame > img { border-radius: inherit; display: block; height: 600px; object-fit: cover; object-position: center; width: 100%; }
 .portrait-card { backdrop-filter: blur(12px); background: color-mix(in srgb, var(--surface) 88%, transparent); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: .8rem 1rem; position: absolute; }
 .portrait-card span, .portrait-card strong { display: block; }
 .portrait-card span { color: var(--muted); font-size: .62rem; letter-spacing: .1em; text-transform: uppercase; }
@@ -150,7 +150,7 @@ main { overflow: hidden; }
   .site-nav { display: none; }
   .hero { grid-template-columns: 1fr; }
   .hero__visual { grid-row: 1; max-width: 380px; }
-  .portrait-frame, .portrait-frame > img { min-height: 430px; height: 430px; }
+  .portrait-frame, .portrait-frame > img { min-height: 510px; height: 510px; }
   .section-intro { grid-template-columns: 1fr; }
   .section-intro .eyebrow { grid-column: auto; }
 }

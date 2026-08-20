@@ -4,7 +4,7 @@
 
 - Phone: +351 910910296
 - Email: diego.luisi@devxp-tech.io
-- Website: [diegoluisi.eti.br](https://diegoluisi.eti.br)
+- Website: [diegoluisi.github.io/diegoluisi](https://diegoluisi.github.io/diegoluisi/)
 - LinkedIn: https://www.linkedin.com/in/diegoluisi
 - GitHub: [github.com/diegoluisi](https://github.com/diegoluisi) | [github.com/devxp-tech](https://github.com/devxp-tech)
 - YouTube: [youtube.com/@devxp-tech](https://www.youtube.com/@devxp-tech)
