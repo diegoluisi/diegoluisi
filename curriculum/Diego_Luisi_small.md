@@ -3,35 +3,44 @@
 ## Contact
 
 - Phone: +351 910 910 296
-- Email: <contato@diegoluisi.eti.br>
+- Email: <diego.luisi@devxp-tech.io>
 - Website: [diegoluisi.eti.br](https://diegoluisi.eti.br)
 - LinkedIn: [linkedin.com/in/diegoluisi](https://www.linkedin.com/in/diegoluisi)
-- GitHub: [github.com/diegoluisi](https://github.com/diegoluisi)
+- GitHub: [github.com/diegoluisi](https://github.com/diegoluisi) | [github.com/devxp-tech](https://github.com/devxp-tech)
+- YouTube: [youtube.com/@devxp-tech](https://www.youtube.com/@devxp-tech)
 - Location: Lisbon, Portugal
 
 ## Profile
 
-Platform Engineer with 20+ years in IT, built on a strong background in Linux systems administration and the last 10 years focused on cloud-native infrastructure. I design and operate Kubernetes platforms across AWS, GCP, and Azure, using Terraform, Crossplane, Argo CD, and Helm to make environments easier to provision, manage, and support. My recent work includes building developer self-service with Backstage and implementing observability platforms with OpenTelemetry, Prometheus, Grafana, Loki, Tempo, and Mimir. I am a hands-on technical lead who is comfortable working from the Linux operating system and network layers through to Kubernetes and the developer platform. I also set engineering standards, mentor teams, and hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA) with Kubestronaut status.
+Platform Engineering Team Lead with 20+ years in IT, including 10 years focused on cloud-native infrastructure, DevOps, and Site Reliability Engineering (SRE). I design and operate internal developer platforms (IDPs) and Kubernetes environments across AWS, GCP, Azure, and on-premises infrastructure. My work combines Infrastructure as Code (IaC), GitOps, CI/CD, developer self-service, observability, security, incident response, and platform reliability. I remain hands-on from Linux operating systems and networking through Kubernetes and developer platforms, while setting engineering standards, leading technical roadmaps, and mentoring teams. I hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA) and have earned Kubestronaut status.
 
 ## Core Skills
 
 - **Linux systems engineering:** 20+ years administering and troubleshooting production Linux environments, including server provisioning, shell automation, networking, access control, monitoring, virtualization, and operational support.
 - **Kubernetes platforms:** Architecture, provisioning, upgrades, scaling, security, and operations across Amazon EKS, Google GKE, Azure AKS, OpenShift, and self-managed Kubernetes; workload optimization with Karpenter and KEDA.
-- **Platform engineering and developer experience:** Internal developer platforms, reusable platform blueprints, golden paths, and developer self-service using Backstage, Crossplane, Helm, and Kubernetes operators.
-- **GitOps and infrastructure automation:** Argo CD, Terraform, Terragrunt, Crossplane, Atlantis, Helm, Ansible, GitHub Actions, GitLab CI, and CircleCI.
-- **Observability and reliability:** OpenTelemetry, Prometheus, Grafana, Loki, Tempo, Mimir, Thanos, and Alertmanager for metrics, logs, traces, alerting, troubleshooting, and incident response.
+- **Platform engineering and developer experience:** Internal developer platforms (IDPs), reusable platform blueprints, golden paths, platform-as-a-product practices, and developer self-service using Backstage, Crossplane, Helm, and Kubernetes operators.
+- **GitOps, CI/CD, and infrastructure automation:** Infrastructure as Code (IaC), Argo CD, Terraform, Terragrunt, Crossplane, Atlantis, Helm, Ansible, GitHub Actions, GitLab CI, and CircleCI.
+- **Observability and reliability:** OpenTelemetry, Prometheus, Grafana, Loki, Tempo, Mimir, Thanos, and Alertmanager for metrics, logs, distributed tracing, alerting, troubleshooting, incident response, and root-cause analysis.
 - **Cloud-native security and networking:** Istio, Cilium, Kyverno, Trivy, HashiCorp Vault, External Secrets, IAM, secrets management, policy enforcement, and secure service-to-service communication.
 - **Technical leadership:** Platform architecture, engineering standards, technical roadmaps, people management, mentoring, technical interviews, and cross-team collaboration.
+
+## Selected Certifications
+
+- Kubestronaut: CKA, CKAD, CKS, KCNA, and KCSA
+- HashiCorp Certified: Terraform Associate and Vault Associate
+- CNCF ecosystem: CBA, CCA, KCA, PCA, OTCA, CGOA, and CAPA
+- Codefresh: GitOps Enterprise
+- ITIL v3 Foundation
 
 ## Professional Experience
 
 ### Hashgraph Group (Remote)
 
-**Role:** Core Engineering Manager / Platform Engineering Tech Lead<br>
+**Role:** Platform Engineering (Team Lead)<br>
 **Period:** Jun 2024 - Present<br>
 **Industry:** Web3 / Blockchain
 
-- Manage six engineers while remaining the hands-on technical lead, providing technical direction, mentoring the team, and leading interviews for engineering hires.
+- Manage seven engineers while remaining the hands-on technical lead, providing technical direction, mentoring the team, and leading interviews for engineering hires.
 - Own the platform roadmap and engineering standards, aligning infrastructure priorities with product and operational needs.
 - Designed and implemented a hybrid, multi-environment platform spanning AWS and on-premises infrastructure, covering networking, IAM, EKS, DNS, monitoring, centralized governance, and secure VPN connectivity.
 - Standardized EKS and self-managed Kubernetes lifecycle management through reusable Terraform, Crossplane, Helm, and Argo CD blueprints, improving consistency and reducing manual operations.
@@ -58,7 +67,7 @@ Platform Engineer with 20+ years in IT, built on a strong background in Linux sy
 - Automated cluster and environment bootstrap with Crossplane, Argo CD, and Helm, creating a repeatable approach to provisioning and lifecycle management.
 - Defined observability patterns with Thanos, Prometheus, Grafana, and Loki, and supported Backstage adoption to standardize developer workflows.
 
-### Dafiti Group (GFG Group) II (Sao Paulo, Brazil)
+### Dafiti Group (GFG Group) II (São Paulo, Brazil)
 
 **Role:** SRE / Platform Engineer (Part-Time Contractor)<br>
 **Period:** Sep 2020 - Jul 2023<br>
@@ -78,7 +87,7 @@ Platform Engineer with 20+ years in IT, built on a strong background in Linux sy
 - Automated delivery with GitLab CI, Puppet, Terraform, and Vagrant, reducing manual effort and improving consistency.
 - Improved centralized logging and operational visibility with Elasticsearch, Logstash, and Kibana.
 
-### Dafiti Group (GFG Group) I (Sao Paulo, Brazil)
+### Dafiti Group (GFG Group) I (São Paulo, Brazil)
 
 **Role:** Senior / Specialist DevOps Engineer (Tech Lead)<br>
 **Period:** Oct 2017 - Aug 2019<br>
@@ -100,21 +109,11 @@ Platform Engineer with 20+ years in IT, built on a strong background in Linux sy
 
 ### Earlier Experience
 
-| Company                                      | Role                                                 | Period      | Industry                      |
-| -------------------------------------------- | ---------------------------------------------------- | ----------- | ----------------------------- |
-| e-Deploy Integrated Technology and Solutions | Senior SysAdmin / Monitoring Specialist (Contractor) | 2013 - 2014 | IT Services                   |
-| Grupo Logos                                  | Senior SysAdmin                                      | 2012 - 2013 | Logistics and Transport       |
-| FETAESP                                      | SysAdmin                                             | 2010 - 2011 | Nonprofit / Trade Association |
-| Santa Alice Group                            | SysAdmin (Contractor)                                | 2006 - 2008 | Education                     |
-| e-Future Informatic                          | Owner                                                | 2002 - 2008 | IT Services                   |
-
-## Selected Certifications
-
-- Kubestronaut: CKA, CKAD, CKS, KCNA, and KCSA
-- HashiCorp Certified: Terraform Associate and Vault Associate
-- CNCF ecosystem: CBA, CCA, KCA, PCA, OTCA, CGOA, and CAPA
-- Codefresh: GitOps Enterprise
-- ITIL v3 Foundation
+- **e-Deploy Integrated Technology and Solutions — Senior SysAdmin / Monitoring Specialist (Contractor), 2013-2014:** Monitored AIX, Linux, and VMware environments with Zabbix, Nagios, and Grafana.
+- **Grupo Logos — Senior SysAdmin, 2012-2013:** Managed and automated Linux infrastructure with Puppet, MCollective, Zabbix, VMware, and MySQL.
+- **FETAESP — SysAdmin, 2010-2011:** Maintained Windows Server, Active Directory, Hyper-V, proxy, and network infrastructure.
+- **Santa Alice Group — SysAdmin (Contractor), 2006-2008:** Maintained Linux and Microsoft servers, firewalls, Active Directory, and proxy services.
+- **e-Future Informatic — Owner, 2002-2008:** Delivered Linux and Windows server administration, network design, installation, support, and maintenance services.
 
 ## Additional Skills
 

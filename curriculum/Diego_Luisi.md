@@ -2,6 +2,7 @@
 
 ## Contact
 
+- Phone: +351 910 910 296
 - Email: <diego.luisi@devxp-tech.io>
 - Website: [diegoluisi.eti.br](https://diegoluisi.eti.br)
 - LinkedIn: [linkedin.com/in/diegoluisi](https://www.linkedin.com/in/diegoluisi)
@@ -11,21 +12,17 @@
 
 ## Profile
 
-Platform Engineer with 20+ years in IT, built on a strong background in Linux systems administration and the last 10 years focused on cloud-native infrastructure.
-I design and operate Kubernetes platforms across AWS, GCP, and Azure, using Terraform, Crossplane, Argo CD, and Helm to make environments easier to provision, manage, and support.
-My recent work includes building developer self-service with Backstage and implementing observability platforms with OpenTelemetry, Prometheus, Grafana, Loki, Tempo, and Mimir.
-I am a hands-on technical lead who is comfortable working from the Linux operating system and network layers through to Kubernetes and the developer platform.
-I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA) and have earned Kubestronaut status.
+Platform Engineering Team Lead with 20+ years in IT, including 10 years focused on cloud-native infrastructure, DevOps, and Site Reliability Engineering (SRE). I design and operate internal developer platforms (IDPs) and Kubernetes environments across AWS, GCP, Azure, and on-premises infrastructure. My work combines Infrastructure as Code (IaC), GitOps, CI/CD, developer self-service, observability, security, incident response, and platform reliability. I remain hands-on from Linux operating systems and networking through Kubernetes and developer platforms, while setting engineering standards, leading technical roadmaps, and mentoring teams. I hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, and KCSA) and have earned Kubestronaut status.
 
 ## Core Skills
 
 - **Linux systems engineering:** 20+ years administering and troubleshooting production Linux environments, including server provisioning, shell automation, networking, access control, monitoring, virtualization, and operational support.
 - **Kubernetes platforms:** Architecture, provisioning, upgrades, scaling, security, and operations across Amazon EKS, Google GKE, Azure AKS, OpenShift, and self-managed Kubernetes; workload optimization with Karpenter and KEDA.
-- **Platform engineering and developer experience:** Internal developer platforms, reusable platform blueprints, golden paths, and developer self-service using Backstage, Crossplane, Helm, and Kubernetes operators.
-- **GitOps and infrastructure automation:** Argo CD, Terraform, Terragrunt, Crossplane, Atlantis, Helm, Ansible, GitHub Actions, GitLab CI, and CircleCI.
-- **Observability and reliability:** OpenTelemetry, Prometheus, Grafana, Loki, Tempo, Mimir, Thanos, and Alertmanager for metrics, logs, traces, alerting, troubleshooting, and incident response.
+- **Platform engineering and developer experience:** Internal developer platforms (IDPs), reusable platform blueprints, golden paths, platform-as-a-product practices, and developer self-service using Backstage, Crossplane, Helm, and Kubernetes operators.
+- **GitOps, CI/CD, and infrastructure automation:** Infrastructure as Code (IaC), Argo CD, Terraform, Terragrunt, Crossplane, Atlantis, Helm, Ansible, GitHub Actions, GitLab CI, and CircleCI.
+- **Observability and reliability:** OpenTelemetry, Prometheus, Grafana, Loki, Tempo, Mimir, Thanos, and Alertmanager for metrics, logs, distributed tracing, alerting, troubleshooting, incident response, and root-cause analysis.
 - **Cloud-native security and networking:** Istio, Cilium, Kyverno, Trivy, HashiCorp Vault, External Secrets, IAM, secrets management, policy enforcement, and secure service-to-service communication.
-- **Technical leadership:** Platform architecture, engineering standards, technical roadmaps, mentoring, cross-team collaboration, and adoption of cloud-native operating practices.
+- **Technical leadership:** Platform architecture, engineering standards, technical roadmaps, people management, mentoring, technical interviews, and cross-team collaboration.
 
 ## Certifications and Badges
 
@@ -94,8 +91,8 @@ I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, a
 - [LFS162x] Introduction to DevOps and Site Reliability Engineering
 - [LFS169] Introduction to GitOps
 - [Akuity] Introduction to Continuous Delivery and GitOps using Argo CD
-- [DataDog] Monitoring the Kubernetes Platform
-- [DataDog] Progressive Delivery in Kubernetes
+- [Datadog] Monitoring the Kubernetes Platform
+- [Datadog] Progressive Delivery in Kubernetes
 - [solo.io] Fundamentals for eBPF
 - [solo.io] Fundamentals for Cilium
 - [solo.io] Deploy Istio for Production (Essentials)
@@ -108,16 +105,16 @@ I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, a
 
 ### Hashgraph Group (Remote)
 
-**Role:** Core Engineering Manager / Platform Engineering (Tech Lead)<br>
+**Role:** Platform Engineering (Team Lead)<br>
 **Period:** Jun 2024 - Present<br>
 **Industry:** Web3 / Blockchain
 
 - Manage seven engineers while remaining the hands-on technical lead, providing technical direction, mentoring the team, and leading interviews for engineering hires.
 - Own the platform roadmap and engineering standards, aligning infrastructure priorities with product and operational needs.
-- Designed and implemented a hybrid, multi-environment platform spanning AWS and on-premises infrastructure, covering networking, IAM, EKS, DNS, monitoring, centralized governance, and secure connectivity through VPN integrations.
-- Standardized EKS and self-managed Kubernetes lifecycle management through reusable Terraform, Crossplane, Helm, and Argo CD blueprints, improving consistency across environments and reducing manual operations.
-- Introduced developer self-service and automated delivery workflows with Backstage, GitHub Actions, and Atlantis, supported by Vault and External Secrets for secrets management.
-- Established centralized metrics, logs, and distributed tracing with OpenTelemetry, Grafana, Mimir, Loki, and Tempo to improve platform visibility and incident investigation.
+- Designed and implemented a hybrid, multi-environment platform spanning AWS and on-premises infrastructure, covering networking, IAM, EKS, DNS, monitoring, centralized governance, and secure VPN connectivity.
+- Standardized EKS and self-managed Kubernetes lifecycle management through reusable Terraform, Crossplane, Helm, and Argo CD blueprints, improving consistency and reducing manual operations.
+- Introduced developer self-service and automated delivery with Backstage, GitHub Actions, and Atlantis, supported by Vault and External Secrets.
+- Established centralized metrics, logs, and tracing with OpenTelemetry, Grafana, Mimir, Loki, and Tempo to improve platform visibility and incident investigation.
 
 ### Shield Financial Compliance (Lisbon, Portugal)
 
@@ -127,7 +124,7 @@ I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, a
 
 - Automated infrastructure and developer workflows across AWS, Azure, and on-premises environments using Terraform, Terragrunt, Argo CD, Helm, and Vault.
 - Implemented Kubernetes platform patterns across cloud and on-premises environments, using Istio, KEDA, and Karpenter for traffic management, workload efficiency, and scaling.
-- Improved observability and incident response with Prometheus, Grafana, Loki, while increasing CI/CD reliability.
+- Improved observability and incident response with Prometheus, Grafana, Loki, and OpenTelemetry while strengthening CI/CD reliability.
 
 ### Evolution Gaming (Lisbon, Portugal)
 
@@ -135,39 +132,39 @@ I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, a
 **Period:** Apr 2022 - Apr 2023<br>
 **Industry:** Gaming
 
-- Improved reliability and scalability for GCP-based environments (GKE, IAM, networking, and managed services).
-- Automated environment bootstrap and lifecycle management with Argo CD, Crossplane, and Helm.
-- Implemented observability standards with Thanos, Prometheus, Grafana, Loki, and supported Backstage adoption to strengthen developer workflows.
+- Led technical direction for SRE practices across GCP and GKE environments, improving platform reliability and scalability.
+- Automated cluster and environment bootstrap with Crossplane, Argo CD, and Helm, creating a repeatable approach to provisioning and lifecycle management.
+- Defined observability patterns with Thanos, Prometheus, Grafana, and Loki, and supported Backstage adoption to standardize developer workflows.
 
-### Dafiti Group (GFG Group) II (Sao Paulo, Brazil)
+### Dafiti Group (GFG Group) II (São Paulo, Brazil)
 
 **Role:** SRE / Platform Engineer (Part-Time Contractor)<br>
 **Period:** Sep 2020 - Jul 2023<br>
 **Industry:** E-commerce
 
-- Improved engineering standards and platform adoption through DevXP initiatives with GitHub, CircleCI, and Argo CD.
-- Standardized Kubernetes (EKS) infrastructure and delivery workflows using Terraform, Helm, and policy-aligned deployment patterns.
-- Expanded observability with Prometheus, Grafana, Loki, and Alertmanager to improve troubleshooting and delivery quality.
+- Served as technical lead for the DevXP initiative, guiding platform standards and cloud-native practices across product teams.
+- Standardized EKS infrastructure and GitOps delivery using Terraform, Helm, Argo CD, GitHub, and CircleCI.
+- Expanded shared observability with Prometheus, Grafana, Loki, and Alertmanager while mentoring engineers in Kubernetes and platform practices.
 
 ### C&A Modas do Brasil II (Barueri, Brazil)
 
-**Role:** DevOps Specialist/Tech Lead (Independent Contractor)<br>
+**Role:** DevOps Specialist (Tech Lead)<br>
 **Period:** Aug 2019 - Sep 2020<br>
 **Industry:** Retail
 
 - Modernized legacy environments toward containerized microservices with Docker, OpenShift, and Kubernetes.
-- Automated delivery workflows using GitLab CI, Puppet, Terraform, and Vagrant, reducing manual deployment effort and improving consistency.
-- Improved logging and monitoring foundations with Elasticsearch, Logstash, and Kibana (ELK) to increase operational visibility.
+- Automated delivery with GitLab CI, Puppet, Terraform, and Vagrant, reducing manual effort and improving consistency.
+- Improved centralized logging and operational visibility with Elasticsearch, Logstash, and Kibana.
 
-### Dafiti Group (GFG Group) I (Sao Paulo, Brazil)
+### Dafiti Group (GFG Group) I (São Paulo, Brazil)
 
 **Role:** Senior / Specialist DevOps Engineer (Tech Lead)<br>
 **Period:** Oct 2017 - Aug 2019<br>
 **Industry:** E-commerce / Retail
 
-- Improved stability and scalability of Kubernetes-centric environments across product teams.
-- Automated infrastructure and operations using Terraform, Puppet, and Rundeck to reduce manual work and speed up delivery.
-- Enhanced observability with ELK, CloudWatch, Grafana, and Zabbix to improve incident detection and operational visibility.
+- Improved the stability and scalability of Kubernetes environments across product teams.
+- Automated infrastructure and operations with Terraform, Puppet, and Rundeck to reduce manual work.
+- Enhanced incident detection and operational visibility with ELK, CloudWatch, Grafana, and Zabbix.
 
 ### C&A Modas do Brasil I (Barueri, Brazil)
 
@@ -176,70 +173,25 @@ I also hold the complete Kubernetes certification track (CKA, CKAD, CKS, KCNA, a
 **Industry:** Retail
 
 - Managed, troubleshot, and automated operations for approximately 900 servers across AIX, Linux (SUSE), and VMware.
-- Introduced DevOps practices and tooling including Puppet, Rundeck, Jenkins, GitLab CI, and Salt for configuration and deployment automation.
-- Increased infrastructure governance and operational consistency with Device42, Centrify, and SUSE Manager.
+- Introduced Puppet, Rundeck, Jenkins, GitLab CI, and Salt for configuration and deployment automation.
+- Improved infrastructure governance and consistency with Device42, Centrify, and SUSE Manager.
 
 ### Earlier Experience
 
-| Company                                      | Role                                                 | Period      | Industry                      | Contribution                                                                                           |
-| -------------------------------------------- | ---------------------------------------------------- | ----------- | ----------------------------- | ------------------------------------------------------------------------------------------------------ |
-| e-Deploy Integrated Technology and Solutions | Senior SysAdmin / Monitoring Specialist (Contractor) | 2013 - 2014 | IT Services                   | Monitored AIX, Linux, and VMware environments with Zabbix, Nagios, and Grafana.                         |
-| Grupo Logos                                  | Senior SysAdmin                                      | 2012 - 2013 | IT Services                   | Managed and automated Linux infrastructure with Puppet, MCollective, Zabbix, VMware, and MySQL.        |
-| FETAESP                                      | SysAdmin                                             | 2010 - 2011 | Nonprofit / Trade Association | Maintained infrastructure with Windows Server, Active Directory, Hyper-V, Squid, SquidGuard, and SARG. |
-| Santa Alice Group                            | SysAdmin (Contractor)                                | 2006 - 2008 | Education                     | Maintained Linux and Microsoft servers, firewalls, Active Directory, and proxy services.               |
-| e-Future Informatic                          | Owner                                                | 2002 - 2008 | IT Services                   | Delivered Linux and Windows server, network design, installation, support, and maintenance services.  |
+- **e-Deploy Integrated Technology and Solutions — Senior SysAdmin / Monitoring Specialist (Contractor), 2013-2014:** Monitored AIX, Linux, and VMware environments with Zabbix, Nagios, and Grafana.
+- **Grupo Logos — Senior SysAdmin, 2012-2013:** Managed and automated Linux infrastructure with Puppet, MCollective, Zabbix, VMware, and MySQL.
+- **FETAESP — SysAdmin, 2010-2011:** Maintained Windows Server, Active Directory, Hyper-V, proxy, and network infrastructure.
+- **Santa Alice Group — SysAdmin (Contractor), 2006-2008:** Maintained Linux and Microsoft servers, firewalls, Active Directory, and proxy services.
+- **e-Future Informatic — Owner, 2002-2008:** Delivered Linux and Windows server administration, network design, installation, support, and maintenance services.
 
-## Public Cloud
+## Additional Skills
 
-| Provide | Basic | Intermediate | Advanced |
-| ------- | ----- | ------------ | -------- |
-| AWS     |       |              | X        |
-| Azure   |       | X            |          |
-| GCP     |       | X            |          |
-
-<!-- AWS:
-
-- ACM, ALB, ASG, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch Logs, CodeDeploy, DynamoDB, EBS, ECR, ECS, EC2, EKS, ElastiCache, ELB, Glacier, IAM, KMS, Lambda, RDS, Route 53, SNS, SQS, S3, VPC.
-
-Azure:
-
-- Virtual Machines, Blob Storage, AKS, SQL Database, Cosmos DB, Service Bus, Data Lake Storage, Functions, App Service, Azure AD.
-
-GCP:
-
-- Compute Engine, Cloud Storage, GKE, Cloud Bigtable, Cloud SQL, Cloud Pub/Sub, BigQuery, Cloud Dataflow, Cloud Functions, Cloud IAM. -->
-
-<!-- ## Virtualization
-
-Hyper-V, IBM PowerVM, KVM, Proxmox, VMware.
-
-## Unified Threat Management
-
-Cisco, Juniper, NetScaler, SonicWall (CSSA, CSSP).
-
-## Methodologies
-
-Agile, ITIL, Kanban, Scrum. -->
-
-## Programming
-
-| Language | Basic | Intermediate | Advanced |
-| -------- | ----- | ------------ | -------- |
-| Bash     |       |              | X        |
-| Python   | X     |              |          |
-| Golang   | X     |              |          |
+- **Cloud:** AWS (advanced); Azure and GCP (intermediate)
+- **Linux and automation:** 20+ years of Linux systems administration; advanced Bash; working knowledge of Python and Go
+- **Virtualization:** Hyper-V, IBM PowerVM, KVM, Proxmox, and VMware
+- **Languages:** English (advanced); Spanish (intermediate)
 
 ## Education
 
-| Field    | University of West Paulista (Unoeste) | Nove de Julho University (Uninove) |
-| -------- | ------------------------------------- | ---------------------------------- |
-| Program  | Information Systems (incomplete)      | Technology in Computer Networks    |
-| Location | Presidente Prudente, Brazil           | Sao Paulo, Brazil                  |
-| Period   | 2004 - 2007                           | Completion: 2017                   |
-
-## Languages
-
-| Language | Basic | Intermediate | Advanced |
-| -------- | ----- | ------------ | -------- |
-| English  |       |              | X        |
-| Spanish  |       | X            |          |
+- **Nove de Julho University (Uninove):** Technology in Computer Networks, completed 2017
+- **University of West Paulista (Unoeste):** Information Systems, 2004-2007 (incomplete)
