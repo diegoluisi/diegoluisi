@@ -27,10 +27,12 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 ## Selected Certifications
 
 - Kubestronaut: Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD), Certified Kubernetes Security Specialist (CKS), Kubernetes and Cloud Native Associate (KCNA), and Kubernetes and Cloud Native Security Associate (KCSA)
-- HashiCorp Certified: Terraform Associate and Vault Associate
-- CNCF ecosystem: Backstage (CBA), Cilium (CCA), Kyverno (KCA), Prometheus (PCA), OpenTelemetry (OTCA), GitOps (CGOA), and Argo (CAPA)
+- HashiCorp Certified: Terraform Associate (003) and Vault Associate (002)
+- CNCF ecosystem: Certified Backstage Associate (CBA), Cilium Certified Associate (CCA), Kyverno Certified Associate (KCA), Prometheus Certified Associate (PCA), OpenTelemetry Certified Associate (OTCA), Certified GitOps Associate (CGOA), and Certified Argo Project Associate (CAPA)
+
+## Selected Training and Badges
+
 - Codefresh: GitOps Enterprise
-- ITIL v3 Foundation
 
 ## Professional Experience
 
@@ -70,7 +72,7 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 ### Dafiti Group (GFG Group) II (São Paulo, Brazil)
 
 **Role:** Platform Engineer (Tech Lead)<br>
-**Period:** Sep 2020 - Jul 2023<br>
+**Period:** Nov 2020 - Apr 2022<br>
 **Industry:** E-commerce
 
 - Served as technical lead for the DevXP initiative, guiding platform standards and cloud-native practices across product teams.
@@ -80,7 +82,7 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 ### C&A Modas do Brasil II (Barueri, Brazil)
 
 **Role:** DevOps Specialist (Tech Lead)<br>
-**Period:** Aug 2019 - Sep 2020<br>
+**Period:** Aug 2019 - Nov 2020<br>
 **Industry:** Retail
 
 - Modernized legacy environments toward containerized microservices with Docker, OpenShift, and Kubernetes.
@@ -89,7 +91,7 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 
 ### Dafiti Group (GFG Group) I (São Paulo, Brazil)
 
-**Role:** Senior DevOps Engineer (Tech Lead)<br>
+**Role:** Senior DevOps Engineer<br>
 **Period:** Oct 2017 - Aug 2019<br>
 **Industry:** E-commerce / Retail
 
@@ -103,7 +105,7 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 **Period:** Set 2014 - Oct 2017<br>
 **Industry:** Retail
 
-- Managed, troubleshot, and automated operations for approximately 900 servers across AIX, Linux (SUSE), and VMware.
+- Managed, troubleshot, and automated operations for approximately 800 servers across AIX, Linux (SUSE), and VMware.
 - Introduced Puppet, Rundeck, Jenkins, GitLab CI, and Salt for configuration and deployment automation.
 - Improved infrastructure governance and consistency with Device42, Centrify, and SUSE Manager.
 
