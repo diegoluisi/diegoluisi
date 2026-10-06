@@ -139,7 +139,7 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 ### Dafiti Group (GFG Group) II (São Paulo, Brazil)
 
 **Role:** Platform Engineer (Tech Lead)<br>
-**Period:** Sep 2020 - Jul 2023<br>
+**Period:** Nov 2020 - Apr 2022<br>
 **Industry:** E-commerce
 
 - Served as technical lead for the DevXP initiative, guiding platform standards and cloud-native practices across product teams.
@@ -149,7 +149,7 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 ### C&A Modas do Brasil II (Barueri, Brazil)
 
 **Role:** DevOps Specialist (Tech Lead)<br>
-**Period:** Aug 2019 - Sep 2020<br>
+**Period:** Aug 2019 - Nov 2020<br>
 **Industry:** Retail
 
 - Modernized legacy environments toward containerized microservices with Docker, OpenShift, and Kubernetes.
@@ -158,7 +158,7 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 
 ### Dafiti Group (GFG Group) I (São Paulo, Brazil)
 
-**Role:** Senior DevOps Engineer (Tech Lead)<br>
+**Role:** Senior DevOps Engineer<br>
 **Period:** Oct 2017 - Aug 2019<br>
 **Industry:** E-commerce / Retail
 
@@ -172,7 +172,7 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 **Period:** Set 2014 - Oct 2017<br>
 **Industry:** Retail
 
-- Managed, troubleshot, and automated operations for approximately 900 servers across AIX, Linux (SUSE), and VMware.
+- Managed, troubleshot, and automated operations for approximately 800 servers across AIX, Linux (SUSE), and VMware.
 - Introduced Puppet, Rundeck, Jenkins, GitLab CI, and Salt for configuration and deployment automation.
 - Improved infrastructure governance and consistency with Device42, Centrify, and SUSE Manager.
 
