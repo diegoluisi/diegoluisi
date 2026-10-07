@@ -51,7 +51,7 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 
 ### Shield Financial Compliance (Lisbon, Portugal)
 
-**Role:** Senior DevOps Engineer
+**Role:** Senior DevOps Engineer<br>
 **Period:** May 2023 - Jun 2024<br>
 **Industry:** Financial Compliance
 
@@ -102,7 +102,7 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 ### C&A Modas do Brasil I (Barueri, Brazil)
 
 **Role:** Senior Linux System Administrator / DevOps Engineer<br>
-**Period:** Set 2014 - Oct 2017<br>
+**Period:** Sep 2014 - Oct 2017<br>
 **Industry:** Retail
 
 - Managed, troubleshot, and automated operations for approximately 800 servers across AIX, Linux (SUSE), and VMware.
