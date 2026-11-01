@@ -68,6 +68,7 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 <img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA: Certified GitOps Associate" width="60" height="60">
+<img src="https://images.credly.com/size/340x340/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob" alt="CNPA: Certified Cloud Native Platform Engineering Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png" alt="CCA: Cilium Certified Associate" width="60" height="60">
@@ -142,9 +143,13 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 **Period:** Nov 2020 - Apr 2022<br>
 **Industry:** E-commerce
 
-- Served as technical lead for the DevXP initiative, guiding platform standards and cloud-native practices across product teams.
-- Standardized EKS infrastructure and GitOps delivery with Terraform, Helm, Argo CD, GitHub, and CircleCI.
-- Expanded shared metrics, logging, and alerting with Prometheus, Grafana, Loki, and Alertmanager, strengthening incident detection and troubleshooting while mentoring engineers in Kubernetes and platform engineering.
+- Served as technical lead for the Developer Experience (DevEx) initiative, defining platform standards and guiding cloud-native adoption across product teams.
+- Implemented an Internal Developer Platform (IDP) with Backstage, providing golden paths and self-service workflows that reduced provisioning lead time from approximately two weeks to under one hour while reducing developers’ cognitive load.
+- Standardized Amazon EKS infrastructure and application delivery using Terraform, Helm, GitHub, and CircleCI, creating reusable configurations and consistent deployment workflows.
+- Implemented Argo CD in a hub-and-spoke model to centralize GitOps delivery across 14 EKS clusters, each running 30–80 nodes.
+- Implemented canary deployments with Argo Rollouts, Istio, and Prometheus, combining progressive traffic routing with metrics-based validation to support safer releases.
+- Established shared metrics, logging, and alerting with Mimir, Prometheus, Grafana, Loki, and Alertmanager, strengthening incident detection and troubleshooting.
+- Mentored engineers in Kubernetes, GitOps, and platform engineering, helping teams adopt self-service capabilities and standardized delivery practices.
 
 ### C&A Modas do Brasil II (Barueri, Brazil)
 

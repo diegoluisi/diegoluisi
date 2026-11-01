@@ -75,9 +75,13 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 **Period:** Nov 2020 - Apr 2022<br>
 **Industry:** E-commerce
 
-- Served as technical lead for the DevXP initiative, guiding platform standards and cloud-native practices across product teams.
-- Standardized EKS infrastructure and GitOps delivery with Terraform, Helm, Argo CD, GitHub, and CircleCI.
-- Expanded shared metrics, logging, and alerting with Prometheus, Grafana, Loki, and Alertmanager, strengthening incident detection and troubleshooting while mentoring engineers in Kubernetes and platform engineering.
+- Served as technical lead for the Developer Experience (DevEx) initiative, defining platform standards and guiding cloud-native adoption across product teams.
+- Implemented an Internal Developer Platform (IDP) with Backstage, providing golden paths and self-service workflows that reduced provisioning lead time from approximately two weeks to under one hour while reducing developers’ cognitive load.
+- Standardized Amazon EKS infrastructure and application delivery using Terraform, Helm, GitHub, and CircleCI, creating reusable configurations and consistent deployment workflows.
+- Implemented Argo CD in a hub-and-spoke model to centralize GitOps delivery across 14 EKS clusters, each running 30–80 nodes.
+- Implemented canary deployments with Argo Rollouts, Istio, and Prometheus, combining progressive traffic routing with metrics-based validation to support safer releases.
+- Established shared metrics, logging, and alerting with Mimir, Prometheus, Grafana, Loki, and Alertmanager, strengthening incident detection and troubleshooting.
+- Mentored engineers in Kubernetes, GitOps, and platform engineering, helping teams adopt self-service capabilities and standardized delivery practices.
 
 ### C&A Modas do Brasil II (Barueri, Brazil)
 
