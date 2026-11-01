@@ -69,8 +69,8 @@
 <img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA: Certified GitOps Associate" width="120" height="120">
-<img src="https://images.credly.com/size/340x340/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob" alt="CNPA: Certified Cloud Native Platform Engineering Associate" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="120" height="120">
+<img src="https://images.credly.com/size/340x340/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob" alt="CNPA: Certified Cloud Native Platform Engineering Associate" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png" alt="CCA: Cilium Certified Associate" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png" alt="ICA: Istio Certified Associate" width="120" height="120">
