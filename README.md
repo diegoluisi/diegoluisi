@@ -57,10 +57,6 @@
 <img src="https://images.credly.com/size/340x340/images/13222796-2aa7-4d17-b2c4-6f2c58e76387/image.png" alt="Isovalent Lab Champion (10 labs)" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png" alt="Fundamentals for Kyverno" width="120" height="120"/> <a>
 <img src="https://images.credly.com/size/340x340/images/e4c38805-e2fd-469c-83fc-8dab303be440/blob" alt="Kubernetes Fundamentals"width="120"height="120"/> <a>
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="120" height="120"/> </a>
-<img src="https://images.credly.com/size/340x340/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob" alt="GitOps Fundamentals" width="120" height="120"/>
-<img src="https://images.credly.com/size/340x340/images/89046afe-b82b-4dc1-9c20-384ea505fd01/blob" alt="GitOps at Scale" width="120" height="120"/>
-<img src="https://images.credly.com/size/340x340/images/7d2c6621-0b7f-46e6-a56b-f69143812011/blob" alt="GitOps Enterprise" width="120" height="120"/>
 <img src="https://images.credly.com/size/340x340/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" alt="LFS169: Introduction to GitOps" width="120" height="120"/> </a>  
 <img src="https://images.credly.com/size/340x340/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="120" height="120"/> </a>  
 <img src="https://images.credly.com/size/340x340/images/6166f9b5-2213-45f5-b7de-ba0e58048d23/blob" alt="LFS144: Introduction to Istio" width="120" height="120"/> </a>  
@@ -69,6 +65,10 @@
 <img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="120" height="120"/> </a>
 <img src="https://images.credly.com/size/340x340/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA: Certified GitOps Associate" width="120" height="120">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90578971" alt="Introduction to Continuous Delivery and GitOps using Argo CD" width="120" height="120"/> </a>
+<img src="https://images.credly.com/size/340x340/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob" alt="GitOps Fundamentals" width="120" height="120"/>
+<img src="https://images.credly.com/size/340x340/images/89046afe-b82b-4dc1-9c20-384ea505fd01/blob" alt="GitOps at Scale" width="120" height="120"/>
+<img src="https://images.credly.com/size/340x340/images/7d2c6621-0b7f-46e6-a56b-f69143812011/blob" alt="GitOps Enterprise" width="120" height="120"/>
 <img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob" alt="CNPA: Certified Cloud Native Platform Engineering Associate" width="120" height="120">
 <img src="https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="120" height="120">
