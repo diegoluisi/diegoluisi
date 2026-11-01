@@ -28,7 +28,7 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 
 - Kubestronaut: Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD), Certified Kubernetes Security Specialist (CKS), Kubernetes and Cloud Native Associate (KCNA), and Kubernetes and Cloud Native Security Associate (KCSA)
 - HashiCorp Certified: Terraform Associate (003) and Vault Associate (002)
-- CNCF ecosystem: Certified Backstage Associate (CBA), Cilium Certified Associate (CCA), Kyverno Certified Associate (KCA), Prometheus Certified Associate (PCA), OpenTelemetry Certified Associate (OTCA), Certified GitOps Associate (CGOA), and Certified Argo Project Associate (CAPA)
+- CNCF ecosystem: Certified Backstage Associate (CBA), Cilium Certified Associate (CCA), Istio Certified Associate (ICA), Kyverno Certified Associate (KCA), Prometheus Certified Associate (PCA), OpenTelemetry Certified Associate (OTCA), Certified GitOps Associate (CGOA), and Certified Argo Project Associate (CAPA)
 
 ## Selected Training and Badges
 
