@@ -68,7 +68,6 @@ Lead Platform Engineer with 20+ years in IT, including 10 years focused on DevOp
 <img src="https://images.credly.com/size/340x340/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="60" height="60"/>
 <img src="https://images.credly.com/size/340x340/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA: Certified GitOps Associate" width="60" height="60">
-<img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob" alt="CNPA: Certified Cloud Native Platform Engineering Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="60" height="60">
 <img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="60" height="60">
